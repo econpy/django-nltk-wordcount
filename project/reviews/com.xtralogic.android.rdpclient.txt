@@ -1,0 +1,840 @@
+Strike---Great App. Just what I needed.--- Was what I needed until the app started checking for market access. My tablet does not have market access.
+Does not allow you to leave audio at host computer like pc version does. Defeats the purpose i bought the app for.
+Its a pain to forward the ports necessary for running this app but it works like a dream when you get it set up.
+Endless possibilities.. works awesome.. wish it had options to select how to connect to a Rdc, existing or secondary sessions..
+Endless possibilities.. works awesome.. wish it had options to select how to connect to a Rdc, existing or secondary sessions..
+Awesome app. Well worth the money. Intuitive controls make Rdp very functional on a phone. Droid x. 3+ mo daily usage so far w/0 issues.
+Wish it had VNC or other methods to connect to the Desktop. I have multiple computers, but only one that supports RDP.
+Superb. I've tried most of the remote desktop apps both on android and iOS and this is easily the best I've used. Galaxy tab.
+Works great! Connection is always fast (even when not on 4G). SD redirection is the best. I would like to see a disable auto-rotate feature. HTC EVO.
+paid for this app but somehow the app still says its not licensed waste of time
+Doesnt work, couldnt refund in fifteen minutes because took longer to find out it didnt work...watchout...
+Failed completly
+Please give the option to disable the keyboard controls that were recently added. They are cumbersome; especially on small screens.
+My previous review was quite positive but since I got a Samsung Galaxy Note, I've been submitting several bug and problems I'm finding on this piece of software, so far the developer didn't get back to me on any of the issues I've raised the I can't use the software any more.  Until the developer fixes the pending issues and learn how to get back to users regarding submitted problems, my review is hold you money back until things get fixed!
+Just purchased this app and it does not work for me accessing an ip address. Trying to get a refund.
+Hard to read what operating systems don't work on my screen.
+Never did connect, no support phone or email address, well there is an email address but it doesn't work.  Waste of money
+I deleted it and bought Pocket Cloud. This app does not work with a bluetooth mouse and can only connect to an ip address, which, in my case, meant I had to set up a vpn connection.
+Installed on amsung Galaxy tab 7.7. Android 3.2. Desktop - Windows 7 Ultimate. App sees PC, but on connection gives repeatedly the message - server disconnected. Chekced accounts - everything is O.K. Deinstalled both from device and from PC  Установил на Samsung Galaxy tab 7.7. На десктоп также установил программу. Видит сервер (rjvgm.nth), но при попытке связи с сервером выдает постоянно ошибку соединения. Так что снес как бесполезную программу
+Since firewall at VPN host network blocks the licence verification, app becomes pretty much useless.
+Relative Mouse doesn't work correct in 4.0.3.  Mouse will move, but when you depress the screen, the cursor jumps to that location... I can't use this at all without relative pointer...
+Says that my version isn't registered half the time. Says that I have to buy it again! Tried everything. Only response I got from the developer was the thank you when they took my money.      Works great when it is running properly.  - J
+no longer working, galaxy nexus, worked fine on droid 1
+Worked great on previous android phones but mouse pointer doesn't move right in Android 4.0
+Could not get to work even tried emailing support and they tried to help but after 2 emails they stopped replying to my emails for help
+i bought this for 23 dollars but will not connect all i get is a timed out conection
+Used successfully for a month. My ISP changed. Requested assistance from dev. Was rudely discounted. Switched to logmein. Much better - simpler.
+Love the XML import! But what is the XML format??
+Bullshit!!!!!!!!! Avoid this application. By the time you figure out you can't use it you can't get a refund. don't get screwed for $25!
+Bullshit!!!!!!!!! Avoid this application. By the time you figure out you can't use it you can't get a refund. don't get screwed for $25!
+Not really what I expected wish it was your on lil personal computer not running off of another computer
+I really like the way this app works, but feel it could benefit from a user defined friendly name for connections instead of an imposed combination of username/target. That would be my 5th star...I use this product on a Xoom tablet to connect to Windows 7 desktops, 2003 R2, and 2008 Data Center servers without any problems.
+Reading the specs of this app, am i correct in saying that any windows 'home editions' this app will not work. If so, this explains no connection.
+I use this app all the time, I'm a systems engineer and have many servers to manage and this allows me to do so from anywhere. Remote Gateway support really sets it apart and makes it so simple to connect to any server in your environment (assuming you have Remote Gateway of course). For IT pros this is an amazing tool. Totally worth the money.
+Worked great the first day. Now times out every 5-10 seconds. Support address doesn't work. I have a xoom.
+Worthless, wasted $25 spent hours configuring, with no luck... DownloadEd pocket cloud for FREE, took 5 minutes to set up. THEY ARE OVERCHARGING YOU!
+Total crap. I found phonemypc to be far superior. Sorry guys this was too complicated for me. I also didnt like how it shut off access to pc.
+Worked great on my g1. Now it never finds my pc with my g2. Hopefully an update soon will fix =(
+Best rdp app in the market period. User error if you can't get it to work not devs fault.
+Best rdp app in the market period. User error if you can't get it to work not devs fault.
+Best rdp app in the market period. User error if you can't get it to work not devs fault.
+Do not buy this if you have a bt home hub. You cannot port forward on these and the support from xtralogic is none. Now using wyse cloud:=)
+After only a couple pflege days I became completely reliant on this. Only flaw is that it doesn't work with names - needs IP address of server
+Very good for advanced users. teamviewer is out now though and i will prob never use it again.
+Does not function HTC EVO connecting to win7 professional with proper port forwarding setup and RDC settings set.
+The app is cool and rdp gateway is good feature. Mouse/screen control and clicking is really bad.
+Spent over an hour reading instructions and trying to connect to my PC. And yet not luck! Its to complicated for simple use, PhoneMyPC is way better!
+I can't connect on windows 7 ultimate x64 and windows server 2008 R2 x64 via 3g with wifi its working ok. They aren't responding to my emails.Very bad
+No complaints here this app works perfect on my windows Vista ultimate. Using a Sprint EVO 4G. Check router settings for those having trouble connect
+The best remote desktop app out there. Very fast and works everytime. If you know what your doing this will help you login to servers with ease. Droid
+Doesn't work on a samsung epic and no support response to resolve issue. Get the free pocketcloud instead it works just fine
+Program was alright but interface should be better.. refunded app but never got money back!! That's $20.....
+Requires some digging around on Google searches to configure things, especially if you do not have a professional edition of windows.
+Best remote access app. Forward RDP port on your router, job done. Just put ip addy in and it works. Perfect.
+Amazing speed & control..best rdp app i've seen..works over vpn,internet, or local perfectly
+This program is hard to install and getting help was not easy. They kept telling me to read the step by step guide No help. Now phonemypc *****Stars
+Nice idea, but doesn't work for me. No diagnostics to figure out what is wrong.
+Perfect on moto droid! I already had RDP going via winxp between home and office(router settings, firewall,etc). Took less than 2 min to start workin
+Novice to remote desktop clients. 18 dollars and no simple screen shot walk through on developers page?
+This application is excellent. Works on local network and via dynamic DNS on internet for my setup. Droid.
+Im moderately skillied at using computers but had a very hard time setting this up. It was worth all the effort! This app is one of the greats!
+Much too complicated i will not do all that fancy port forwarding business phonemypc is 10x better, this is just an expensive vlc thing
+can't log into my system. extra spaces inserted between characters. Makes typing passwords impossible
+Constantly freezes at login on,windows 8 :(
+Good software but keeps saying its not licensed and i cant use it. Always happens at a critical time. Totally unreliable for the price. Do not recommend.
+Not really what I expected wish it was your on lil personal computer not running off of another computer
+Absolutely fantastic except it crashes with any keypress from a bluetooth keyboard- real shame as it's the only one that works with a gateway...
+Strike---Great App. Just what I needed.--- Was what I needed until the app started checking for market access. My tablet does not have market access.
+Running on HTC Eco, works like a champ! Connecting to boxes running Win 7 (all flavors), Win 2008 servers, Win Home server. Locally and over the 'net.
+Not bad but overpriced and no 2 finger scrolling - hate to say it but jaadu rdp on iPhone is MUCH better.
+Love this app! Easy to use, stable, and works great on my Samsung Captivate without physical keyboard. Love it.
+Get login screen;keeps erroring with "connection reset by peer" via wifi & 3G. RDP works from desktop and iPad apps, but not with this app :( droid 2
+please create basic standard help file w/ instructions to fix connection error issues. will not connect via 3G. only wifi works. motorola droid 2.2.
+Videos play so slow htc hd2 windows remote can play movies on media player fast and its free
+I really need a walkthrough on the set up trying to use it with XP professional. All it does is say waiting to connect. Help
+Perfect on moto droid! I already had RDP going via winxp between home and office(router settings, firewall,etc). Took less than 2 min to start workin
+I feel bad becuase i couldnt get it to connect. Im always on the road, and it wouldve been great to work on the road.
+Best app out there for the android market no other rdp comes close, worth every penny, fast respone , 5 star app , most productive app ever used
+Only work on wifi or 3g wich is stupid bc only 10% of america has 3g and I have a hard time get it connect and showing my desk top.Check ur os versio
+I used this app for many years, but now that I have an Evo LTE the movement of the mouse doesn't work.  I have to try and carefully touch the exact spot to get the curser to click on it.  Very annoying..please fix.
+Mouse doesn't move on Galaxy S3. Although it can be tapped to a location, it doesn't flow across screen.
+i love the program but i may be forced to go with logmein since they support dual monitors
+I am no longer able to control RDP with one hand, two finger scroll replaced the left side scrolling, would be nice to keep that as an option
+Big problem with keyboard. Unable to type easily in session
+all these retards having trouble doesnt know anything about rdp.
+As others have stated, the touch pad mouse is broken with Android 4.0. Very disappointed as I just bought am ICS tablet
+The software seems to work well and supports SSL, which our campus requires for RDP, but there are two major problems with it on my eeePad Transformer Prime - one, the screen spits and hiccups, almost looking like brief static, where some of the lines of the display will shift suddenly to the side for a moment, then back. The other problem is that the trackpad feature doesn't work right while the connection is running. If I drop out to another app, the mouse pointer is absolutely missing from the screen. Fix those issues and this is pretty perfect!
+The interface is better than LogMeIn. But if you are behind workplace or university firewall(s) it is much behind LogMeIn unfortunately...
+Guys, PLEASE FIX the click-and-drag functionality. Other RDP apps have implemented this fine, without extra clicks. One my Transformer, a simple click-and-drag takes 3 fast clicks plus hold - external mouse is also tricky. Aside from that, perfect app!
+When vpn'ing in (which breaks my internet routing) the app refuses to run because it wants to check the market license.
+My question is why would any typical user want to pay $25 for this app when TeamViewer is FREE and much easier to use?
+Could not get this to work first of all, no support reply at all. Have to set up vpn on phone first then open this rdc program, works treat now.
+The program works well but the licensing issue is horrible. I use this for work so havi to shut down what I'm doing to go verify the license is a pain
+Not working on the Galaxy Tab. Complains its not licensed for use. Great on my Desire.
+The app is cool and rdp gateway is good feature. Mouse/screen control and clicking is really bad.
+Super cool and efficient. Would be even better if we could move it to sdcard
+Keyboard doesn't work correctly one rdp into server. Special characters and capital letters are not consistant with droidx.
+Why is this update telling me i had a refund and need to buy again !?
+Awesome app! Remote desktop from my Droid works perfectly! Needs two features: RDP gateway access and vert/horiz scroll sections in touchpad mode.
+Install is drivin nuts too..the sounds is not coming out of devise but out of my PC..
+I would love to make it work, but install drove me nuts. I'm an idiot though, so it's probably just me
+speed is good. but the problem is that there is no sound. it appears that the remote sound device is not sppported. this is win 7 host.
+I keep getting "socket not connected" not sure what to do here pls help bsmith12@brophybroncos.org
+Won't connect? No instructions how to setup. I'm very comp literate. Would love if worked. What I do wrong? G1
+Works but slow and has hanged a few times - maybe network connection. Need more testing.
+Unbelievable how usable this is on a mobile device. Works perfectly on a Droid to connect to Windows Server 2008 R2.
+I have no complaints. Connected straight away with my Droid. This will be fantastic for remote admin.
+I went back and re configured my system & now it's working again. Better tech support would be helpful though.
+Doesn't require any additional software. Truly uses rdp.
+Does everything I want from an rdp client including touch pad support for the transformer dock. Would like to be able to create groups of connections tho. The list gets quite long...
+Awesome app but it will not allow me to log in with my new EVO LTE
+I'm using simple connect & keeps saying server closed connection when I use 3g on my tablet. Seems like it only works when I use WiFi. I'm trying to connect on my HTC EVO view 4g tablet.
+Adding a client side tool to allow easier setup for WAN access is a natural evolution.  Would like to GPU access so thatvgames become possible.
+Love the app, works great with a mobile. 4* because, the app will intermittently try to check it's licence, normally not a problem, but I use this app for work only, so I need to use a VPN that requires a proxy for Internet connectivity, so while I am using the rdp it will disconnect me because my work VPN will not allow Internet connectivity so the app cannot check it's licence. Please allow manual licence checks first so I  can  use the app for work once I have vpn'd in. But superb otherwise.
+Not bad. Works good for the most part. RD Gateway support is great. 32-bit color support is broken. Needs support for RemoteFX/RDP 7.1
+Works wonderfully. Wish it had VNC support then it would be perfect!
+all these retards having trouble doesnt know anything about rdp.
+Really loved this app. If the issues with the touchpad are resolved with ICS then it would easily get the full 5 stars.
+I first tried the trial version to see if I got it to work. Fiddling around with the ports on my router to access my computer in a LAN via port 3389 (default port for windows remote desktop) made the application work like a breeze. I like the touchpad mode where you can carefully move the mouse pointer anywhere you want. After that I paid for the full version, although a bit pricey, it simply works! I wish it also would have the opportunity to transfer files, similar as in RADMIN. That would make the application perfect...
+Only reason it isn't 5 stars is because Outlook and Excel in ms office 2003 do not display correctly.
+I have been having problems with errors about licensing. Seems to be intermittent, but support ignores emails I send them about it.
+Anybody help me please!! How to set it up because it always says unresolved ip adress and how can I get the ip adress
+On HTC Desire have 'mouse' button. How do you move windows on latest batch of Android devices without? Excellent software
+exelent program
+Great app, works great both on phones (desire z) and tablets (xoom). Could be cheapier though.
+Very intuitive!
+4 stars for price & trouble w/ a character in one password. Tried other free/less expensive solutions but keep coming back.
+This client works where others dont. The TS Gateway option works better than any others out there. It is stil in need of a little polishing though, its not as refined as Wyse (mouse / keyboard function is not perfect, keyboard entry is cached then sent all at once when you hit enter-- messes up web forms.) and you cant edit some settings for a connection once youve made them. These items and the very excessive cost prevent a 5th star. Would have overlooked minor issues if it was $15 or less.
+Works well with our locked down GPOs. Only issue: typing shifted & alt characters w/ the droid 2 keyboard (have to use the on screen keyboard instead)
+Works very good using remote gateway services. Bugs in google's implementation of vpn may prevent connections using that methodology. N1/rooted nook
+Not working with the latest version of swype keyboard... other than that it's perfect.
+Need a 1280x800 resolution for tablets. Otherwise, this is perfect. Offers a means to connect via Terminal Services Gateway, run app on startup, and I love the option to use it as a mousepad or a pointer (bluetooth mouse). 4.8 stars, 5 stars if they add that tablet resolution!
+Bloody awesome app. The best RDP client for Android. Can't fault it. SE X10 2.2.1 Worth every penny. Five stars.
+Works great on vzw 4G LTE. Click drag takes some getting used to. Also, can't access the settings menu while connected. Otherwise an excellent product
+Only 4 stars because it dooes not support the shift and ctrl keys on the xoom keyboard, but it does give alternative methods to use the keys, but perfect besides that.. awesome job..
+If phone goes to sleep connection is lost. If a file copy is being performed connection will interrupt and abort the copy. Should be able to continue
+I really like the way this app works, but feel it could benefit from a user defined friendly name for connections instead of an imposed combination of username/target. That would be my 5th star...I use this product on a Xoom tablet to connect to Windows 7 desktops, 2003 R2, and 2008 Data Center servers without any problems.
+Reading the specs of this app, am i correct in saying that any windows 'home editions' this app will not work. If so, this explains no connection.
+excellent. would be five stars, if it ran in background, and if it did not minimize my windows, when it connects.
+Its a pain to forward the ports necessary for running this app but it works like a dream when you get it set up.
+Allmost perfect! Mouse movement and control will require a little practice, reckon about 1 day.
+Very good for advanced users. teamviewer is out now though and i will prob never use it again.
+Great app, even able to use the Evo's vpn feature and then use app to remote to any desktop, great via Wifi super fast and easy to use
+Works great! Connection is always fast (even when not on 4G). SD redirection is the best. I would like to see a disable auto-rotate feature. HTC EVO.
+not easy to set up for n00bs but the best remote desktop app ive used! worth every penny for sure!
+I can't connect on windows 7 ultimate x64 and windows server 2008 R2 x64 via 3g with wifi its working ok. They aren't responding to my emails.Very bad
+Wasn't sure if this would work like gotomypc but it does. Takes a little practice to get use to what you can do on screen. Still learning the basics.
+Does exactly what i want let's me control my windows 7 comp from anywhere. Make sure you have a Pro or Ultimate, wont work on Home without a patch.
+Love this app! Easy to use, stable, and works great on my Samsung Captivate without physical keyboard. Love it.
+Love this app! Easy to use, stable, and works great on my Samsung Captivate without physical keyboard. Love it.
+After extensive testing, this app is the best I found! Brilliant implementation of touchpad and screen scrolling with inertia. Highly recommended!
+An absolutely amazing application! I manage several of our servers perfecfly from this while out of the office or away from home! Worth every penny!
+Expensive but does what it says on the tin.! I use it for after hours server admin...
+Very impressed. Actually quite a handy gizmo despite the desktop size limitations of a smart phone
+please create basic standard help file w/ instructions to fix connection error issues. will not connect via 3G. only wifi works. motorola droid 2.2.
+Excellent and worthwhile paying for would give a five If wake on lan was included as an option.
+Okay, but does NOT multitask on Motor Droid. Your screen times out,disconnects, phone rings, disconnects, try to switch to another program, disconnect
+Update adds TS Gateway support. Hands down best app on Android. App is very pricey though.
+$20 is a small price to pay to be able to easily log into my home pc or server from my phone. This app is easy to get used to and easy to use
+Great app, works seamlessly. One thing id like to see would be the ability to set a port so i could access multiple computers on my network.
+Outstanding app. High price, but ultimately indispensible and worth it to this sysadmin. Evo.
+Awesome app! Remote desktop from my Droid works perfectly! Needs two features: RDP gateway access and vert/horiz scroll sections in touchpad mode.
+Awesome app! Remote desktop from my Droid works perfectly! Needs two features: RDP gateway access and vert/horiz scroll sections in touchpad mode.
+I almost dumped this app. VPN'ed but RDP login screen was only partially showing. Disabled touchpad mode and everything works great now. Minor bug.
+very nice, seems to suite touch pad users. Which I like. works great on a Dell streak
+Program works as advertised. However, not easy to set up. I had to hire someone to configure my router/network. Support is nonexistent.
+Too laggy for me and the PC I needed to get to, no fault of the software. Overall very good, but didn't work out for me
+Does everything I need as an IT admin. Great app. Overpriced or would get a 5.
+Useful app. Responsive Dev. If you run windows, this is a must have. Pinch to zoom could use a little work. Might be hw limitations... N1
+Good app, but can't see how to activate the pinch/zoom. I am using HTC Hero.
+Anything I can't do on my droid I can from my remote desktop. My number 1 app!
+Anything I can't do on my droid I can from my remote desktop. My number 1 app!
+setup is not easy but once you figure it out it works flawlessly i would definitely recommend this 2 ip people and the traveling businessman like myse
+Just installed on HTC HERO. Works exactly as advertised. A very neat piece of kit! Now I just need to find some real world use for it!
+Great app. Worth the price if ur an IT guy. Stable. I didnt realize it auto scrolled. Took me a bit to figure it out. A demo video would b nice.
+So far so good. Controls work great. Stable app. Worth the money if it saves u a half Hour trip just one time.
+Well worth the price. Easy navigation, great mouse control, numerous connection options, even redirects your sd card. Using on moto droid.
+I was able to rdp into my machine and quickly fix a website all through my phones 3g connection. Absolutely fabulous software! (Eris droid)
+Amazing. Access of server and apps with the droid! Could use a manual on cursor use though.
+Excellent client. Looks great, easy to use. Love the touchscreen-as-touchpad, very intuitive. My only complaint would be that I can't right-click.
+Absolutely brilliant app, best of all the ones i have tried by far. Cant live without touchpad mouse control now that i have gotten used to it. Could use a little GUI refinement for large screen devices. My main requests would be an onscreen button to access the keyboard and a way of emulating a scroll wheel. Top quality, if I could pay for it again I would.
+Works well.
+paid for this app but somehow the app still says its not licensed waste of time
+Very good app... work great at any device like SGS 2, 3, NOTE, TAB 8.9, XPERIA RAY, HTC EVO 3D, HTC SENSATION XE.. worthed to buy this app.
+This great app works very much like the desktop version. Recently made even better with the new gestures, especially the two finger scrolling.
+This is exactly what I was looking for. Easy to use and work with.
+I tried the others also.  This is the one that works best for me.
+I tried the others also.  This is the one that works best for me.
+This app is worth every penny. As lame as it sounds, this app gets the most use on my phone and I absolutely would not waste my time with any RDP client. The only complaint I have is sometimes I cannot enter ! or ? into VMware windows. The single keystroke is translated into many repeating ones.
+Worth the money. Speech to text even works! Droid RAZR ICS.
+Easy to handle and is a powerful app. Smooth too. Thank you for making this app!
+First rated it at 3 stars because it would not connect over VPN: could not get to Google Play to validate the license. Just heard back from their support (which was extremely fast!) that if I attempt to RDP without the VPN, it will fail, but validate the license and retain the validation for 7 days. This sealed the deal! Love it now! And it is resizing the screen for my Transformer Prime 201, which PocketCloud does not... And takes my docking mouse seriously, unlike the PocketCloud... Good job guys!
+I frequently RDP over an SSH port forward to my work pc and this works fantastically
+Best RDP client on Android. I've tried the alternatives, this is the best. The price is steep but I got around to it eventually. It's worth it.
+I've been using this app since bought my Hero in 09...the evo and Now using evo lte and the app still awes my friends compared to the cheap and free alternatives.. Good job u guys..u deserve every penny the app has brought you.. This is worth the $
+The local password security on the device is a nice touch.  The speed, zoom feature, screen orientation change....love this app. Thanks guys!
+I've recommended this RDP client to many friends as its full featured and requires no 3rd party software!
+This is how software is supposed to work! Intuitive and mature.
+I have tried several other rdp clients and this 1 is by far the best
+Been using this for almost two years now. Works as intended and very easy to navigate. Worth the price
+Does what it's supposed to do!   What kind of external keyboard or mouse could be used with a Samsung Galaxy S? Please email
+I have been using this app for about a year it is by far the best remote desktop app I have found.
+Working a treat.
+Works great.  Even vdi support. :)
+I really like this app. it works fast and i haven't seen any bugs. and it is so easy to use.
+Flaw-free completely satisfied
+The addition of multi-touch gestured just secured this as the best rdp software on Android.
+This is my lifeline to work, and it performance beautifully.
+Use it daily on a Droid Maxx
+With this and an external Bluetooth keyboard and mouse I now have a fully functioning computer with me that lasts way longer than my laptop could dream up. The other rdp programs don't make a splash compared to this....smile
+Really? Approved.
+this is worth every penny :)
+This app is the best purchase i have ever made
+Works exactly as expected. The multi touch zoom is a God  send. Use regularly when on the normal mobile network and the responsiveness is fantastic.
+This app is first class and the most used app for my tablet.  I can only recommend it's purchase.  The app receives regular updates, constantly improving functionality and works perfectly with windows 7 and 8.  The price tag might seem high compared with other apps but it is, frankly, a bargain for what this app provides in terms of extending the use of a tablet.  Massive thanks to the developers for a great product, keep up the good work folks.
+Awesome work on this app.  Worth every penny
+Thank you! Two finger scrolling makes this amazing app just epic!
+An excellent RDP application that has been continuously updated and improved since I bought over a year ago.
+Best ever RDP client for Android.
+Works great!
+.....of how much I love and rely on this stellar app.  I wish I could have got it at 40% off....=)  Buy this now!
+One of the first apps I put on my Tab a couple of years ago and still one of the best. Highly recommended.
+I was thinking that this apps would waste my money.. It turns out I was wrong... This apps is the best apps I ever bought to my device. You won't regret it
+Never had a minute's trouble out of this app.  It's easy to set up and use.
+Honestly, what other app can do what this does, USING NATIVE RDP, and not requiring done other dumb client? It works, it's clean. For IT professionals it's a small price to pay
+If you do need a good RDP, then this is the one.  I had tried several others including Imperio by Mobisoft but this one is the only one which worked correctly
+Enough said  works just as well as micro$oft's rdp client
+Brilliant - used trial version for about 30 minutes before deciding to buy full version.  Connects quicker than PC rdp clients.  Streets ahead of others I've tried.   Thanks.
+SAMSUNG Galaxy Tab 10.1 Worth every cent. Works perfect with TS-Gateway SSL and supports international keyboards. Performance is really fast on 3G.
+Have used this for some time and highly recommend.
+Best RDP app for IT professionals! Only 4 stars because I paid $25 here then found out they have it for $19 on their website...not cool.
+I have tried ALL the rdp programs and none of them made a splash (smile) like this. Its easy it works no problem every time.  Now with bluetooth support for external mice and my bluetooth keyboard case it's like I am carrying around my desktop!!!!!   My xoom get about 8 hours so it's better than any laptop or netbook
+I've been using this nearly 2 years now. When on-the-go, it's a huge time-saver!
+Verry good
+Love this. Been using it since my Droid 2: worked great on that, and it works great on my Galaxy Nexus as well. I can't even remember what it cost but it was well worth it.
+Really happy with recent improvements. The double click bug was a nice one to iron out.
+Really happy with recent improvements. The double click bug was a nice one to iron out.
+Works perfectly with all my win 7 computers and using the gateway at work
+This app is so worth the $ , easy to use , flawlessly, EVO , Vista
+Connects fast on 3G. No disconnects. Liking it a lot.
+Excellent mouse interface for 100% accuracy. By far the best remote desktop app for Android. Well worth the money.
+Thank you for fixing the ICS issue! Awesome active Dev shows how it's done!
+One of the most useful apps out there.
+This app has never given me a problem , and now with the easy connect I can be done setting up before the thing is done downloding.
+Excellent now with track pad fix.
+all these retards having trouble doesnt know anything about rdp.
+Does what It says...
+Love this app, it's great! However, when using it with the ASUS Transformer + external mouse and keyboard, the mouse is not hot-tracked...Apparently other Android RDP apps support this. It would be great if it was added, enabling my tablet to act like a true netbook! Also would be awesome to be able to remap the BACK button to right-click (Android mouse right-click is mapped to Android back function currently)
+I have tried Pocket Cloud, Logmein and a few others and this is by far the best.
+This is clearly the best (of 3) I have used, better screen resolution handling and far more productive / efficient to emulate  mouse controls
+Awesome from the start. Best RDP app.
+Works great until I got the galaxy nexus. It crashes out on android 4.0. Ics support soon, please!!! Then I'll bump it back up to the 5 stars it diserves.
+I tried both this and PocketCloud's RDC and the main selling point for me was this one has touchpad mode! It might not seem like a big deal, but for a small phone screen it can mean a world of difference. Also, I thought the CredSSP (NLA) wasn't working, but I sent an email and got a quick response from Sergey, who solved my problem with a simple setting in the advanced tab of my server details. All I had to do was change my security layer to Negotiate and everything was fine. Sergey responded to just now, saying he should probably rename Negotiate to "TLS with NLA", so we can probably expect to see that change relatively soon. Great product! Thanks, Sergey :)
+I've had this app since the original Droid came out and am now using it on the Samsung Galaxy Nexus. It is nothing short of amazing!
+Works very well on my droid2.
+Very well made and reliable client. Never had any problems running it, even over a 3G VPN.
+Great
+Works terrific. I use Samsung Note to remotely manage a 2008 foundation server. Over SSL!!
+Awesome app. Does all I wanted and more. Has SSL but use an SSH or VPN for added security. Worth every penny. Keep in mind that if you Swype turn off the option to auto space. It causes a space to be inserted after every letter. Samsung GS2
+My initial eval was unfair. It was a MS issue. Resolved it, works great.
+Simply I like it
+Very smooth and seamless connectivity especially over VPN, and love the SD card directory. Didn't have to establish a separate FTP connection to retrieve files.
+Was fine in trail, but now when I type I get added Characters I didn't press, when typing in my password on my remote server app. I am having to use windows keyboard... Help
+Would recommend to everyone
+Bought this a long time ago for my Droid X. It worked great then, but works AWESOMELY on my new Droid RAZR over 3G, 4G, and WiFi. Pinch zoom, audio, sd card mounting, copy/paste... just like RDP between your PCs! Of course, there are some limitations. The screen does not refresh very fast so you can forget about videos, flash, or other animations with a high refresh rate. This app is by far superior to all of the free apps promising to do something similar. All you need is bandwidth ;o)  I have just one request: make this work on my Google TV!
+Rediculously useful app. Works great over mobile networks and a great interface. Well worth the money.
+Used to burn through battery on my GNex. Now it is great. Negligible impact in battery now. Even when used at length. Powerful app.
+Perfect!
+Best RDC app out there, period. Dev very responsive as well.
+Excellent only.wish I could stream video and over WiFi I can sometimes stream itunes for a while before getting rdp security errors
+Best remote desktop tool I have tried and I tried them all worth the $24.95 no issues yet. Highly recommend
+It works as expected with Windows 7.
+Kitűnő program,a legjobb amit eddig használtam!Nagyon szép a grafikája,felbontása!Stabil,gyors,megbízható!Csak ajánlani tudom!
+The best remote desktop software outthere. I tried 8 others.
+Simply brilliant. Love the RDP gateway capability. Very productive and useable on my desire HD.
+The trackpad feature makes this worth every penny.
+Excellent rdp app. I like the presence of a mouse cursor rather than all touch
+This is the best remote app I've seen. Hands down. It works just like Remote Desktop Client for Windows, and seems even faster. Unlike most other remote apps in the market, it doesn't require that you install anything on your PC (except of course you must have remote access enabled in Windows). Yes, it is expensive, relative to other mobile apps. But it IS worth it, especially if you have a tablet. During the 6 months or so I've been using it, the developer has updated it frequently.
+Excellent app for on the road admins or remote workers. Bundled with a good tablet and keyboard like the asus transformer, it is practically perfect.
+I'm using this app daily to RDP to my home on my driod charge and I really love it.
+This is by far the best rdp app available, on the android and iphone platform (thanks to moto droids hw keyboard)
+The best mobile rdc client i've used, ever! Truly awesome! Fast support from developer. Excellent value.
+Its pricey but you get what you pay for. Was at lunch one day and restored a crashed database from backup from panera bread. My boss paid for the app. Lol
+Used over 3g vpn via chaps - awesome!
+Only application so far that can RDP to Windows 8. The mouse function is just awesome on my Galaxy Tab 10.1.
+Best remore desktop app for Android, fast & all ok.  Sometimes, when an update is available, I get download denied.
+Good interface, clear and easy to set up, strong set of pro features. Great idea using screen as a track pad.
+Get this app its one of the best remote control / vnc apps. I keep discovering new features that I needed!
+Perfect rdp app
+Works flawlessly :D wish i didn't have to hold shift or alt to enter things with droid 2 keyboard, though.
+I like the app. Quite reliable. More reliable than my office server!
+I like the app. Quite reliable. More reliable than my office server!
+Screen scroll w mouse is great and natural nav a breeze! Mouse is super easy, double tap & drag, rt click - press and hold 2 sec.
+Works great, I'm a network admin so it comes in very handy. I use it on both my Droid Incredible and Motorola Xoom.
+Best RDP client I've used on Droid
+Love the ease of use.
+Cracking program, best of its kind on market. Support excellent, can't be failed. Contacted them about server redirection problems, now fixed!
+Greatest thing ever next to sliced bread.
+The best app ever
+Love this app when I had motorola droid. Now with droid 3, it seems to work just as well. No fuss no nonsense app. Just works.
+Love this app when I had motorola droid. Now with droid 3, it seems to work just as well. No fuss no nonsense app. Just works.
+Excellent product, great step-by-step instructions, and really quick response to queries. Good job.
+Very intuitive!
+Title says it all!
+Love being able to access work with my tablet
+Love the XML import! But what is the XML format??
+Love the XML import! But what is the XML format??
+Love the XML import! But what is the XML format??
+Works perfectly and has done since purchased a months ago. Hopefully you will release dn iPhone version too
+Perfect technical support, best business app ever! Love the support for Asus Transformer too. Thanks.
+Perfect technical support, best business app ever! Love the support for Asus Transformer too. Thanks.
+Probably the best rdp app for android. More expensive than most others, but is well worth it. Has more than paid for itself already.
+I was even able to run and view WoW. I couldn't interact with the game but being able to see and hear it was very impressive.
+I was incredibly impressed with the trial version, and shortly after purchased the real version. I am insanely happy with the performance of this app, and every single penny was worth it. Great job Xtralogic! Great job! Please note that this application is ONLY for Windows Remote Desktops, so if you are not familiar with that term, then it is highly likely that this application will not work for you.
+The best functioning and supported RDP app on the market. Don't be scared by the cost. You're not just paying for an app, you're paying for support and updates. It pays for itself in billable hours!
+Fantastic app works great and connects faster from my Nook Color than my $5000 Dell M4500. However it is a little slower navigating once connected. 5*
+Great app, handles TS Gateway better than the iTap iphone and android. This more expensive but definately worth it.
+Perfect remote desktop features. Secure, customisable and importantly the best interface with trackpad style control. Even allows file transfer from device SD storage! Worth the price without a doubt!
+Perfect remote desktop features. Secure, customisable and importantly the best interface with trackpad style control. Even allows file transfer from device SD storage! Worth the price without a doubt!
+Perfect remote desktop features. Secure, customisable and importantly the best interface with trackpad style control. Even allows file transfer from device SD storage! Worth the price without a doubt!
+Works very good using remote gateway services. Bugs in google's implementation of vpn may prevent connections using that methodology. N1/rooted nook
+My personal phone runs Android and my work phone an iPhone. I use this on my personal phone daily in IT over any of the (by comparison) crap on the iPhone. This is the best RDP app on either platform and well worth the money.
+Not really what I expected wish it was your on lil personal computer not running off of another computer
+Worth every penny. No IT pro should be without it. 4 monthes. Not a glitch. Used daily multiple times.
+Worth every penny. No IT pro should be without it. 4 monthes. Not a glitch. Used daily multiple times.
+Absolutely perfect. I access my cloud server multiple times every day with this and it works perfect! Droid and Xoom.
+A great app, very simple to use and does everything you would expect a RDP client to do.
+A great app, very simple to use and does everything you would expect a RDP client to do.
+Need a 1280x800 resolution for tablets. Otherwise, this is perfect. Offers a means to connect via Terminal Services Gateway, run app on startup, and I love the option to use it as a mousepad or a pointer (bluetooth mouse). 4.8 stars, 5 stars if they add that tablet resolution!
+Bloody awesome app. The best RDP client for Android. Can't fault it. SE X10 2.2.1 Worth every penny. Five stars.
+EVO 4g. The performance & interface of this product are both top-notch. Can't recommend highly enough. Setup was moderate, directions are excellent.
+Works nicely. I prefer it over the Wyse app. as it doesn't change the host's screen resolution.
+Works great on vzw 4G LTE. Click drag takes some getting used to. Also, can't access the settings menu while connected. Otherwise an excellent product
+Does what it says and even lets me use my networked printer.
+Does what it says and even lets me use my networked printer.
+Does what it says and even lets me use my networked printer.
+Truly superb. My Htc desire z is made for this sort of thing.can connect to clients servers for quick fixes. Upload docs from my server easy. Great
+terrific application, works just like the remote desktop on my laptop computer, improves my android phone's connectivity dramatically
+This is the best RDP app I've used... have been running on Droid for a long time without issues and now running on the Xoom. I am running 3.1 and have it paired/connected to a bluetooth keyboard and mouse -- keyboard/mouse work in Android 3.1 without issues, however, I would !LOVE! to see Remote Desktop Client support the use of external keyboard and mouse (in addition to the touch, etc.).
+Only 4 stars because it dooes not support the shift and ctrl keys on the xoom keyboard, but it does give alternative methods to use the keys, but perfect besides that.. awesome job..
+Only 4 stars because it dooes not support the shift and ctrl keys on the xoom keyboard, but it does give alternative methods to use the keys, but perfect besides that.. awesome job..
+Only 4 stars because it dooes not support the shift and ctrl keys on the xoom keyboard, but it does give alternative methods to use the keys, but perfect besides that.. awesome job..
+Only 4 stars because it dooes not support the shift and ctrl keys on the xoom keyboard, but it does give alternative methods to use the keys, but perfect besides that.. awesome job..
+Apps works really good on 3g connection with my windows 7· problem is only entering text on remote desktop as keyboard doesnot popup on it`s own.
+This app is one of a kind with rd gateway support.Controls are a little different, but it works great. only con is the price - but you pay for quality
+Very good software indeed. I have used this for years and never had any issues!
+Very good software indeed. I have used this for years and never had any issues!
+Does not work for me but the prompt response and reimbursement of my purchase deserves a 5 star customer support
+Awesome app! Took the time to finally read the instructions to set it up and it's saweeeet!
+This is SO Awesome!! There support is very helpful too if you have problems (I had issues with VPN but they fixed it)! If you RDP this is the app!
+Absolutely fantastic except it crashes with any keypress from a bluetooth keyboard- real shame as it's the only one that works with a gateway...
+I really like the way this app works, but feel it could benefit from a user defined friendly name for connections instead of an imposed combination of username/target. That would be my 5th star...I use this product on a Xoom tablet to connect to Windows 7 desktops, 2003 R2, and 2008 Data Center servers without any problems.
+I have a Xoom wifi and windows 7 and it works flawlessly. I was able to use programs normally not available through rdp. Teamspeak 3 (I could hear but it did not recognize Xoom mic... but still worked), Eve-online, ST:O (was choppy, but ran which is an improvement), exchange mail, web, photoshop ... all worked great. Considering getting bt keyboard for this app alone.
+It works great on my droid x and even better on my Xoom. but I dont know why it does not show under Tablet apps in the Market. I wish I could reply to some comments like the guy saying it does not work under VPN, know your technology, before you start writing reviews acting like you know what you are talking about.
+Reading the specs of this app, am i correct in saying that any windows 'home editions' this app will not work. If so, this explains no connection.
+I use this app all the time, I'm a systems engineer and have many servers to manage and this allows me to do so from anywhere. Remote Gateway support really sets it apart and makes it so simple to connect to any server in your environment (assuming you have Remote Gateway of course). For IT pros this is an amazing tool. Totally worth the money.
+I use this app all the time, I'm a systems engineer and have many servers to manage and this allows me to do so from anywhere. Remote Gateway support really sets it apart and makes it so simple to connect to any server in your environment (assuming you have Remote Gateway of course). For IT pros this is an amazing tool. Totally worth the money.
+I can't believe how much hassle this saves me every day.... I use it ALL THE TIME! Works like a charm!
+I initially felt this was expensive but the amount I'm using it, it has paid for itself many times over. Awesome productivity app
+I initially felt this was expensive but the amount I'm using it, it has paid for itself many times over. Awesome productivity app
+I have been looking for an Ap that does what Remote Desktop does. I have had no connection problems. Just like being on the pc! In mini...
+This is probably the best application I have downloaded. Worth every penny. Excellent work.
+Worthless, wasted $25 spent hours configuring, with no luck... DownloadEd pocket cloud for FREE, took 5 minutes to set up. THEY ARE OVERCHARGING YOU!
+Awesome awesome app. My verizon router already had the preset for the port fowarding. From there does what it says to a T. Worth it.
+Excellent app! Works perfectly and is simple to set up if you're familiar with RDP. Not for everyone but IT folks will love it. Droid X
+Strike---Great App. Just what I needed.--- Was what I needed until the app started checking for market access. My tablet does not have market access.
+excellent. would be five stars, if it ran in background, and if it did not minimize my windows, when it connects.
+excellent. would be five stars, if it ran in background, and if it did not minimize my windows, when it connects.
+Purchased this a long time ago for my Droid and have loved it. Bought my Xoom and was bummed it wasn't working, but the devs fixed it in les than day. Awesome support for an awesome app!
+It saddens me that too many people are actually getting this app and then thinking it sucks merely because they do not understand RDP or the reasons for it. If you just want to get on your home computer with a "Home Edition" of Windows, or don't know how to forward ports, go get another app. This app is 100% for IT weenies, and is absolutely perfect. If the cost seems too high, try to give your Google Checkout receipt to your employer and have them reimburse you, it'll be the best $25 they ever spent.
+Works really well with a TS gateway, even over 3G. Ideal when you are away from your workstation and need to check on your servers.
+Works really well with a TS gateway, even over 3G. Ideal when you are away from your workstation and need to check on your servers.
+Works really well with a TS gateway, even over 3G. Ideal when you are away from your workstation and need to check on your servers.
+I don't like installing server software when I know it isn't required; Remote Desktop Client works with the built-in Remote Desktop server from Microsoft. It works well, is fast and very functional. Never thought I could effectively run a 1920x1080 desktop from a small screen phone but with this product it is very workable and easy to be productive. High quality product.
+Awesome. Much easier to use than pocketcloud. Right click is a simple touch and hold. Nice!
+Great program. You can really control your desktop from remote. Windows keys are also good (htc magic)
+Way better than Remote RDP Enterprise. Awesome on Herotab M10 (froyo) at 1024x768. RDP Gateway support works great!
+Works perfectly. I could check and even modify my simulations while on my bike ride. Couldn't be better.
+Works perfectly. I could check and even modify my simulations while on my bike ride. Couldn't be better.
+Works perfectly. I could check and even modify my simulations while on my bike ride. Couldn't be better.
+Very nice, well designed This app is well designed. The developer is constantly adding improvements. Very easy to use. I use it to remote into both my Windows and Ubuntu computers. I couldn't live without it!
+Very good app, lets me do everything rdp I need. Only tricky part is scrolling the screen.
+Very good app, lets me do everything rdp I need. Only tricky part is scrolling the screen.
+Excellent! Been using this since Oct. 2010 and it has run flawlessly. Never a problem. Droid X.
+Quickly and easily control a variety of computers from your phone, works flawlessly evo
+Quickly and easily control a variety of computers from your phone, works flawlessly evo
+Best rdp app in the market period. User error if you can't get it to work not devs fault.
+Best rdp app in the market period. User error if you can't get it to work not devs fault.
+Best rdp app in the market period. User error if you can't get it to work not devs fault.
+Best rdp app in the market period. User error if you can't get it to work not devs fault.
+Use it to print on home computer printers and transfer files from anywhere. Can even send faxes remotely from phone. desire HD.
+Endless possibilities.. works awesome.. wish it had options to select how to connect to a Rdc, existing or secondary sessions..
+Endless possibilities.. works awesome.. wish it had options to select how to connect to a Rdc, existing or secondary sessions..
+This app allows a perfect desktop connection every time. Now I can use my home computer while on the road!
+After only a couple pflege days I became completely reliant on this. Only flaw is that it doesn't work with names - needs IP address of server
+If you administer multiple Windows machines, like me, this app is a must-have. Supports RD/TS Gateways.
+If you administer multiple Windows machines, like me, this app is a must-have. Supports RD/TS Gateways.
+If you administer multiple Windows machines, like me, this app is a must-have. Supports RD/TS Gateways.
+Very fast connections, even when using your providers data network. The best I've ever seen. Def 5 stars
+This with connectbot are the important apps on my phone. Rdp with SSH port forwarding.
+This with connectbot are the important apps on my phone. Rdp with SSH port forwarding.
+Superb. I've tried most of the remote desktop apps both on android and iOS and this is easily the best I've used. Galaxy tab.
+Superb. I've tried most of the remote desktop apps both on android and iOS and this is easily the best I've used. Galaxy tab.
+The back button should ask for disconnect; i disconnect alot session by tapping back button to remove the keyboard . (Galaxy s) For the rest 5 stars
+Allmost perfect! Mouse movement and control will require a little practice, reckon about 1 day.
+Allmost perfect! Mouse movement and control will require a little practice, reckon about 1 day.
+Allmost perfect! Mouse movement and control will require a little practice, reckon about 1 day.
+This app does exactly what I want it to do. Definitely worth every penny! Great job!
+This app does exactly what I want it to do. Definitely worth every penny! Great job!
+Very good for advanced users. teamviewer is out now though and i will prob never use it again.
+Very good for advanced users. teamviewer is out now though and i will prob never use it again.
+Very good for advanced users. teamviewer is out now though and i will prob never use it again.
+Very good for advanced users. teamviewer is out now though and i will prob never use it again.
+Very good for advanced users. teamviewer is out now though and i will prob never use it again.
+Running on HTC Eco, works like a champ! Connecting to boxes running Win 7 (all flavors), Win 2008 servers, Win Home server. Locally and over the 'net.
+Running on HTC Eco, works like a champ! Connecting to boxes running Win 7 (all flavors), Win 2008 servers, Win Home server. Locally and over the 'net.
+Does not function HTC EVO connecting to win7 professional with proper port forwarding setup and RDC settings set.
+Does not function HTC EVO connecting to win7 professional with proper port forwarding setup and RDC settings set.
+Great app, even able to use the Evo's vpn feature and then use app to remote to any desktop, great via Wifi super fast and easy to use
+Great app, even able to use the Evo's vpn feature and then use app to remote to any desktop, great via Wifi super fast and easy to use
+Great app, even able to use the Evo's vpn feature and then use app to remote to any desktop, great via Wifi super fast and easy to use
+Love this app, works perfectly. Just need to set up a Dyndns account and I'll be set.
+Make sure you have a qwerty keyboard or the po up key bird blocks quite a bit of the screen. Other than that, an excellent program.
+TS Gateway support, touchpad mode is great. Awesome on my Galaxy Tab. SD card redirection is nice also.
+TS Gateway support, touchpad mode is great. Awesome on my Galaxy Tab. SD card redirection is nice also.
+TS Gateway support, touchpad mode is great. Awesome on my Galaxy Tab. SD card redirection is nice also.
+TS Gateway support, touchpad mode is great. Awesome on my Galaxy Tab. SD card redirection is nice also.
+TS Gateway support, touchpad mode is great. Awesome on my Galaxy Tab. SD card redirection is nice also.
+TS Gateway support, touchpad mode is great. Awesome on my Galaxy Tab. SD card redirection is nice also.
+TS Gateway support, touchpad mode is great. Awesome on my Galaxy Tab. SD card redirection is nice also.
+Best RDP app around. Alot of the bad reviews seem to be a lack of knowing how to use an RDP connection.
+Best RDP app around. Alot of the bad reviews seem to be a lack of knowing how to use an RDP connection.
+Purchased this last year and it was just as good..its like microsoft made it..fantastic
+Chuck - I'm running on Droid 2.2 without any issue maybe u need to contact support?
+Chuck - I'm running on Droid 2.2 without any issue maybe u need to contact support?
+The best Remote Desktop App period. I got the paid version because it's that good.
+not easy to set up for n00bs but the best remote desktop app ive used! worth every penny for sure!
+not easy to set up for n00bs but the best remote desktop app ive used! worth every penny for sure!
+not easy to set up for n00bs but the best remote desktop app ive used! worth every penny for sure!
+not easy to set up for n00bs but the best remote desktop app ive used! worth every penny for sure!
+not easy to set up for n00bs but the best remote desktop app ive used! worth every penny for sure!
+My god man, this program is a godsend. They don't even have such a nice rdp client for the mac. If you'd consider making a good vnc client, i'd buy.
+Now that it can do non-standard ports, this program is complete. It has paid for itself many times over, well worth it for any Windows admin!
+Now that it can do non-standard ports, this program is complete. It has paid for itself many times over, well worth it for any Windows admin!
+Now that it can do non-standard ports, this program is complete. It has paid for itself many times over, well worth it for any Windows admin!
+Now that it can do non-standard ports, this program is complete. It has paid for itself many times over, well worth it for any Windows admin!
+I can rdp into my company's servers to fix issues from wherever I am. And I can do it one handed! Two finger scrolling is stupid in this application
+Excellent RDP-client! Inputing dots (".") on the Galaxy Tab keyboard results in double dots sent to the Windows server, though. Pls fix, thx!
+A great RDP client! Didn't think it was worth the $ at first then used it and saw how useful it was.
+A great RDP client! Didn't think it was worth the $ at first then used it and saw how useful it was.
+Best remote desktop client... allows non-standard port., gateway... great control... has it all! Droid X 2.2
+It may be pricey, but its also one of the fastest i have used, best app on the market, fix all my server issues from anywhere, updated almost monthly
+Tried them all. This is the best of them. Very good job...well worth the fee.
+No complaints here this app works perfect on my windows Vista ultimate. Using a Sprint EVO 4G. Check router settings for those having trouble connect
+Excellent app, great support even during weekends: A lot of money, but well worth it.
+Excellent app, great support even during weekends: A lot of money, but well worth it.
+Works great for me. Functions as expected for trying to run a PC from a phone, but it has features to make the best of the situation. Droid2.
+Easy to setup and it allows you to use different port other than the standard 3389!!
+Im an IT consultant and manage many servers, after reading reviews from others, i had to try, even for the price. It's amazing! Good work.
+I tested three RDP apps. This one is the winner that I kept on my phone (and it's most expensive). It's 5* after a bug with key combinations is fixed.
+I tested three RDP apps. This one is the winner that I kept on my phone (and it's most expensive). It's 5* after a bug with key combinations is fixed.
+I tested three RDP apps. This one is the winner that I kept on my phone (and it's most expensive). It's 5* after a bug with key combinations is fixed.
+I tested three RDP apps. This one is the winner that I kept on my phone (and it's most expensive). It's 5* after a bug with key combinations is fixed.
+I tested three RDP apps. This one is the winner that I kept on my phone (and it's most expensive). It's 5* after a bug with key combinations is fixed.
+Those who say it doesn't work just don't understand how to use it. This is the best.
+Those who say it doesn't work just don't understand how to use it. This is the best.
+The best remote desktop app out there. Very fast and works everytime. If you know what your doing this will help you login to servers with ease. Droid
+A little pricey. But it works perfectly and updates frequently. Worth the money if you need to contol your pc without any shinannigans. Moto Droid 1
+Works just as smooth as my laptop connection, does what it says - I like it
+I was going to rate it a 4 because of the price, but it worked so well and is so intuitive, and just looks so good i had to give it 5. (Galaxy-Epic4g)
+Does exactly what i want let's me control my windows 7 comp from anywhere. Make sure you have a Pro or Ultimate, wont work on Home without a patch.
+Does exactly what i want let's me control my windows 7 comp from anywhere. Make sure you have a Pro or Ultimate, wont work on Home without a patch.
+Connects great to servers. A bit expensive, but very helpful for administration and watching the security cameras. Droid X
+Connects great to servers. A bit expensive, but very helpful for administration and watching the security cameras. Droid X
+After extensive testing, this app is the best I found! Brilliant implementation of touchpad and screen scrolling with inertia. Highly recommended!
+After extensive testing, this app is the best I found! Brilliant implementation of touchpad and screen scrolling with inertia. Highly recommended!
+wonderful and works great. Developer is very responsive and worked with me. highly recommended.
+Super cool and efficient. Would be even better if we could move it to sdcard
+Amazing. Doesnt use third party software to remotely access windows. Very secure, configured in less than 5 minutes. Worth. Every. Penny.
+Great for accessing the office when you're in a pinch...or sitting on the beach (on a well deserved, rarely taken, vaca away from the office :)
+Why did I wait so long!? (and I only waited 5 minutes before I bought it... still too long!)
+Why did I wait so long!? (and I only waited 5 minutes before I bought it... still too long!)
+An absolutely amazing application! I manage several of our servers perfecfly from this while out of the office or away from home! Worth every penny!
+An absolutely amazing application! I manage several of our servers perfecfly from this while out of the office or away from home! Worth every penny!
+Expensive but does what it says on the tin.! I use it for after hours server admin...
+Very glad I took the plunge, uses RealVNC style control for more precision and no accidental clicks, also now has description field in con list.
+As an IT professional, I use this app all the time to provide after-hours support when I'm away from my PC. Highly recommended.
+This program is a dream come true.now I can connect to my RWW via phone...love it.
+This program is a dream come true.now I can connect to my RWW via phone...love it.
+This program is a dream come true.now I can connect to my RWW via phone...love it.
+This program is a dream come true.now I can connect to my RWW via phone...love it.
+This program is a dream come true.now I can connect to my RWW via phone...love it.
+Get login screen;keeps erroring with "connection reset by peer" via wifi & 3G. RDP works from desktop and iPad apps, but not with this app :( droid 2
+Too cool! Took longer to dl & install prog, than it did to connect to 1 of my servers for the first time using my EVO. Why did I wait this long?
+Insane how well it works. About 1 min setup and has a trick they do with cursor that makes a droid screen more than sufficient size to do basic tasks
+Insane how well it works. About 1 min setup and has a trick they do with cursor that makes a droid screen more than sufficient size to do basic tasks
+Good for IT on the go. A must have for anyone that manages Windows Servers that is not always in the office. Also a change log of some sort please.
+please create basic standard help file w/ instructions to fix connection error issues. will not connect via 3G. only wifi works. motorola droid 2.2.
+please create basic standard help file w/ instructions to fix connection error issues. will not connect via 3G. only wifi works. motorola droid 2.2.
+please create basic standard help file w/ instructions to fix connection error issues. will not connect via 3G. only wifi works. motorola droid 2.2.
+Wow, just wow. What a brilliant piece of software and certainly worth the cost. For server control from your phone you can't get better!
+Wow, just wow. What a brilliant piece of software and certainly worth the cost. For server control from your phone you can't get better!
+Works well. Better than expected. Connected to Windows 2008 servers at work with ease. Great job!
+In a world full of crapps, Remote Desktop Client is a very excellent app that's well worth the price. I'd give 10 stars if possible. HTC Incredible.
+In a world full of crapps, Remote Desktop Client is a very excellent app that's well worth the price. I'd give 10 stars if possible. HTC Incredible.
+For the love of God why so many frequent updates? Every time I need to recreate my connections... please fix that in next update
+I love this application! Works as advertised on my evo. Saves me a lot of time to do things while I'm not home. Well worth the money.
+Quality product, could be cheaper but works very well. 5th star for new TS/RD gateway support. HTC Desire.
+Quality product, could be cheaper but works very well. 5th star for new TS/RD gateway support. HTC Desire.
+Quality product, could be cheaper but works very well. 5th star for new TS/RD gateway support. HTC Desire.
+I've tried every other remote desktop client and this one is the best. Personally i give it 5 star because the controls are superior.
+I've tried every other remote desktop client and this one is the best. Personally i give it 5 star because the controls are superior.
+I've tried every other remote desktop client and this one is the best. Personally i give it 5 star because the controls are superior.
+I've tried every other remote desktop client and this one is the best. Personally i give it 5 star because the controls are superior.
+The best. TS support is nice. It's 5 stars without wake on LAN but that would be the icing on the cake. Notes on dev page FYI. WYSE is NOT better...
+The best. TS support is nice. It's 5 stars without wake on LAN but that would be the icing on the cake. Notes on dev page FYI. WYSE is NOT better...
+I manage a large number of servers and LOVE this app. The ability to clone servers in the list would be awesome!
+By a MILE the best RDP app on the market. Best part is that the developer responds quickly to needs. Couldn't be happier!
+THE best RDP app for Android. Tried all the others, this one is without a doubt the best one.
+Hands down the best RDP app. Worth every cent. I tried every other available program and this one blows them out of the water. The options rock.
+From what I've read its best rdp client for android, I use it daily and I give 5 stars
+From what I've read its best rdp client for android, I use it daily and I give 5 stars
+From what I've read its best rdp client for android, I use it daily and I give 5 stars
+This saved my arse when I needed to connect to work while at a soccer game thanks
+It's the only app I've actually bought, and even though its pricey, you won't be disappointed.
+Amazing app & fantastic customer service. Dev worked w/me & other customers to resolve an obscure problem w/some RD gateway connections. (N1 2.2)
+Amazing app & fantastic customer service. Dev worked w/me & other customers to resolve an obscure problem w/some RD gateway connections. (N1 2.2)
+One of the best RDP I have used on a mobile phone. Pair it with the HTC EVO's large screen, this handy utility rocks!
+Pretty much exactly what I needed for emergency remote administration. Works better than I even hoped!
+Amazing program. Developer is very responsive, fixed a major issue within a day. Best RDP app out there!
+Not sure if I should give 5 stars because now I'll have no excuse NOT to fix stuff at work ;) Works great, though.
+Having this application has increased my revenue by 20%. You can run all your PC programs like quick books the possibilities are endless
+Having this application has increased my revenue by 20%. You can run all your PC programs like quick books the possibilities are endless
+Having this application has increased my revenue by 20%. You can run all your PC programs like quick books the possibilities are endless
+Works great. I am not a heavy user but the 2-3 times a week I use it performs very well. Moto Droid
+I can't find a program to download to my computer to get it to work. I have windows 7 home. Please help!
+After trying each of the RDP clients, this one proved itself with its incredibly easy to use touchpad mode. Actually worth $20 for any IT pro.
+Guys truly an amazing application if only all software was this good! I can RDP to all my systems at home & those at work effortlessly & so smoothly!
+Guys truly an amazing application if only all software was this good! I can RDP to all my systems at home & those at work effortlessly & so smoothly!
+Awesome! Works on my Evo with Network Level Authentication, too. It would be nice if I could connect a Bluetooth mouse, though.
+Awesome! Works on my Evo with Network Level Authentication, too. It would be nice if I could connect a Bluetooth mouse, though.
+Awesome! Works on my Evo with Network Level Authentication, too. It would be nice if I could connect a Bluetooth mouse, though.
+Awesome! Works on my Evo with Network Level Authentication, too. It would be nice if I could connect a Bluetooth mouse, though.
+Awesome! Works on my Evo with Network Level Authentication, too. It would be nice if I could connect a Bluetooth mouse, though.
+Please shift RDP session window up when using a virtual keyboard. It is very awkward to use as-is.
+Works with custom port.Just use this format, ip:port. Amazing application. Excellent navigation control and pinch to zoom. Well worth it. Desire
+Very cool app. Does a great job and worth the $$ if you need this kind of functionality.
+Easy setup. Works great on LAN or over inet. Maps SD card as a drive in file explorer for easy data transfer.
+Easy setup. Works great on LAN or over inet. Maps SD card as a drive in file explorer for easy data transfer.
+Easy setup. Works great on LAN or over inet. Maps SD card as a drive in file explorer for easy data transfer.
+Requires some digging around on Google searches to configure things, especially if you do not have a professional edition of windows.
+Requires some digging around on Google searches to configure things, especially if you do not have a professional edition of windows.
+This app is just as good as everyone says. I am getting some occasional scrambled pixels on the Windows taskbar on my DroidX
+This app is just as good as everyone says. I am getting some occasional scrambled pixels on the Windows taskbar on my DroidX
+$20 is a small price to pay to be able to easily log into my home pc or server from my phone. This app is easy to get used to and easy to use
+$20 is a small price to pay to be able to easily log into my home pc or server from my phone. This app is easy to get used to and easy to use
+Excellent app. I use it with multiple ports by using the standard syntax IP:port. It works perfectly for multiple clients through a single gateway.
+Great app, works seamlessly. One thing id like to see would be the ability to set a port so i could access multiple computers on my network.
+This is, hands down, the best remote desktop app out there. 20 is a lot but it pays for itself if you're using it for work purposes
+Like this one better that remote RDP, but wish it supported zooming and custom keyboard shortcuts the way other clients do. Wish this was still $10
+What a relief no longer needing to carry around my laptop to provide support to clients. This app is worth 10 times what they are asking!
+Cannot get this to work i get an error saying cannot find socket i use windows xp professional please if anyone can help at tamick24@gmail
+Cannot get this to work i get an error saying cannot find socket i use windows xp professional please if anyone can help at tamick24@gmail
+Cannot get this to work i get an error saying cannot find socket i use windows xp professional please if anyone can help at tamick24@gmail
+Why is this update telling me i had a refund and need to buy again !?
+Not just the best RDP app on Android, but the best on any phone, period. Absolutely fantastic
+Expensive, but worth it. I tried a bunch of Android rdp clients, and this is the best one.
+Expensive, but worth it. I tried a bunch of Android rdp clients, and this is the best one.
+Best remote access app. Forward RDP port on your router, job done. Just put ip addy in and it works. Perfect.
+Best remote access app. Forward RDP port on your router, job done. Just put ip addy in and it works. Perfect.
+Outstanding app. High price, but ultimately indispensible and worth it to this sysadmin. Evo.
+Outstanding app. High price, but ultimately indispensible and worth it to this sysadmin. Evo.
+Outstanding app. High price, but ultimately indispensible and worth it to this sysadmin. Evo.
+Awesome app works fantastic on my EVO if you use remote desktop this is a must
+This is really good. Because it uses windows rdp you can setthe screen size to match the phone so it fits exactly. Also usable even with bad reception
+This is really good. Because it uses windows rdp you can setthe screen size to match the phone so it fits exactly. Also usable even with bad reception
+Awesome app -terminal server access and remote pc support with security. Elegant! -Evo
+100% Worth the money! runs amazingly well, Even on edge. It feels like pages load faster with this over my pc then with the browser! G1 CM 2.2
+Was looking for a way to access a terminal server and this worth every penny. Your screen navigates exactly as a touch screen monitor - EVO 4G
+Definitely worth the cash - made working on home and work servers a breeze. Best rdc app out there. (EVO 4g)
+Definitely worth the cash - made working on home and work servers a breeze. Best rdc app out there. (EVO 4g)
+Definitely worth the cash - made working on home and work servers a breeze. Best rdc app out there. (EVO 4g)
+Definitely worth the cash - made working on home and work servers a breeze. Best rdc app out there. (EVO 4g)
+A total must-have! The touchpad mode and scroll emulation make the controls so easy!
+One unbelievable app! Dont get anything but this one, it rocks! Works on our 2003 & 2008 windows servers great!
+You get what you pay for!!! It works on Windows XP and W7 perfectly, I will be trying on server os soon. This is superfast and awesome. Thanks
+Totally excellent, even for a novice to set up... amazing performance especially for 3g.
+Wow! For this price I thought the developer must have got his mates to comment...not so! WORKS 100%, brilliant to use, I do IT support, invaluable!
+Wow! For this price I thought the developer must have got his mates to comment...not so! WORKS 100%, brilliant to use, I do IT support, invaluable!
+Wow! For this price I thought the developer must have got his mates to comment...not so! WORKS 100%, brilliant to use, I do IT support, invaluable!
+Wow! For this price I thought the developer must have got his mates to comment...not so! WORKS 100%, brilliant to use, I do IT support, invaluable!
+Wow! For this price I thought the developer must have got his mates to comment...not so! WORKS 100%, brilliant to use, I do IT support, invaluable!
+App works well. Hero. Just wish I could get it to play music through comp or phone. Changed advanced settings still nothing .
+Awesome app! Remote desktop from my Droid works perfectly! Needs two features: RDP gateway access and vert/horiz scroll sections in touchpad mode.
+Awesome app! Remote desktop from my Droid works perfectly! Needs two features: RDP gateway access and vert/horiz scroll sections in touchpad mode.
+This application FAR exceeded my expectations. Worth every penny. Was able to drag and drop and edit Crystal Reports, which is saying something!
+Works great. Easily perform admin tasks on your servers. I RDP'd into one server, then to another in that session, and then log me in, all flawlessly
+Great app, extremely to use! I can now fix computers from the office while at the bar! Having trouble with numbers on MotoDroid physical keyboard..
+Great app, extremely to use! I can now fix computers from the office while at the bar! Having trouble with numbers on MotoDroid physical keyboard..
+Awesome! Once i figured out how to turn off the laptop touchpad setting it works as expected.....
+Works and is easy to use. Very flexible. Overall I'm impressed. Fairly pricy, though.
+very nice, seems to suite touch pad users. Which I like. works great on a Dell streak
+I would love to make it work, but install drove me nuts. I'm an idiot though, so it's probably just me
+I would love to make it work, but install drove me nuts. I'm an idiot though, so it's probably just me
+A little tricky to configure for the avg person (me) but worth it once set up. Make sure u establish vpn b4 attempting connect if configured that way
+A little tricky to configure for the avg person (me) but worth it once set up. Make sure u establish vpn b4 attempting connect if configured that way
+A little tricky to configure for the avg person (me) but worth it once set up. Make sure u establish vpn b4 attempting connect if configured that way
+A little tricky to configure for the avg person (me) but worth it once set up. Make sure u establish vpn b4 attempting connect if configured that way
+A little tricky to configure for the avg person (me) but worth it once set up. Make sure u establish vpn b4 attempting connect if configured that way
+A little tricky to configure for the avg person (me) but worth it once set up. Make sure u establish vpn b4 attempting connect if configured that way
+Amazing speed & control..best rdp app i've seen..works over vpn,internet, or local perfectly
+WOW!!! Best RDP i've ever used. EVO makes it even better! Here's another 5 stars cause in my opinion, you deserve it! *****
+Being on call often, this app is exactly what I needed to turn my Ego 4G into a remote management tool. High quality and a great interface.
+Wow, great app! Works as advertised. Fast, smooth, and great controls. Recommend for any network admin. Moto droid user.
+Wow, great app! Works as advertised. Fast, smooth, and great controls. Recommend for any network admin. Moto droid user.
+Excellent. Does require some network setup, but if you know what you're doing its a breeze. Just like rdp on a computer. Only rdp worth paying for.
+Excellent. Does require some network setup, but if you know what you're doing its a breeze. Just like rdp on a computer. Only rdp worth paying for.
+Excellent. Does require some network setup, but if you know what you're doing its a breeze. Just like rdp on a computer. Only rdp worth paying for.
+Best app ever. A must have! Worth the price! He actually responds to emails. Best best best.
+Works awesome. Port forwarding can be tricky if you have multiple routers/modems in series...
+This program is hard to install and getting help was not easy. They kept telling me to read the step by step guide No help. Now phonemypc *****Stars
+This program is hard to install and getting help was not easy. They kept telling me to read the step by step guide No help. Now phonemypc *****Stars
+Great app. Well worth the money to an IT guy. Mouse takes a second to get used to, then you realize how brilliant the design is. Remote repair!!!
+Great app. Well worth the money to an IT guy. Mouse takes a second to get used to, then you realize how brilliant the design is. Remote repair!!!
+Works great. I love the trackpad-style navigation and wish more apps had similar easy control of cursor!
+Works great for me. I was already familiar with rem desktop so my setup was easy. Running @640 x 480 8-bit w/no unexpected lag. Htc hero
+Works great for me. I was already familiar with rem desktop so my setup was easy. Running @640 x 480 8-bit w/no unexpected lag. Htc hero
+Love it, just make sure you have windows ultimate or pro cause it won't work with lesser versions of windows. Not because of the app; because windows
+Can't knock it so far. Been a sweet purchase, handles win7 & 2k8r2 just fine.
+Best RDP app. instant install and instant connect. can get remote work done very quicly
+speed is good. but the problem is that there is no sound. it appears that the remote sound device is not sppported. this is win 7 host.
+speed is good. but the problem is that there is no sound. it appears that the remote sound device is not sppported. this is win 7 host.
+Works perfectly with W7 Ult x64. Touchpad mode gives excellent control, trackball for precision. Can fit desktop to device screen without rescaling.
+Allows to connect to my server at work. Checking my emailbat work on the go is awesome.
+Awesome app. Just used it to remotely fix an issue on my server at work while having a drink at the bar. Already paid for itself with that one use.
+Very very good. Works well over 3g and allows me to do all my day to day admin tasks. Perfect!
+Very very good. Works well over 3g and allows me to do all my day to day admin tasks. Perfect!
+Very very good. Works well over 3g and allows me to do all my day to day admin tasks. Perfect!
+Very very good. Works well over 3g and allows me to do all my day to day admin tasks. Perfect!
+Great App! Btw for those of u with "windows home" there is a way to reenable remote desktop just goolge it! U must be semicomp lit. tho. Goodluck
+Great App! Btw for those of u with "windows home" there is a way to reenable remote desktop just goolge it! U must be semicomp lit. tho. Goodluck
+Finally got it downloaded and it is wonderful. I'm not very computer savvy but really needed this application to conduct business. Verizon helped me
+Use with ssh to make your pc extra secure (i use connectbot ssh on android, and copssh on my windows machine). First ssh, then use this to rdp in.
+Use with ssh to make your pc extra secure (i use connectbot ssh on android, and copssh on my windows machine). First ssh, then use this to rdp in.
+Use with ssh to make your pc extra secure (i use connectbot ssh on android, and copssh on my windows machine). First ssh, then use this to rdp in.
+Best RDP app for Android. @ Luy: pinch to zoom works just fine and has since i installed. -Droid
+Easily the best currently available. The other one out there is good, but just not quite as good as this. Well worth the cash.
+Works perfectly with win 2000 and above, even with xrdp! Touch mouse interface better than andvnc. Dev. Is Very responsive. Perfect!!!!
+Works perfectly with win 2000 and above, even with xrdp! Touch mouse interface better than andvnc. Dev. Is Very responsive. Perfect!!!!
+Works perfectly with win 2000 and above, even with xrdp! Touch mouse interface better than andvnc. Dev. Is Very responsive. Perfect!!!!
+It works better than I ever expected making it worth the money. Flawless performance on my N1.
+I keep getting "socket not connected" not sure what to do here pls help bsmith12@brophybroncos.org
+I keep getting "socket not connected" not sure what to do here pls help bsmith12@brophybroncos.org
+I keep getting "socket not connected" not sure what to do here pls help bsmith12@brophybroncos.org
+I keep getting "socket not connected" not sure what to do here pls help bsmith12@brophybroncos.org
+Definitely the best remote desktop I've used on ANY mobile platform, highly recommended.
+Definitely the best remote desktop I've used on ANY mobile platform, highly recommended.
+Great app but is there a program that u do not need a server for u can just remote to a computer
+An unbelievably good Remote Desktop Client! Fantastic user experience on a HTC Desire. Well worth the money. Highly Recommended. :)
+An unbelievably good Remote Desktop Client! Fantastic user experience on a HTC Desire. Well worth the money. Highly Recommended. :)
+Awesome on HTC Hero. Trackball 'clicks', awesome. Make sure u use right pc Ip address on router forwarding. Disable DMZ on d-link.
+Awesome on HTC Hero. Trackball 'clicks', awesome. Make sure u use right pc Ip address on router forwarding. Disable DMZ on d-link.
+Awesome on HTC Hero. Trackball 'clicks', awesome. Make sure u use right pc Ip address on router forwarding. Disable DMZ on d-link.
+Love the app. Only one feature missing... RDP gateway support. Right now I have to do crazy nat rules to make my machine accessable outside.
+This app has allowed me to bill my client while standing in line for a ride at Disney World. Dreams really do come true!
+This app has allowed me to bill my client while standing in line for a ride at Disney World. Dreams really do come true!
+This app has allowed me to bill my client while standing in line for a ride at Disney World. Dreams really do come true!
+This app has allowed me to bill my client while standing in line for a ride at Disney World. Dreams really do come true!
+This app has allowed me to bill my client while standing in line for a ride at Disney World. Dreams really do come true!
+This app has allowed me to bill my client while standing in line for a ride at Disney World. Dreams really do come true!
+Won't connect? No instructions how to setup. I'm very comp literate. Would love if worked. What I do wrong? G1
+I used this last night in conjunction with vpn on 2.1 and was able to repair an issue from tgi Fridays.. AWESOME
+I used this last night in conjunction with vpn on 2.1 and was able to repair an issue from tgi Fridays.. AWESOME
+This is by. Far the best rdp app for android and is on par or better than jaaduRDP on iphone. Great customer support! Fixed problem I had with update.
+Just what I needed and way better than the iPhone app I had on my 3gs before. Totally rocks on my Nexus one
+Just what I needed and way better than the iPhone app I had on my 3gs before. Totally rocks on my Nexus one
+Just what I needed and way better than the iPhone app I had on my 3gs before. Totally rocks on my Nexus one
+Just what I needed and way better than the iPhone app I had on my 3gs before. Totally rocks on my Nexus one
+The best rdp app out there. I used windows devices for years and microsoft can't even get it right. I'm loving being able to access my servers again
+The best rdp app out there. I used windows devices for years and microsoft can't even get it right. I'm loving being able to access my servers again
+Works perfectly and easy to set up. Just get your computer to do remote desktop with port of choice (typically 3389) forward that port in your router.
+I really need a walkthrough on the set up trying to use it with XP professional. All it does is say waiting to connect. Help
+I really need a walkthrough on the set up trying to use it with XP professional. All it does is say waiting to connect. Help
+awesome app works like a dream for managing 12+ work servers and the fixing of I lost the icon for this or that app in our company great app! Nexus1
+Does everything I need as an IT admin. Great app. Overpriced or would get a 5.
+Awesome app. Been using it for 2 months now, but through updates it just keeps getting even better.
+Perfect on moto droid! I already had RDP going via winxp between home and office(router settings, firewall,etc). Took less than 2 min to start workin
+Perfect on moto droid! I already had RDP going via winxp between home and office(router settings, firewall,etc). Took less than 2 min to start workin
+Perfect on moto droid! I already had RDP going via winxp between home and office(router settings, firewall,etc). Took less than 2 min to start workin
+Awesome app. Was skeptical at first, but after using, I am able to control my remote desktop easily and quickly. Well worth the purchase.
+Awesome app. Was skeptical at first, but after using, I am able to control my remote desktop easily and quickly. Well worth the purchase.
+Really top quality app. Very impressed. Intuitive controls, nice clear interface. Nexus 1
+Really top quality app. Very impressed. Intuitive controls, nice clear interface. Nexus 1
+Really top quality app. Very impressed. Intuitive controls, nice clear interface. Nexus 1
+Useful app. Responsive Dev. If you run windows, this is a must have. Pinch to zoom could use a little work. Might be hw limitations... N1
+I use this app to connect to win 7, XP, server 2003 and 2008. Works everytime. Well worth the price!!
+I use this app to connect to win 7, XP, server 2003 and 2008. Works everytime. Well worth the price!!
+Best RDP app ever. I had some problems with force close but within 2 emails (in less thanv3 hours) the problem was totally solved. excellent program
+Thomas, you do not need a server. Set up a dyndns account and port forwarding on your router, and you're golden.
+Good app, but can't see how to activate the pinch/zoom. I am using HTC Hero.
+Unbelievable how usable this is on a mobile device. Works perfectly on a Droid to connect to Windows Server 2008 R2.
+This application is awesome! If you use RDP often then this is well worth the money. It's fast, stable, has great features, and controlls excellent.
+Anything I can't do on my droid I can from my remote desktop. My number 1 app!
+Anything I can't do on my droid I can from my remote desktop. My number 1 app!
+Anything I can't do on my droid I can from my remote desktop. My number 1 app!
+Anything I can't do on my droid I can from my remote desktop. My number 1 app!
+Almost faultless. Thanks to this I managed to fix a bug in a website's code in Visual Studio and republish it - all from my phone in a bar in Mallorca
+This is an awesome apparently!!! Works great...no ISSUES@ALL I travel a lot and now o don't even need to bring my laptop on my short trips savetime!
+This is an awesome apparently!!! Works great...no ISSUES@ALL I travel a lot and now o don't even need to bring my laptop on my short trips savetime!
+This is an awesome apparently!!! Works great...no ISSUES@ALL I travel a lot and now o don't even need to bring my laptop on my short trips savetime!
+This is an awesome apparently!!! Works great...no ISSUES@ALL I travel a lot and now o don't even need to bring my laptop on my short trips savetime!
+Excellent application you get just what you pay for! very fast and highly usable. I couldn't live without it! Now has pinch/zoom!
+Excellent application you get just what you pay for! very fast and highly usable. I couldn't live without it! Now has pinch/zoom!
+Truly the best rdp client on the droid. Full featured and stable. Worth the buy.
+I love it. Full access to Outlook, my image server, cmd, and even flash games from anywhere. I recommend this to any IT people out the. DROID
+I love it. Full access to Outlook, my image server, cmd, and even flash games from anywhere. I recommend this to any IT people out the. DROID
+Insane app. Absolutely amazing. Needs a CAP LOCK key. My work programs require me to type in caps. Can we add this pleassssse
+Insane app. Absolutely amazing. Needs a CAP LOCK key. My work programs require me to type in caps. Can we add this pleassssse
+This is the best rdp client i've ever used. Please add another resolution 854 * 480 for Motorola Droid native.
+This is the best rdp client i've ever used. Please add another resolution 854 * 480 for Motorola Droid native.
+setup is not easy but once you figure it out it works flawlessly i would definitely recommend this 2 ip people and the traveling businessman like myse
+First app I have commented on. Excellent, as an IT pro it is very helpful. Very quick and responsive.
+First app I have commented on. Excellent, as an IT pro it is very helpful. Very quick and responsive.
+The most intuitive approach to mousing for an rdp client on android. Totally awesome.
+The most intuitive approach to mousing for an rdp client on android. Totally awesome.
+The most intuitive approach to mousing for an rdp client on android. Totally awesome.
+WOW WOW..amazing. thank u so much..I'm always on the go administering networks..u guys have made my day..this app is the best so far by a lightyear!
+Very fast, even when not on wifi. This has already saved my A** many times. Worth every penny. Get it!
+Very fast, even when not on wifi. This has already saved my A** many times. Worth every penny. Get it!
+Very well designed & implemented. I'd like tighter integration with the Droid's keyboard - tab key support, copy and paste, etc.
+Have used PC remote desktop for years...this app gave me what I expected...its awesome blazing around and checking my workstation desktop at the same
+Have used PC remote desktop for years...this app gave me what I expected...its awesome blazing around and checking my workstation desktop at the same
+This thing is great, i am able to do anything rdp. By far the best rdp client i have used with my droid. Well worth the $20.00
+This thing is great, i am able to do anything rdp. By far the best rdp client i have used with my droid. Well worth the $20.00
+This thing is great, i am able to do anything rdp. By far the best rdp client i have used with my droid. Well worth the $20.00
+This thing is great, i am able to do anything rdp. By far the best rdp client i have used with my droid. Well worth the $20.00
+Gabe, you can't RDP to home versions of Windows by design, it's not Xtralogic's fault. Awesome app, works great!
+Gabe, you can't RDP to home versions of Windows by design, it's not Xtralogic's fault. Awesome app, works great!
+Just installed on HTC HERO. Works exactly as advertised. A very neat piece of kit! Now I just need to find some real world use for it!
+I have no complaints. Connected straight away with my Droid. This will be fantastic for remote admin.
+I have no complaints. Connected straight away with my Droid. This will be fantastic for remote admin.
+Awesome app! Real life saver for on-the-fly server management. WELL worth the money.
+This is by far the best RDP apparently I've seen. Works great on my Nexus One. Its well worth the money.
+Best RDP app on a handheld, period! The way you move the mouse with your finger is innovative... Worth the $$$!!! BTW-I'm using a moto droid.
+I was a little sceptical that this would be useful. It's nearly perfect! Mouse took an hour to get used to. Great! Moto Droid.
+I was a little sceptical that this would be useful. It's nearly perfect! Mouse took an hour to get used to. Great! Moto Droid.
+Awesome app very nice navigation. People are a bit spoiled 20 bux is a great deal.
+Does everything they say it does! LOVE IT! ...once you figure out how to configure your router.
+This is absolutely the BEST Rdp product for any smartphone on the market...WOW! A must have!
+The slickest remote desktop app on the market. You have to be sharp enough to configure your router to allow RDP traffic in to your network.
+Excellent it does the job well connects well to XP,2003, windows 7 and 2008R2 OSs, installed and works on a nexus one,
+I feel bad becuase i couldnt get it to connect. Im always on the road, and it wouldve been great to work on the road.
+I feel bad becuase i couldnt get it to connect. Im always on the road, and it wouldve been great to work on the road.
+Great software, best mobile remote software ive used. Bit steep on the price, but you get what you pay for (droid)
+A must have for the IT professional. Great mouse control, very easy to get used too.
+A must have for the IT professional. Great mouse control, very easy to get used too.
+Great app. Worth the price if ur an IT guy. Stable. I didnt realize it auto scrolled. Took me a bit to figure it out. A demo video would b nice.
+You do not have to have a static IP for this to work. Works better than the remote desktop clients that came on the various windows phones I owned...
+You do not have to have a static IP for this to work. Works better than the remote desktop clients that came on the various windows phones I owned...
+You do not have to have a static IP for this to work. Works better than the remote desktop clients that came on the various windows phones I owned...
+Awesome app. Works as intended on the Droid, website has detailed info on how to setup your windows machine.. (no win home, but thats ms fault)
+Awesome app. Works as intended on the Droid, website has detailed info on how to setup your windows machine.. (no win home, but thats ms fault)
+Awesome app. Works as intended on the Droid, website has detailed info on how to setup your windows machine.. (no win home, but thats ms fault)
+Awesome app. Works as intended on the Droid, website has detailed info on how to setup your windows machine.. (no win home, but thats ms fault)
+Very pleased with this program, and anyone who knows what they're looking for should check it out. Using motodroid.
+A little pricey, but an excellent app and I am glad I purchased it. Runs great on the Droid. Thanks!!
+Novice to remote desktop clients. 18 dollars and no simple screen shot walk through on developers page?
+What a great app. Requires some router setup but once its done its top notch. Face time in the office just dropped drastically.
+After getting through the initial download hiccup which finally downloaded after 6 hrs. This app really made me love the moto Droid. Fix "tab" key.
+After getting through the initial download hiccup which finally downloaded after 6 hrs. This app really made me love the moto Droid. Fix "tab" key.
+This application is excellent. Works on local network and via dynamic DNS on internet for my setup. Droid.
+Worth every penny. Setup was easy. I am using a droid and remoting in to ms exchange
+Worth every penny. Setup was easy. I am using a droid and remoting in to ms exchange
+Well worth the price. Easy navigation, great mouse control, numerous connection options, even redirects your sd card. Using on moto droid.
+Well worth the price. Easy navigation, great mouse control, numerous connection options, even redirects your sd card. Using on moto droid.
+Easy setup and great interface. Runs with no issues on Droid. Well worth the price.
+Easy setup and great interface. Runs with no issues on Droid. Well worth the price.
+Easy setup and great interface. Runs with no issues on Droid. Well worth the price.
+Easy setup and great interface. Runs with no issues on Droid. Well worth the price.
+Easy setup and great interface. Runs with no issues on Droid. Well worth the price.
+Easy setup and great interface. Runs with no issues on Droid. Well worth the price.
+Easy setup and great interface. Runs with no issues on Droid. Well worth the price.
+I was able to rdp into my machine and quickly fix a website all through my phones 3g connection. Absolutely fabulous software! (Eris droid)
+I was able to rdp into my machine and quickly fix a website all through my phones 3g connection. Absolutely fabulous software! (Eris droid)
+I was able to rdp into my machine and quickly fix a website all through my phones 3g connection. Absolutely fabulous software! (Eris droid)
+I was able to rdp into my machine and quickly fix a website all through my phones 3g connection. Absolutely fabulous software! (Eris droid)
+Great for accessing my work comp on the road. Responsive and fast. Worth the price tag.
+Great for accessing my work comp on the road. Responsive and fast. Worth the price tag.
+The straight RDP support works flawlessly on my Droid. Cursor control & native resolution support are exceptional. Win7 Ultimate x64. Thank you!
+The straight RDP support works flawlessly on my Droid. Cursor control & native resolution support are exceptional. Win7 Ultimate x64. Thank you!
+The straight RDP support works flawlessly on my Droid. Cursor control & native resolution support are exceptional. Win7 Ultimate x64. Thank you!
+Amazing. Access of server and apps with the droid! Could use a manual on cursor use though.
+Amazing. Access of server and apps with the droid! Could use a manual on cursor use though.
+Amazing. Access of server and apps with the droid! Could use a manual on cursor use though.
+Works great on 3G but cannot use when connected to router for some reason, will partially load screen but lock up. As I said works great on phone 3G
+Good program but cost way too much. Pinch zoom would be nice as well. Returned and downloaded a free one.
+Excellent client. Looks great, easy to use. Love the touchscreen-as-touchpad, very intuitive. My only complaint would be that I can't right-click.
+Excellent client. Looks great, easy to use. Love the touchscreen-as-touchpad, very intuitive. My only complaint would be that I can't right-click.
+Excellent client. Looks great, easy to use. Love the touchscreen-as-touchpad, very intuitive. My only complaint would be that I can't right-click.
+Excellent client. Looks great, easy to use. Love the touchscreen-as-touchpad, very intuitive. My only complaint would be that I can't right-click.
+Excellent client. Looks great, easy to use. Love the touchscreen-as-touchpad, very intuitive. My only complaint would be that I can't right-click.
+Excellent client. Looks great, easy to use. Love the touchscreen-as-touchpad, very intuitive. My only complaint would be that I can't right-click.
+Excellent client. Looks great, easy to use. Love the touchscreen-as-touchpad, very intuitive. My only complaint would be that I can't right-click.
+Excellent client. Looks great, easy to use. Love the touchscreen-as-touchpad, very intuitive. My only complaint would be that I can't right-click.
+Fantastic i like this scrolling method better than the other rdp program. reminds me of logmein for iphone
+Fantastic i like this scrolling method better than the other rdp program. reminds me of logmein for iphone
+Fantastic i like this scrolling method better than the other rdp program. reminds me of logmein for iphone
+By far the best mobile rdp app on any platform. Using the screen as a touchpad for the mouse pointer is brilliant. Well worth the $.
+For the UK 3G connection it works like a dream on Windows 7 Ultimate, well worth the extra money for purchasing. Preferred over other RDP apps.
+For the UK 3G connection it works like a dream on Windows 7 Ultimate, well worth the extra money for purchasing. Preferred over other RDP apps.
+For the UK 3G connection it works like a dream on Windows 7 Ultimate, well worth the extra money for purchasing. Preferred over other RDP apps.
+For the UK 3G connection it works like a dream on Windows 7 Ultimate, well worth the extra money for purchasing. Preferred over other RDP apps.
+For the UK 3G connection it works like a dream on Windows 7 Ultimate, well worth the extra money for purchasing. Preferred over other RDP apps.
+For the UK 3G connection it works like a dream on Windows 7 Ultimate, well worth the extra money for purchasing. Preferred over other RDP apps.
+For the UK 3G connection it works like a dream on Windows 7 Ultimate, well worth the extra money for purchasing. Preferred over other RDP apps.
+Best app out there for the android market no other rdp comes close, worth every penny, fast respone , 5 star app , most productive app ever used
+Best app out there for the android market no other rdp comes close, worth every penny, fast respone , 5 star app , most productive app ever used
+Great rdp client. Super smooth panning, great setup. Only problem is using mytouch there is no way to type a backslash to access shares on a network.
+Im moderately skillied at using computers but had a very hard time setting this up. It was worth all the effort! This app is one of the greats!
+Im moderately skillied at using computers but had a very hard time setting this up. It was worth all the effort! This app is one of the greats!
+By far the best mobile Terminal Services client I have ever used. Easy to use and highly intuitive. Well worth the price tag.
+The performance is quite unbeleivable. Almost magical. I can even veiw a picture slide show. Brilliant.
+The performance is quite unbeleivable. Almost magical. I can even veiw a picture slide show. Brilliant.
+Worth the $$$. Everyone here is right. The performance is incredible. The mouse pointer and screen pan perfectly. The screen updates immediately.
+Pretty damn expensive compared to other similar apps, but its worth it. This one works very well.
+The best Microsoft RDP client imagineable. Works great on measly Edge, no problem w/ non-default ports (ie not 3389).
+Price is steep but it completely destroys the other RDP app on the market. Truly superb. Craig is a tard, works fine on edge.
+Price is steep but it completely destroys the other RDP app on the market. Truly superb. Craig is a tard, works fine on edge.
+Price is steep but it completely destroys the other RDP app on the market. Truly superb. Craig is a tard, works fine on edge.
+Very nice, i just wish you could zoom in. Works fine on XP media edition
+Superb app! Best RDP client on android bar none. Keep up the great work, and keep it updated!!
+Excellent program. I've tried other rdp programs on android but this one is very responsive and is less memory intensive.   worth the asking price.
+Excellent program. I've tried other rdp programs on android but this one is very responsive and is less memory intensive.   worth the asking price.
+Excellent program. I've tried other rdp programs on android but this one is very responsive and is less memory intensive.   worth the asking price.
+This app is amazing, exactly what i was looking for and well worth the money.
+This app is amazing, exactly what i was looking for and well worth the money.
+This app is amazing, exactly what i was looking for and well worth the money.
+This app is amazing, exactly what i was looking for and well worth the money.
+Absolutely stunning.  Best app on the market, and well worth the price.  Works flawlessly, no complaints.
+OH MY GOD.  I use rdp often and this is legit. Awesome input, smooth, just like the real deal. Easily worth $10

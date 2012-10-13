@@ -1,0 +1,1537 @@
+Constant problems with losing control of mouse only way to fix is to reset remote machine manually. Fix for 5 stars. HTC desire hd
+Cant connect from home seems only to work when I'm at home and not away thk
+If your phone didn't have to be on the same wifi connection for this app. To work. And I could leave my computer on at home and really go anywere
+Works good. Just need to know some basics on networking. Would be great if maneuvering was smoother and a better icon.
+The program does not work on RealVnc as states. It continually fails to establish a handshake, but I if I use vncviewer, it works fine.
+The ability to copy text from the remote host is pretty standard on today's vnc viewers.  It is missing from this viewer.  This viewer is less useful without this vital feature.  Example: highlight text on the remote host, a Windows PC, and use it on the phone.  (Copy remote host clipboard to Android device).  This is like a partial implementation of a vnc viewer.  This is 'alpha' quality software.
+Garbage iinterface
+Mocha vnc is far better than this app. Don't waste time installing this.
+No MAC support
+It only works with the local wifi connection. It would be nice if you could control it from far away using a data connection
+Seconds after login, remote host logs out, loses net connection, then kicks back out to login screen. VNC setup works fine everywhere but here.
+Unable to input keys without hard keypad. Galaxy nexus
+I only wish I could find a Linux viewer that was as simple and elegant as this app! The method of sending special keys is particularly well handled.
+Couldn't connect at all to my TightVNC server.
+Just doesn't work w/ any machine I've tried to connect with.  I wish performance vs bit depth were its only issue..., but it also hangs on either of the two recent Linux distros I've tried...,  and doesn't work at all w/ a 10.6.8 Mac.  Have tried numerous setting combos..., and like I said at the start, it no worky.  Installed on a Xoom.
+Won't even load. FC on Samsung Galaxy.
+Shame the developers forget that some people are educated in fields OTHER than computers, and therefore could use some basic instructions on how to set up their apps.
+How can anyone rate this so highly when there is no virtual keyboard
+It is useless. ..
+This does no compression apparently when on 3g AT ALL which makes it virtually useless unless on wifi 5 feet away.
+Double-click causes a right-click event which makes double-clicking almost impossible... WYSE free vnc works much better for windows. Uninstalled.
+Quite crappy stuff. Doesnt work at all.
+works fine for me. htc sensation ==> debian.
+works fine for me. htc sensation ==> debian.
+works fine for me. htc sensation ==> debian.
+Unstable as hell. Just keeps dropping out in 3g. Needs better error correction and retry/timeout management
+Unstable as hell. Just keeps dropping out in 3g. Needs better error correction and retry/timeout management
+This app is awesome. Everyone who negatively comments is retarted. A virus? F-off!!! Your stupid. learn how to use the app and ur computer. Rooted d2
+Maddening to try to use emacs, screen etc. with this!!! PLEASE support quick special keys with keyboard: Ok button used to be ctrl, why no more?
+Only allows me to connect from my home network which is useless considering my computer is at home.
+Excellent app! But Verizon users beware...they recently blocked it on their 3g network. Still works fine on wifi.
+Amazing.! Works perfect. Even simulates right click. Full PC control from my phone. Only needs multi Mon. Support :-)
+No idea what field you're typing in when setting up a new connection. Drop down menus aren't visible on my phone (you can see the menu, but all blank!
+Works far better than anything I've experienced before. Shocked (in a good way) by screen response time (although the initial load is quite lengthy)
+Great app works on 3G and wifi. Don't rate low just because you don't know how to set up a VNC server on your home computer
+Great app works on 3G and wifi. Don't rate low just because you don't know how to set up a VNC server on your home computer
+too slow to use. real vnc on my iphone is flawless and fast. what gives?
+Will not connect to ubuntu server, even locally! While vnc works on all other pcs that I use to monitor it
+Worked on my i1 but never got it to work on my epic 4g galaxy s....
+Worked on my i1 but never got it to work on my epic 4g galaxy s....
+Constant problems with losing control of mouse only way to fix is to reset remote machine manually. Fix for 5 stars. HTC desire hd
+Worked great once I put in the right I.P. address. Can be found on VNC icon next to clock.
+Works perfectly if you know what you're doing. I've had no problems with Debian, Windows 7, or Mac OS X. Best client out there!!
+Fantastic!! A real and lightweight vnc remote desktop for android... this is the best of 6 vnc solutions i tried. Works flawlessly with xp.
+Fantastic. The most *useful* app I have. Great for remotely controlling my kids' computers (and checking what they're up to on MSN/FB!).
+Does not work on Droid X Verizon or HTC EVO Sprint. If pc is locked, vnc will not connect. Pc has to be unlocked without a screen saver to connect.
+Took an hour to route at home, went back to school, was similar to trying to put out the fires of hell with a squirt gun. Theyre still burning strong
+Great! You do need to know how to route a VNC server with port forwarding.
+Works as advertised. Mouse movement takes some getting used to, but very useable. Droid X w/ 2.21
+Lulz at some of these comments. Works wonderfully on my Nexus 1 with tight vnc.
+Doesn't support username and password type login like ultravnc - too bad. Might be useful if it did.
+Works well enough. Lowered color speedier redresh on screen. Only complaint is that i cant send alt # without using "send text" option. Droid 2.2
+Good app. Dies when I pan to the bottom right on of my linux box using my Archos 101.
+good app, although I have to use it with my pc monitor on as my phone won't update the display when opening new windows etc. HTC wildfire, any help?
+Working great on desire with froyo connecting to Win 7 with Tight VNC set as server using max settings.... Sweet
+Useless garbage.ONLY WORKS WHEN COMPUTER SCREEN IS ON. Slow response. Press key on android keyboard and different key interpreted on computer. FAIL
+Takes forever to get first screen shot, have to aimlessly click a bit. Laggy, although pcs native is 1080p... (htc wildfire, win 7, ultravnc, WiFi)
+Works great on my evo. Little slow on opening connection. Have been using it for 8 months
+Works great on my evo. Little slow on opening connection. Have been using it for 8 months
+Consistently dispplays a black screen over wifi, forcecloses whenever I interact with the app. G1 on cyanogen 1.6.
+And it still cant connect a g1 to ubuntu realvnc, app force shutdown after handshake. . . Better luck next year
+Tried to get it to work an hour and got nowhere. Online help is worthless no support.
+Doesn't resolve by fqdn but most don't. Pretty much useless without keyboard. The macro idea is cool.
+Comes in VERY handy, for controlling VNC clients. Has its drawbacks, at times, AS does VNC, in general. But, works, and is FREE!
+Easy setup, works well. Tightvnc sometimes requires minimizing & remaximixing widows over pc to refresh changes but no biggie. App has good options.
+Works great on galaxy at 1.5. Be sure to open the desired port on your router or modem. For such things contact your local provider as i did.
+I want to give this 5 stars because it is awesome, but I'm giving it 4 because you cannot control the mouse very well/at all. Would give 5 if fixed.
+Very good. Would prefer key by key keyboard input and see it real time rather than typing whole block of text then sending it. screen rotate missing.
+Doesnt work with the paid vnc server version (the one tha uses an encrypted connection). Only works with the free server?
+Excellent. Suggest long press brings up Send Text menu. Or better still, brings up a keyboard. HTC Hero.
+The most usefull app I have. Works perfectly with Droid Incredible and TightVNC server app on my home PC, which is also a free download.
+Very good but please include virtual kryboard. Typing is very hard on N1 unless you have G1 with hardware keyboard.
+Very good but please include virtual kryboard. Typing is very hard on N1 unless you have G1 with hardware keyboard.
+Excellent, and free! Would be nice to be able to hide the zoom buttons, and the icon needs updating.
+Green screen + cursor fixed.Thanks.But on Hero 2.1 can't control remote PC's mouse,send text or Ctrl Alt Del etc. Can only pan. UltraVNC.
+Couldn't even connect. DROID X. RemoteVNC has free ad-supported ver that works great! This app fails.
+If you don't know what VNC is or how to determine your own ip address, this app is not for you. Would like to send 'enter' key
+If you don't know what VNC is or how to determine your own ip address, this app is not for you. Would like to send 'enter' key
+Amazing work, the new features (touchpad + repeater) make this perfect. Now, could you please add a way to send the windows (super) key? Thanks again!
+I have evo this app sucks paid app is better can only connect WiFi and crashes on my phone every other time I try to use it
+Works fine with Ubuntu Lucid. Didn't do internal DNS, but that's okay. Utterly usable and now indispensable.
+Doesn't work with mac, even with no password! After establishing connection breaks with a failure message..
+Cant see text on drop-down menus. Using cliq. Other than that i waould rate it 4 stars.
+No connection, no mention of what the issue might be. Instant "connect failed" dialog. Useless. Immediate uninstall.
+This used to be the best until an update killed the usage with UltraVNC. Wrote the devs, no response. Only gets green screen.
+Used to work perfectly. Now for no reason at all just doesn't work. Used to be 5*'s now 1*! moto Droid on win7 using tight Vinc over wifi
+Used to work perfectly. Now for no reason at all just doesn't work. Used to be 5*'s now 1*! moto Droid on win7 using tight Vinc over wifi
+Used to work perfectly. Now for no reason at all just doesn't work. Used to be 5*'s now 1*! moto Droid on win7 using tight Vinc over wifi
+Wont connect to win7 RealVNC Enterprise, just hangs at the handshake screen. Using Dell Streak 1.6
+Huge battery drain and heats up my phone, yet AMAZING APP. Very awesome once you figure out remote. TightVNC, XP 32-bit sp3, Moto Droid 2.1
+Would not connect @ all to my win7 RealVNC Enterprise computer. Only device i couldnt get to connect with (Moto Backflip)
+Doesn't work with RealVNC as advertised. Googling solutions didn't help. Shouldn't need to put this much effort.
+Does what it says, and does it well. Oh, except Ubuntu does tend to lag, but only Ubuntu.
+Works great on my Nexus one! DEV has put some great features in this! So many different options to suit any task.
+Works great on my Nexus one! DEV has put some great features in this! So many different options to suit any task.
+Works great on my Nexus one! DEV has put some great features in this! So many different options to suit any task.
+Connects quickly, mouse clicks etc happen almost instantly. Only problem is that the screen sometimes turns green before reloading the image. Plz fix!
+Work OK but the mouse controls are wonky and the zoom can't use the multitouch
+Could not get it to connect,just another headache.wish it would work for me. using g1
+Same computer, Remote VNC worked, this app didn't. Easy choice... use the other app.
+Same computer, Remote VNC worked, this app didn't. Easy choice... use the other app.
+Good but takes some patience to set up and ui is a bit difficult to navigate...awesome fo spying tho. ; -)
+Works very well for many applications, I used on a video system to transmit megapixel streaming video and was getting great results. Love this app.
+OK for viewing but can't click. I'm using it incorrectly or it doesn't work on the nexus one.
+OK I had problems setting this up, and I am not a noob at using my PC. I think the problem you guys are having connecting. You need to turn off encryp
+OK I had problems setting this up, and I am not a noob at using my PC. I think the problem you guys are having connecting. You need to turn off encryp
+Works great! Thank you! Droid joystick works very slow with mouse cursor. Improved response would be greatly appreciated. 5 stars!
+Works great! Thank you! Droid joystick works very slow with mouse cursor. Improved response would be greatly appreciated. 5 stars!
+GREAT! ctrl alt del is a menu option , comes in handy also hold alt while typing passwords in win machines.
+Works great! I love how I can lower the resolution; it helps speed it up! Using TightVNC as a host.
+Very poor controls on droid. Mouse follows pan and pan follows mouse do not work. As previous user mentioned, jaduu vnc on iPhone has great controls.
+Refuses to connect to my Mac servers, but "Remote VNC Lite" connects just fine. Same configuration data entered for both apps.
+Refuses to connect to my Mac servers, but "Remote VNC Lite" connects just fine. Same configuration data entered for both apps.
+Refuses to connect to my Mac servers, but "Remote VNC Lite" connects just fine. Same configuration data entered for both apps.
+very difficult to move the mouse but once I'd figured that out, it really came through for me.
+Works. Could we get an icon worthy of display on our sleek devices please? I know it's a minor thing but it makes the app even better overall. Thanks!
+Gives me a warm geeky feeling to access my desktop while on the road. Refresh could be better but I like it.
+I can vnc between mac/pc but this client on droid can't. Something is wrong with the app cuz vnc is no brainer to set up ;)
+I can vnc between mac/pc but this client on droid can't. Something is wrong with the app cuz vnc is no brainer to set up ;)
+Not for Osx,What a pile.and no help as to how to make it work.developer SAYS theoretically should work but untested. WTH?
+Mouse click not working on Hero. Makes the app practically worthless. Shows promise, will try again.
+no pan on drag,click on tap,other input methods are not comfortable.at setup keyboard hides the input fields, had to get out to check what's next.
+I'm using a Sprint hero Android 1. 5. Works great on my machines w/ UltraVNC. Excellent work. One issue, I cannot push the trackball in to click.
+This worked fine with my Mac until last night when I installed Donut. Now keystrokes come up garbled. Useless to me until that's fixed.
+This worked fine with my Mac until last night when I installed Donut. Now keystrokes come up garbled. Useless to me until that's fixed.
+Awsome program the only thing is when i put it in grayscale it is still in colors
+Awsome program the only thing is when i put it in grayscale it is still in colors
+Awsome program the only thing is when i put it in grayscale it is still in colors
+I downloaded ultra vnc viewer on my computer and it works perfectly. Can anyone verify security?
+I downloaded ultra vnc viewer on my computer and it works perfectly. Can anyone verify security?
+Was working fine yesterday  phone just updated and now not able to connect at all.  Never changed a thing...  need an update for the update
+I need jelp on how to use this. I havr installed the android vnc app and wanna be able to control my pc. jvr.p.84@gmail
+Could not get it to connect (connection failed errors). Does this even work with cupcake?
+No longer seems to work..loads of force close..maybe update because of cupcake?used to work well
+Would not work even after my it dep verified i was putting the info in correctly
+Would not work even after my it dep verified i was putting the info in correctly
+Will not connect, does it take days to connect? Its been establishing handshake for 4 days,....
+Display mess up when server is using a wide-screen resolution. E.g. 1280x800 or 1920x1200.
+A nice start but still a way to go before it's truly useful. Mouse navigation in particular is buggy and hard to use. Shows promise!
+Does not work with my PC.  You know why cause of Bugscreens XP SP 3 firewall blocking it.
+Keeps dropping connection using Windows 7. Im sure its fine in other versions of windows :)
+Keeps dropping connection using Windows 7. Im sure its fine in other versions of windows :)
+I love it. I have been waiting for this since i got my g1. You rock!!!
+This is a nice program i only tested from inside my appartment  i will test from out side when i get a dns name i can use
+Works nicely except for some reason it's impossible to double click (double tap sends right click), which makes it all but useless. What were you thinking guys?
+Screen updates slow even over wifi, screen distorts on  zoom unlike other clients. Galaxy s3
+Couldnt get a connection through computer name, only IP. When handshaking staying on connecting for a long time. Aborted and uninstalled.
+Used to work flawless. But now the local mousepointer is invisible no matter what. And keyboard is stuck in CAPS-LOCK...
+Poor UI. Scarce documentation. No joy connecting from droid3. Used to work on droid2.
+Its a good app, but I use most to help my girfriend on the go accessing her android, and guess what? Landscape only seems quite stupid in this case!
+Works well, control of remote desktop not intuitive
+The ! And other keys are not send,making it unusable kn galaxy Note. Can You fix that?otherwise pretty nice!
+Beats the alternatives, but why are there two ways to right click and no practical ways to double click? Who thought that up? Navigate folders much?
+This app worked great, on my Droid 1. On my 3, however, some of the keys wont work, like Space, Backspace, and most of the Alt symbols.
+I can connect to my laptop (Ubuntu) but the screen on the phone doesn't update when I click something. Using captivate, CM7.1
+Great vnc client but the arrow keys don't do anything on droid2 and the send keys list is blank.  Its still usable though, the hilighted key shows up.
+Dies with "copyrect" not implemented after first screen loads. Otherwise, has great potential.
+I get the establishing handshake to come up but it never established even after 20 minutes of it running
+Remote desktop is rendered as block pieces. Keyboard access is clunky. Some sort of finer mouse pointer control and tracking would make it much more usable.
+No field for username, no support for encryption. How is it supposed to work without the server wide open with only a simple password? Please fix.
+won't connect for me I'm technical, but after an hour of fruitless effort gave up. Also poor support on their website. seeking another client
+Works but there is a considerable input delay on wifi even when on the same network.
+If your phone didn't have to be on the same wifi connection for this app. To work. And I could leave my computer on at home and really go anywere
+Great app. I use it to take xdesktop of Ubuntu installation on my N1 and works very well
+Doesn't work on my MAC I go to connect and it says connection failed I have HTC evo
+Doesn't support username and password type login like ultravnc - too bad. Might be useful if it did.
+Does not work on its own. It requires another program called crossloop to work in tandem with it.
+All menus invisible...bug.Does the job. Works w/Ultra Vnc. Lil rough to work with Cursor on droidx. But very happy
+Teamviewer has an android version out and it is incredibly easy to use. It works over 3G as easy as wifi. Its also free.
+Awesome. I have a courseware disc to get through for one of my classes and this lets me do it at work without being incredibly obvious on my net book.
+I only can view my pc thru my own WiFi network. CAn't view in my friend's WiFi network and my own 3g network
+Does connect to Vista Home through RealVNC on X10i but only show the mouse pointer with a black screen, nothing else, which makes it useless to me.
+Does connect to Vista Home through RealVNC on X10i but only show the mouse pointer with a black screen, nothing else, which makes it useless to me.
+Will connect to ubuntu 10.04 but only ever get the first frame, cursor moves but remote desktop just sits there like a wallpaper. HTC desire.
+Somehow the dev needs to make sure the phone knows when focus is applied to a field. I had to use windows on screen keyboard
+Won't work with UltraVNC if using NTLM authentication. Can't get screen to display properly with UltraVNC at all.
+Doesnt work with the paid vnc server version (the one tha uses an encrypted connection). Only works with the free server?
+Works great but have not figured out how to send greater than and less than symbols from HTC Incredible.
+Works great over 3g and wifi. Fast and accurate. Only complaint is it kills HTC Sense - causes reboot when program is closed.
+Does good but hangs during handshake MOST OF the time. Wyse Pocket Cloud is better...moto droid
+Connects to my pc. Display changes to a green screen when navigating around the desktop.
+Great, the first app I have seen that saves to SD automatically with 2.2, NexusOne. Finally
+Huge battery drain and heats up my phone, yet AMAZING APP. Very awesome once you figure out remote. TightVNC, XP 32-bit sp3, Moto Droid 2.1
+Works great with realVNC, tested 3 computers so far. Only "complaint" is trackball scrolling is very slow. Check their website for various instructi
+Works great!! Took less than 10 mins to install a free Vnc server on my PC and run this app to connect to the server. Best free vnc viewer so far.
+Works great and it's free. To get the keyboard to pop up hold the menu key. N1.
+Works great and it's free. To get the keyboard to pop up hold the menu key. N1.
+Not every1 was born a computer genius...instructions would be great! Uninstall for now till someone can tell me how to set it up...
+Having trouble loading web pages on my g1 have to diconnect n reconnect for the page to load also alot of laggg
+Buggy. Crashes and doesn't connect, despite realvnc set up with forwarded ports. Running on Droid
+I can vnc between mac/pc but this client on droid can't. Something is wrong with the app cuz vnc is no brainer to set up ;)
+Keybindings all wrong on droid. A key enters A, B key enters S, C key enters D, D key enters F (abcd = asdf) ... and so on; nearly every key is wrong
+Not really good with this stuff what do u put when it says address....i cant get it to connect
+Using against windows server 2008 R2. It works, but very slow and then screen turns all green
+Doesn't seem to work on the Droid. Used UltraVNC as my server, Win 7 and XP. Hangs when trying to render desktop. Remote VNC Lite works better.
+Works well except for 'fit to screen' scaling which doesn't work at all on my htc magic
+I need help.!!! How long does it have to take to connect??? Can anyone tell me
+This worked fine with my Mac until last night when I installed Donut. Now keystrokes come up garbled. Useless to me until that's fixed.
+I downloaded ultra vnc viewer on my computer and it works perfectly. Can anyone verify security?
+Was working fine yesterday  phone just updated and now not able to connect at all.  Never changed a thing...  need an update for the update
+This app has potential, but it does not work well with Ubuntu.  It's slow, doesn't refresh the screen properly, and has poor mouse support.
+Doesn't work well with Macs.  You have to use 24 bit color which drags to a halt when viewing a 30 inch monitor.
+Poor keyboard support with cupcake on the HTC Magic. Use "Send key" for ENTER and press the MENU key for 2 seconds to open or close the keyboard...
+It works but does not work well on a computer with a high resolution. When zoomed out only a small portion of then screen is shown.
+Works well for local network access...however tmobile seems to block the standard vnc ports, so no access over 3g...love being able to use w/ubuntu
+No adds, no free/paid versions and it's that it's open source. But the mouse/pan/click is not that great.
+Was easy to jump right to a connection for someone familiar with vnc experience.  I'm unhappy with it's lack of auto rotate.  Have to hold tablet the way it wants.
+New ASUS with Tegra3 quad, SSH things work well, this VNC app crashes, locks, doesn't seem to send the pointer update info. A work in progress and not currently usable. Sad, that's why I bought the tablet.
+I can actually connect to my end users and support them via my phone in a pinch. Love this app!
+Support and instructions are poor.
+This is a serviceable VNC viewer but functionality is limited and usage is extremely cumbersome.  Needs a better implementation of keyboard integration so as users can see what they are typing.  Also needs a faster way to summon the keyboard.  Lastly, should have integration with different types of keyboard like Hacker's keyboard for tab and arrow keys and other special keys.
+Locks up the phone when on mobile data but works fine on wifi. This is Verizon w/ a samsung stratosphere. Anyway would like options such as shared mode and view only mode, but for what it is it gets the job done.
+Running on ics generic tablet otherwise seems to work well
+Thanks for a good bit of software but there doesn't appear to be a send keys function for the mac 'cammand' key or windows equivalent... which on a Mac does make it very difficult sometimes.
+Doesn't retain mouse preference between launches.
+Main menu is awkward and its not easy to get the keyboard to come up. Performance to UltraVNC is lackluster
+Controls are somehow complicated.
+The screen shows up. Clicks almost work all the time, found click near edges on scroll bars though to work. All what aside text entry into a browser is bad.  I tried several time and could not get text into a  text box
+It doesn't support encrypted connections. Will not connect to my RealVNC Personal Edition server with encryption on--therefore useless.
+I just see a terminal and a X for a mouse. Can someone help?
+Exactly what I wanted!
+...but the inability to send a double-click without changing input modes (no, i don't have a trackball or a dpad to double-click it) makes it totally inconvenient for me :-(
+haven't got it to work yet smh
+So so
+Works, but lack of compression means it's a pretty slow experience over WiFi (G anyway)
+Works well with TightVNC and DynDNS to get through routers. Very functional program.
+Quite crappy stuff. Doesnt work at all.
+Not working well on my HTC Flyer: pixelated, erratic. I take it this is not optimized for tablets. I'll keep looking for a good, free VNC app.
+This works as a basic VNC client. A lot of the problems other people seem to be having could be fixed straightforwardly by tunneling the connection over SSH, using, e.g., ConnectBot. That said, the interface for sending special keys (control, alt, etc) is very awkward, and it doesn't work with Hacker's Keyboard, so forget about controlling keyboard-intensive applications.
+This works as a basic VNC client. A lot of the problems other people seem to be having could be fixed straightforwardly by tunneling the connection over SSH, using, e.g., ConnectBot. That said, the interface for sending special keys (control, alt, etc) is very awkward, and it doesn't work with Hacker's Keyboard, so forget about controlling keyboard-intensive applications.
+Needs different input modes, multitouch zoom is terrible, sensitivity needs to be adjustable, multitouch to scroll, etc etc. Still smoother than wyse.
+Needs file transfer. It is ver. 0.5.0 and still does not support it. Great app. Does what VNC does. It takes some getting used to input modes.
+Pop-up lists are unreadable when configuring connection (droid 2). Mouse cursor seems to fall 1/8" below where I press.
+Didn't worked on samsung galaxy s, I can connect to my ubuntu machine but remains with the first screen
+Only allows me to connect from my home network which is useless considering my computer is at home.
+Pros: Right click simulation. Cons: Central-european accented characters are shown as "?"-s. (The language files should be converted to utf-8.) This makes the translated text unreadable. Not usable with realVNC server because the server used some unsupported security type. My server is using VNS pass authentication.
+Great app, but it really needs a file transfer option to give it 5 stars. Aside from that, I can connect to my PC at home which is using UltraVNC.
+Communication is slow. Takes 10 minutes or longer to see first screen. A tethered laptop at same location is instant. Other then that it's good. EVO
+No idea what field you're typing in when setting up a new connection. Drop down menus aren't visible on my phone (you can see the menu, but all blank!
+Connects fine, easy to configure. Looks like the mouse input is going through bc i can see the intended effect on my pc but the actual display on my Xoom isn't updating at all. Will update rating when this is addressed.
+I love the app but the last few updates have introduced a bug. The lists of saved connections/commands are blank names.
+Great app works on 3G and wifi. Don't rate low just because you don't know how to set up a VNC server on your home computer
+I'm not able to connect to my ubuntu sever when i'm not with in my network
+I'm not able to connect to my ubuntu sever when i'm not with in my network
+would like to see more features in the future
+Works good when I am at home connected through wifi but can't figure out why I can't connect when away from home.
+Works good when I am at home connected through wifi but can't figure out why I can't connect when away from home.
+Constant problems with losing control of mouse only way to fix is to reset remote machine manually. Fix for 5 stars. HTC desire hd
+Constant problems with losing control of mouse only way to fix is to reset remote machine manually. Fix for 5 stars. HTC desire hd
+This horrible ugliest icon runs smoothly on my x10 mini :) Update the icon please...
+App itself works great on wifi Fails on 3g, makin it pointless If i am close enough for wifi im close enough to touch my computer
+Worked well on my DROID 1. Now on DROID pro and its forced orientation is totally awkward.
+Works but there is a considerable input delay on wifi even when on the same network.
+Looks like a great client however does not support realvnc enterprise server (username authentication) bummer
+Awesome app... perfect for remotely getting into my server at work, great UI! Droid2 from Verizon
+OK. Interface is hard to use. Things like default text is white with white background on DroidX. Had to select all text in each field to see defaults.
+Remember network settings (port forwarding/software based firewalls/SSH tunnels). Also to get the first screen to show up, try swap color depth.
+good app, although I have to use it with my pc monitor on as my phone won't update the display when opening new windows etc. HTC wildfire, any help?
+Takes forever to get first screen shot, have to aimlessly click a bit. Laggy, although pcs native is 1080p... (htc wildfire, win 7, ultravnc, WiFi)
+Teamviewer has an android version out and it is incredibly easy to use. It works over 3G as easy as wifi. Its also free.
+Works great on my evo. Little slow on opening connection. Have been using it for 8 months
+I can get access but no touch pad!!! Doesn't do me much good to stare at the screen. Why can't I enable touched? Would be 5 stars if mouse/touch works
+I cannot get sound to play on my phone when I access music. But good app, east setup when install TightVNC on PC.
+And it still cant connect a g1 to ubuntu realvnc, app force shutdown after handshake. . . Better luck next year
+Having trouble establishing handshake with late 2008 macbook. Also, bmp choices are not visible until clicked on Droid X.
+Works great with HTC Eris and RealVNC. My pc is set at 1024x768; you have to scroll around the screen a bit, but this app works awesome
+Only good for one or two uses then I gotta reinstall it on my Eris. Great app tho!
+Excellent app, works great with OSXVNC on powerbook. The dropdown lists appear blank though, needs minor bug fix (droid x 2.2).
+Comes in VERY handy, for controlling VNC clients. Has its drawbacks, at times, AS does VNC, in general. But, works, and is FREE!
+Pretty cool. Definitely allows for vnc into the machine, but it's a but difficult to get around with out a keyboard.
+Pretty cool. Definitely allows for vnc into the machine, but it's a but difficult to get around with out a keyboard.
+Excellent app. Works with both Windows and Linux Ubuntu, running its built in VNC server
+Love it! Using TightVNC on my hosts and it works like a charm (LAN/WiFi tested only)
+An "okay" desktop remote.wish it showed the mouse because it was hard to select things without knowing where or what you were going to select...
+On my droid X, without a keyboard, its hard to use, but hey its free
+Screen refresh sucks, but more of a VNC issue. Would like to see file transfer.
+Screen refresh sucks, but more of a VNC issue. Would like to see file transfer.
+Works well, but typing does not work as expected, especially using function mode on my phone keyboard. Mt3gs
+Use this often with my Pentium II storage and print server. Its a pleasure to use with Tightvnc, and does a good job over 3g. (Eris)
+Can't get it to connect over 3g. Only if I connect to wifi on same network. Please help. Droid
+Failed to send uppercase or special characters from my Druid running 2.1 to my Kubuntu 10.04 setup running x11vnc. Three stars for enormous potential.
+Works well controlling my Mac, Linux & Windows boxes! A must have on any Android handset. I'm currently using it on a Dell Streak... awesome, Devs! 5*
+This app is super cool and very convenient. I wish they had more features like resizing the screen to the size of my phone.
+Downloads initial screen, after that does not update. Key clicks and inputs are working. -Evo connecting to Ubuntu 10.04
+Works pretty well on Droid Inc. Small delay on some screen updates, but is amazing what it can do.
+Works pretty well on Droid Inc. Small delay on some screen updates, but is amazing what it can do.
+Good but there needs to be a quicker way to use the keyboard. A shortcut icon on the screen would be good
+I was skeptical at first, but it worked like a charm (and was easy). Mad props to the dev of this. Definitely get if you use TightVNC.
+Great app. Needs mouse sensivity control (it's really slow on trackball) and support for scandic letter input (äöå). Also the shortcut force closes
+Only works on Wifi, but will not default to it unless mobile network disabled. Maybe add option to select connection type within the app?
+Cant see text on drop-down menus. Using cliq. Other than that i waould rate it 4 stars.
+Works perfect but only when im in my house with wifi on. Cant use it anywhere else. Moto droid
+Works perfect but only when im in my house with wifi on. Cant use it anywhere else. Moto droid
+Works perfect but only when im in my house with wifi on. Cant use it anywhere else. Moto droid
+I wish it had pitch zoom support. Other than that this is probably the best free VNC app.
+Brilliant app! I did have a little trouble setting up a server on my computer but that's just cause I'm a noob, it was pretty simple really.
+Brilliant app! I did have a little trouble setting up a server on my computer but that's just cause I'm a noob, it was pretty simple really.
+A bit slow over 3G compared to other VNC apps, crashes to often. Good over home network though. Keep up the good work
+Used to work perfectly. Now for no reason at all just doesn't work. Used to be 5*'s now 1*! moto Droid on win7 using tight Vinc over wifi
+Works great with realVNC, tested 3 computers so far. Only "complaint" is trackball scrolling is very slow. Check their website for various instructi
+This is so money. Have used it a billion times to babysit processes for work. Coupled with ssh tunnel this is great.
+Connects quickly, mouse clicks etc happen almost instantly. Only problem is that the screen sometimes turns green before reloading the image. Plz fix!
+Connects quickly, mouse clicks etc happen almost instantly. Only problem is that the screen sometimes turns green before reloading the image. Plz fix!
+Only problem i have is i can only connect over lan can't connect over the internet
+Difficult to operate, especially when entering text. But works better than any other VNC apps I've tried.
+Good but takes some patience to set up and ui is a bit difficult to navigate...awesome fo spying tho. ; -)
+OK for viewing but can't click. I'm using it incorrectly or it doesn't work on the nexus one.
+droid - works with xp + real vnc. the zoom buttons are in a poor position. more options than remote vnc
+GREAT! ctrl alt del is a menu option , comes in handy also hold alt while typing passwords in win machines.
+It works well, but Remote VNC is much better. The main problem with this is that the back button does not close the app on the Droid.
+Good work! I'd like to see an option to use the d-pad as the mouse, for devices without trackballs.
+Works great on Droid after I figured out you need to turn off full-screen to change input method.
+Seriously slow screen refreshes even in 8bit over wifi (g) + interface / mouse & panning options are flakey & unreliable. MAJOR ISSUES W/MULTI-MONITOR
+Not many VNC options for Droid yet, this one delivers though, watch out for some of the zoom settings
+Using against windows server 2008 R2. It works, but very slow and then screen turns all green
+VNC is more limited by hardware than software. This software works well, and is very impressive, however would benefit from a better icon and controls
+I had trouble seeing the mouse and scrolling is difficult. I found Remote VNC Lite to work much better.
+24bit is req. for macs, making it too slow to use. Wanna love it cuz its OS & very configurable, but Remote VNC is much faster. Sorry guys.
+no pan on drag,click on tap,other input methods are not comfortable.at setup keyboard hides the input fields, had to get out to check what's next.
+Works well except for 'fit to screen' scaling which doesn't work at all on my htc magic
+Can anyone recommend a good vnc client for vista 64 that will work well with this? I've tried tight vnc but its very clunky.
+I need help.!!! How long does it have to take to connect??? Can anyone tell me
+Awsome program the only thing is when i put it in grayscale it is still in colors
+Definitely a good start, but more could certainly be done to make mouse control less of a hassle. Tapping the trackball doesn't click on my hero.
+Awesome, and works fine with the magic's virtual keyboard. Just hold menu to bring it up.
+Awesome, and works fine with the magic's virtual keyboard. Just hold menu to bring it up.
+I downloaded ultra vnc viewer on my computer and it works perfectly. Can anyone verify security?
+Poor keyboard support with cupcake on the HTC Magic. Use "Send key" for ENTER and press the MENU key for 2 seconds to open or close the keyboard...
+Barely usable but it does work. Be sure to use "touch pan, trackball mouse" input mode. Screen doesn't always update, you can force update by panning.
+This app has the potential to be a very powerful tool.. It works ok, but it needs to be much more intuitive. Keep working on it!
+Will not connect, does it take days to connect? Its been establishing handshake for 4 days,....
+A good job at coding. Unfortuantly it appears it may not supprt kerkeros authencation being i get the login screen but not able to log in.
+Love it....its almost perfect....works on 3g when im not home, i get connect problems sometimes but on da same wifi network its a breeze. Great thx
+A nice start but still a way to go before it's truly useful. Mouse navigation in particular is buggy and hard to use. Shows promise!
+Works on my lan, but not through a router like full desktop clients will. Certainly does more than realvnc does right now
+Works fine when i am on the same wifi as my computer. If im not at home i get a vnc error. Please help
+Y does every one say this app is so great. It is EXTREMELY slow for me. Am i doing something wrong?
+The best app ever..now i can support others remotely and the switch with thr track ball is awsome..congratulations
+Does this kill the battery or is it just me? Batt died fast after trying it.  I love it, but couldnt fig out right-click.
+Downloaded vnc server and i need to do a lot of port forwarding in my router. Way too much hassle.
+The input method could use impovments plus isnt that fast too slow to play video with
+Needs ALOT of work but good implementation. Needs easier mouse flow and touch screen mouse control compatibility not just desktop panning.
+Cool. But its still not usable. Ive been following your project and i still think it needs a lot of work.. glitchy.
+Havent even used it andd i already know its gonna be the most ballingest app evar
+nan
+Works great on xperia arc s.
+Working great!
+Very nice range of interface modes to choose from.
+Ssh and vencrypt/tigervnc is a major improvement. With hacker keyboard app, it makes a phone or tablet great for remote connectivity.
+It works
+Worked flawlessly in a few minutes setup time, but needs to re-work right click and add a double  click function.
+how to transfer files?
+Does the job, my only issue is the mouse control and desktop interaction could be improved - bit difficult to to start with
+Works very well, and franly puts the paid "real VNC Viewer" app to shame. I like that it allows the user to send a control break. But sure wish it would allow sending a Control break-break.    Free is always good.. but would have paid the 10 bucks for this one instead of the realVNC.
+Works excellent the first time, but the next all the letters in the keyboard are UPPER CASE
+No probe so far
+Hoof
+It's app is very great, but you can't access vnc connections with encrypt
+needs a little more functionality 1) android-style scrolling 2) android-style text input 3) the option to change the widget icon
+Works as promised. UI could be imroved, but does the job.
+works great,only problem having is that u cant use touch if u set size to fit screen. galaxy tab 10.1 3.2 android
+Multi-VNC (based on this) is lighter on CPU cycles.
+When setting up connection for 1st time, you need to fill in all fields BELOW the drop-down menu.  Just a little unintuitive, but once you get past that, it works like a charm.
+Definitely the best vnc app I've used, and I use it a lot. I'd give it 5 stars if it wasn't for the really ugly icon! Surely the developer could quickly create a new one?
+Thanks for the app but could you please change the icon to something that doesn't look so ugly? Xoom
+Did not work when connecting to realvnc server enterprise for Windows. Worked on my ubuntu though...
+.
+Would be perfect if it had listen mode.
+quick to setup, and work immediately while TightVNC server was running on my pc 24 bit color, I have not get checked the refresh rate for stability. but so far I am impressed.
+Worked like a charm. Combined with connectbot ssh port forwarding, I can remote to my servers from anywhere.
+Great VNC client. Works just as you would expect
+This is the only app I've found that supports UVNC repeaters.  I wish it supported multiple monitors, though.
+Exactly what I wanted!
+Works how its supposed to. ...mouse needs some improvement.
+Manejo de ubuntu remoto no actualiza la primer  pantallas luego del primer cuadro
+Very very good implementation of VNC. Could use a few interface tweaks though. Strong work.
+But landscape only
+Landscape view only.
+It works very well, even tunneling through SSH with ConnectBot. But FOR THE LOVE OF ALL THAT IS HOLY please add a way to send a double click!
+Since updates it can't right click on OS X.  checked config but it always opens dashboard when I try to right click.
+Great free option. Nowhere near as polished as Wyse. Needs a UI overhaul and please update the ugly icon!
+Great vnc client but the arrow keys don't do anything on droid2 and the send keys list is blank.  Its still usable though, the hilighted key shows up.
+Great vnc client but the arrow keys don't do anything on droid2 and the send keys list is blank.  Its still usable though, the hilighted key shows up.
+Works as intended - great app! Connects to a WinXP running tightvnc in a virtual machine nicely.
+The dev should look at Pocket Cloud and make a mouse pointer like they have.
+This is a great viewer. 4 stars because no file transfer. Other then that its great on my DInc
+No way to double click without hardware keyboard. Needs an on screen mouse and option to change double tap functionality away from right click.
+Except id rather double click to hold left mouse and hold to right click. And the windows don't disappear right away.
+Great for the times when I'm at work and the Mrs needs IT support. Input methods could do with tweaking though. *HTC Sensation*
+works fine for me. htc sensation ==> debian.
+a few issues getting mouse clicks to register from time to time, and i seem to run into a speed issues when i am not running on wifi. but it is a great tool , and its free and it is wonderful.
+Cool, worked first time seems speedy enough, my only gripe is that your icon is crusty !!
+Great app :-)
+Great app :-)
+5 Stars for such a great potential app. It works as advertised and works flawlessly on my Galaxy S2 - Gingerbread. Tested the app works with Real, Tight without any problem. The app's icon should be redesign in high res icon. Otherwise the app icon looks ugly.
+As speedy the tightvnc client on PC connecting to a tightvnc server. VNC isn't the fastest protocol but works effectively over WIFI/3G w/ real desktop
+Works great from my Desire HD. Would like better keyboard implementation similar to pocket cloud. But this has much better features.
+Didn't worked on samsung galaxy s, I can connect to my ubuntu machine but remains with the first screen
+Absolutely awesome. Works great, I can connect to my comp from anywhere. And it's free!
+Great app! Need to improve mouse functionality. And how to send tab character? If there is no fuction to send tab character please add it.
+Great app! Need to improve mouse functionality. And how to send tab character? If there is no fuction to send tab character please add it.
+Amazing to be able to operate my computer from my phone. Don't these smartphone screens have tiny pixels! Interface not perfect but very handy.
+It works, however it's lagging 5 seconds behind on the phone.. Ubuntu 10.10 - galaxy s
+It's a nice app, but it really needs built in ssh support. Usage on touch only phones cumbersome.
+I'm not able to connect to my ubuntu sever when i'm not with in my network
+I'm a brand-new Android user, but a long time Linux user... being able to connect to my desktop from my tablet is excellent! And for free, too! Easy and intuitive to set up and connect. using X11VNC server -- 24bit colour, works flawlessly.
+Possibly the most used app on my phone. You have to laugh when you see remote desktop apps for tens of dollars when this app works best for free!
+This app can connect to the double tunnel set up through connectbot to vnc into my computer through a firewall from my phone. How awesome is that?
+Worked on my i1 but never got it to work on my epic 4g galaxy s....
+The VNC viewer works great. But why does it keep disappearing from my applications? Is this a known bug?
+Works. Works fine. But I keep losing the app in my library and have to uninstall/reinstall
+Works. Works fine. But I keep losing the app in my library and have to uninstall/reinstall
+Great app. Many ways to send input to host. Only reason for 4 stars is because of the white text on white background on host selection.
+Very good! But backspace dosent work on xperia x10 keyboard. And cant connect when not on wifi.
+Great app, but its always in landscape mode and I cant change it to portrait
+Fantastic. The most *useful* app I have. Great for remotely controlling my kids' computers (and checking what they're up to on MSN/FB!).
+Fantastic. The most *useful* app I have. Great for remotely controlling my kids' computers (and checking what they're up to on MSN/FB!).
+Great app. I use it to take xdesktop of Ubuntu installation on my N1 and works very well
+Seems to work well enough. Used it to control OS X, Win and *NIX boxes without issue.
+LOVE the app. Having trouble sending numbers via physical keyboard on droid 1. Also, no Windows key under special keys?
+You really have to know networking to get it to work, but its the fastest! Droid 2.2 root
+I can't use my x10 mini pro backspace key, is it unsupported or am I missing a setting somewhere?
+I can't get it to work when I'm on 3g only, is there any way to fix this? Only works for me when on my home wireless net,same as computer being viewed
+Never get disconnected from any computer! I love out and use it all the time
+Never get disconnected from any computer! I love out and use it all the time
+Works well enough. Lowered color speedier redresh on screen. Only complaint is that i cant send alt # without using "send text" option. Droid 2.2
+Good app. Dies when I pan to the bottom right on of my linux box using my Archos 101.
+Definitely works! The left/right, and double/single clicks are a little cumbersome. Surprisingly few dc's accessing dual screen machine though.
+Works good. Just need to know some basics on networking. Would be great if maneuvering was smoother and a better icon.
+Does not support encrypted connection, so make sure the server allows unencrypted access!!
+Teamviewer has an android version out and it is incredibly easy to use. It works over 3G as easy as wifi. Its also free.
+Teamviewer has an android version out and it is incredibly easy to use. It works over 3G as easy as wifi. Its also free.
+Teamviewer has an android version out and it is incredibly easy to use. It works over 3G as easy as wifi. Its also free.
+Awesome. I have a courseware disc to get through for one of my classes and this lets me do it at work without being incredibly obvious on my net book.
+I use my win 7 laptop force it to extend desktop to second vid card capture that with tightvnc and display with this app.makes DX a 2nd monitor
+This is great, its like being in front of mine pc. For of you that cant control your pc over your 3 or 4 g network. You need to open a port in router.
+Works great on my evo. Little slow on opening connection. Have been using it for 8 months
+It does work great, but i need to play around with it before i can get a complete desktop bitmap. It's a lot of black screen until it actually takes.
+Consistently dispplays a black screen over wifi, forcecloses whenever I interact with the app. G1 on cyanogen 1.6.
+Great app, works well on HTC desire hd when accessing ubuntu. Please include the option to use vnc via ssh tunneling for greater security
+Great app... works perfect on my.. HTC hero.. thank-you.. connected to a system within my network.. should try connecting to my laptop at work place
+Works great with HTC Eris and RealVNC. My pc is set at 1024x768; you have to scroll around the screen a bit, but this app works awesome
+Works great with HTC Eris and RealVNC. My pc is set at 1024x768; you have to scroll around the screen a bit, but this app works awesome
+It works great. Just the frame rate...its framy. If it could be more smooth somehow. Galaxy s
+Good VNC app. Landscape only, and I can't figure out how to click while scaling. Can't use compression.
+Nice app, haven't yet worked out how to scroll on the host machine as none of the nice control schemes allow it but hay ho.
+Works flawlessly with x11vnc and Gnome Desktop Sharing under Ubuntu 10.10 and HTC Desire both via WiFi and 3G. Thanks!
+Excellent app, works great with OSXVNC on powerbook. The dropdown lists appear blank though, needs minor bug fix (droid x 2.2).
+4 stars until I figure out how to use on mobile network without home WiFi
+4 stars until I figure out how to use on mobile network without home WiFi
+Comes in VERY handy, for controlling VNC clients. Has its drawbacks, at times, AS does VNC, in general. But, works, and is FREE!
+Easy setup, works well. Tightvnc sometimes requires minimizing & remaximixing widows over pc to refresh changes but no biggie. App has good options.
+Connected quickly and runs smooth with tight vnc on wifi. Will pay for 3/4g connection if you can make that happen. Great work!
+Works great, you just need to know a little networking. Rooted G2 with Mac & PC. Does need a better icon that it deserves though. Let me or Kyle help.
+Works great on galaxy at 1.5. Be sure to open the desired port on your router or modem. For such things contact your local provider as i did.
+Works great on galaxy at 1.5. Be sure to open the desired port on your router or modem. For such things contact your local provider as i did.
+Works great on galaxy at 1.5. Be sure to open the desired port on your router or modem. For such things contact your local provider as i did.
+I would love to be able to export settings, as its a pain typing them all in when you have more machines, love it otherwise.
+I want to give this 5 stars because it is awesome, but I'm giving it 4 because you cannot control the mouse very well/at all. Would give 5 if fixed.
+Excellent app. Works with both Windows and Linux Ubuntu, running its built in VNC server
+Will connect to ubuntu 10.04 but only ever get the first frame, cursor moves but remote desktop just sits there like a wallpaper. HTC desire.
+Contents to my Ubuntu Linux box through an SSH tunnel (get ConnectBot). Way cool! Trying to use a non-physical keyboard is a little clumsy, but is OK.
+Works fine with vnc. I have several pcs I use it on and it works just fine, no problem.
+Works great with TightVNC. The connection gui is a little ugly but no big deal. Still havent figured out how to double click.
+Works great with TightVNC. The connection gui is a little ugly but no big deal. Still havent figured out how to double click.
+Works great with TightVNC. The connection gui is a little ugly but no big deal. Still havent figured out how to double click.
+On my droid X, without a keyboard, its hard to use, but hey its free
+This app is awesome. Wish you could send "command" key to Mac servers. And IMO it should be long-press for right-click so you can double-click. Evo
+Works fine. Parts of screen sometimes dont load but switching screen quality fixes it. Best free vnc app.
+Works great. Doesn't resize if host Windows res is changed but still a great app
+Works great but have not figured out how to send greater than and less than symbols from HTC Incredible.
+Very good but please include virtual kryboard. Typing is very hard on N1 unless you have G1 with hardware keyboard.
+Very good but please include virtual kryboard. Typing is very hard on N1 unless you have G1 with hardware keyboard.
+i dont know how to get the port number i think that's why mine is not working
+Great!would give it 5 stars if u add shorycuts for pgdown and pgup, also I don't like it forces me to type with hardware keyboard want soft keyboard.
+Great!would give it 5 stars if u add shorycuts for pgdown and pgup, also I don't like it forces me to type with hardware keyboard want soft keyboard.
+Can't get it to connect over 3g. Only if I connect to wifi on same network. Please help. Droid
+Can't get it to connect over 3g. Only if I connect to wifi on same network. Please help. Droid
+Can't get it to connect over 3g. Only if I connect to wifi on same network. Please help. Droid
+Excellent, and free! Would be nice to be able to hide the zoom buttons, and the icon needs updating.
+Failed to send uppercase or special characters from my Druid running 2.1 to my Kubuntu 10.04 setup running x11vnc. Three stars for enormous potential.
+Was excited to finally have pinch zoom, but it seems erratic. Also need option to hide zoom btns. Otherwise great.
+Works pretty well, does crash on the htc evo from time to time. But you can't complain about the.price.
+Edit: does support enterprise/ultra/encryption.  Does not appear to support windows authentication, vnc auth. works fine
+Edit: does support enterprise/ultra/encryption.  Does not appear to support windows authentication, vnc auth. works fine
+Works great. I make videos on youtube. I often find myself leaving as the video is uploading. This makes it great for re-uploading. And more. Thanks!
+Works great. I make videos on youtube. I often find myself leaving as the video is uploading. This makes it great for re-uploading. And more. Thanks!
+Works pretty well on Droid Inc. Small delay on some screen updates, but is amazing what it can do.
+Definitely a useful tool, but slow over 3G. That's to be expected, though. Haven't tried over wifi, but I'm sure it's great.
+Definitely a useful tool, but slow over 3G. That's to be expected, though. Haven't tried over wifi, but I'm sure it's great.
+Definitely a useful tool, but slow over 3G. That's to be expected, though. Haven't tried over wifi, but I'm sure it's great.
+Definitely a useful tool, but slow over 3G. That's to be expected, though. Haven't tried over wifi, but I'm sure it's great.
+Works well over 3G and WiFi, great app! Saving the 5th star for pinch to zoom. HTC Droid Incredible.
+Works great over 3g and wifi. Fast and accurate. Only complaint is it kills HTC Sense - causes reboot when program is closed.
+Works great over 3g and wifi. Fast and accurate. Only complaint is it kills HTC Sense - causes reboot when program is closed.
+Connects to my pc. Display changes to a green screen when navigating around the desktop.
+Connects to my pc. Display changes to a green screen when navigating around the desktop.
+Awesome mobile vnc client. Just lacking pinch to zoom. And I don't know how you'd use this without physical keyboard.
+Awesome mobile vnc client. Just lacking pinch to zoom. And I don't know how you'd use this without physical keyboard.
+Works perfectly on nexus one, its actually quite a bit better than even the vnc viewer I run on my desktop. Works flawlessly with tightvnc server.
+Great, the first app I have seen that saves to SD automatically with 2.2, NexusOne. Finally
+Good enough. Double clicking difficult with HTC Evo. Fixed my screen refresh issue by changing polling settings in vnc server app.
+Good enough. Double clicking difficult with HTC Evo. Fixed my screen refresh issue by changing polling settings in vnc server app.
+Works fine with Ubuntu Lucid. Didn't do internal DNS, but that's okay. Utterly usable and now indispensable.
+Easy to use. Works great on my EVO with xp pro service pk 3 and ultra vnc. Make sure your nickname matches and your password is 8 letters or less.
+Works great on sprint hero and winXP ultravnc! Takes some getting used to navigating and clicking. Add support for dual display for 5star.
+Huge battery drain and heats up my phone, yet AMAZING APP. Very awesome once you figure out remote. TightVNC, XP 32-bit sp3, Moto Droid 2.1
+Does what it says, and does it well. Oh, except Ubuntu does tend to lag, but only Ubuntu.
+Does what it says, and does it well. Oh, except Ubuntu does tend to lag, but only Ubuntu.
+Work OK but the mouse controls are wonky and the zoom can't use the multitouch
+Connected just fine to my iMac (after l remembered to renew my DNS forwarding service).
+Works great! This is my most used app! Needs the abbility to turn pc on when its shutdown and off like the remote play feat on the PS3 via PSP. MTG3
+Works great on my droid! But is there any way to rout the sound to my droid?
+A little slow to load, and the mouse isn't easy to use, but it's open! Overall, very nice software.
+Works well on ERIS. Simple to set up, and now I control my computer via my phone.
+Works great. Mouse integration is kind of weird, but that may be the VM im VNCd into...
+The only VNC client on the market that would work for me, and it works pretty damn well!
+Works great!! Took less than 10 mins to install a free Vnc server on my PC and run this app to connect to the server. Best free vnc viewer so far.
+Mine doesn't resolve host names. Maybe I'm doing something wrong. Works great with raw IP
+Works very well, works best out of all the search results for "vnc" on the android market.
+Works great and it's free. To get the keyboard to pop up hold the menu key. N1.
+Works great and it's free. To get the keyboard to pop up hold the menu key. N1.
+Sweet app, i use it as a remote for my media center and laptop. Controls could be better but still a good app.
+Great viewer. Doesn't quite work 100% with the DROID keyboard. Could also use multitouch pinch-to-zoom.
+Works pretty well on moto droid. Have some issues with arrow keys, but it's not a huge problem.
+Same computer, Remote VNC worked, this app didn't. Easy choice... use the other app.
+Good but takes some patience to set up and ui is a bit difficult to navigate...awesome fo spying tho. ; -)
+Good but takes some patience to set up and ui is a bit difficult to navigate...awesome fo spying tho. ; -)
+Good but takes some patience to set up and ui is a bit difficult to navigate...awesome fo spying tho. ; -)
+Doesn't refresh when clicking on things. (Connect to my Ubuntu 9.10 workstation). Fix it and I'll be extreamly happy. :)
+Great app. love it. motorola droid. just cant figure out how to type numbers. physical keyboard doesnt seem to work
+OK for viewing but can't click. I'm using it incorrectly or it doesn't work on the nexus one.
+OK for viewing but can't click. I'm using it incorrectly or it doesn't work on the nexus one.
+I love this one. Works ten times better than iPhone one that wasn't free. Worth donating money.
+OK I had problems setting this up, and I am not a noob at using my PC. I think the problem you guys are having connecting. You need to turn off encryp
+droid - works with xp + real vnc. the zoom buttons are in a poor position. more options than remote vnc
+droid - works with xp + real vnc. the zoom buttons are in a poor position. more options than remote vnc
+Works great! Thank you! Droid joystick works very slow with mouse cursor. Improved response would be greatly appreciated. 5 stars!
+GREAT! ctrl alt del is a menu option , comes in handy also hold alt while typing passwords in win machines.
+GREAT! ctrl alt del is a menu option , comes in handy also hold alt while typing passwords in win machines.
+Useful app.. works well albit a bit slow over wifi... probably nothing can be done about this though
+Useful app.. works well albit a bit slow over wifi... probably nothing can be done about this though
+Got it working, but to use port forwarding on my router. Now I can get full access to my Google Voice through VNC!
+Refuses to connect to my Mac servers, but "Remote VNC Lite" connects just fine. Same configuration data entered for both apps.
+very difficult to move the mouse but once I'd figured that out, it really came through for me.
+very difficult to move the mouse but once I'd figured that out, it really came through for me.
+works very good. mouse clicking is funky sometimes, but happy regardless. cliq user
+Would be great to be able to rotate screen, or maybe I missed how to do it?
+Works. Could we get an icon worthy of display on our sleek devices please? I know it's a minor thing but it makes the app even better overall. Thanks!
+Works. Could we get an icon worthy of display on our sleek devices please? I know it's a minor thing but it makes the app even better overall. Thanks!
+Gives me a warm geeky feeling to access my desktop while on the road. Refresh could be better but I like it.
+Gives me a warm geeky feeling to access my desktop while on the road. Refresh could be better but I like it.
+Buggy. Crashes and doesn't connect, despite realvnc set up with forwarded ports. Running on Droid
+Great app, works as well as expected. No problems setting up or connecting to my win xp desktop.
+Works about as well as you could expect from a phone (Droid). Bit awkward but I'm pleased.
+Excellent app, dare i say it works better than the java applet on a desktop. If you wanna get really fancy, add multitouch zoom
+Great app, but needs Windows username/password authentication as provided with UltraVNC for 5 stars.
+Gets the job done but needs more features, especially zoom. If you dont need to use VNC, phoneMyPC is an unbelievably superior solution.
+Seriously slow screen refreshes even in 8bit over wifi (g) + interface / mouse & panning options are flakey & unreliable. MAJOR ISSUES W/MULTI-MONITOR
+Using against windows server 2008 R2. It works, but very slow and then screen turns all green
+Is there a way to transfer files to g1 sdcard since connected 2pc with vnc?
+Seems to work well once you figure out the combination of settings work best for you. 1:1 screen, dpad panning, touch-mouse work best for me.
+VNC is more limited by hardware than software. This software works well, and is very impressive, however would benefit from a better icon and controls
+Bit of a pain getting the settings right; can't use the 1:1 setting (input doesn't work); zoom mode would be great. However, it does work.
+Could not get enough of it. Did exactly what it said. Wish it would work in 3G mode on my Droid. Excellent job.
+Could not get enough of it. Did exactly what it said. Wish it would work in 3G mode on my Droid. Excellent job.
+does what it does using what it has INCREDIBLY. Only the hardware's shortfalls prevent me from discarding my monitor altogether
+This app is great but 1 question. It only works on wifi. So dose that mean i cant be at work and use it. Or do i just need to be on a wifi
+Very good app if ur like me running a small do-everything home server and access 24x7. Due to screen size limitation on phone, its as good as it get.
+Tmobil mytouch. Very nice. Fast. Reduce your computer's resolution, and it works a lot faster. only the port forwarding on my router gave me troubles.
+Very nice. Would be better if when on "fit-to-screen" mode could actually fit the whole screen. Mouse with trackball is kinda slow.
+Works on Droid! But mouse is hard to control on touch, needs zoom for 5 stars.
+Works well except for 'fit to screen' scaling which doesn't work at all on my htc magic
+I'm using a Sprint hero Android 1. 5. Works great on my machines w/ UltraVNC. Excellent work. One issue, I cannot push the trackball in to click.
+Simply awesome. Great work! It seems to have problems with computers with large resolutions, though. Parts of the screen will turn black and reload.
+Simply awesome. Great work! It seems to have problems with computers with large resolutions, though. Parts of the screen will turn black and reload.
+works great. cant seem to get resolution to display in grayscale or black n white, though. not a big problem.
+works great. cant seem to get resolution to display in grayscale or black n white, though. not a big problem.
+Awesome job very useful. I use it to start my ftp server at home on ubuntu. One of the top five best applications on the android market in my opinion.
+Works well. Trackball clicking does not register mouse click on sprint hero. Have to use touchscreen interface to click mouse.
+Someties whole screen gets black while panning (even the part already loaded). Otherwise - great.
+Works real well using wifi & 3g. Slow any other way. Very easy to set up
+Works real well using wifi & 3g. Slow any other way. Very easy to set up
+Like the ability to control my media downstairs when my workstation is up stairs. Fab app
+Like the ability to control my media downstairs when my workstation is up stairs. Fab app
+Awsome program the only thing is when i put it in grayscale it is still in colors
+Very good app. Works fine with tightVNC on win 7. Mouse speed when controlled via trackball needs to be a bit faster, needs better right click method
+Very good app. Works fine with tightVNC on win 7. Mouse speed when controlled via trackball needs to be a bit faster, needs better right click method
+Very good app. Works fine with tightVNC on win 7. Mouse speed when controlled via trackball needs to be a bit faster, needs better right click method
+Works great with Linux x11vnc server, full 24 bit colour. Desktop panning, and full control over applications. THANK YOU for providing this Android ap
+I cant get it to connect! It can stay establishing Handshake for ever and not connect. Im sure da info is correct. HLP PLZ : (
+I cant get it to connect! It can stay establishing Handshake for ever and not connect. Im sure da info is correct. HLP PLZ : (
+Works very well. Scaling seems to have issues. Only seems to poll visible area, so scrolling mode can be irritating. Needs a "bring mouse here" cmd.
+It's pretty sweet actually. A tiny bit laggy but still sweet. Using tightvnc. Is realvnc better?
+It's pretty sweet actually. A tiny bit laggy but still sweet. Using tightvnc. Is realvnc better?
+Could not get it to connect (connection failed errors). Does this even work with cupcake?
+Could not get it to connect (connection failed errors). Does this even work with cupcake?
+brilliant .. only fault is that on touch pan/ trackball mouse, the pointer is very slow .. mostly excellent though
+Poor keyboard support with cupcake on the HTC Magic. Use "Send key" for ENTER and press the MENU key for 2 seconds to open or close the keyboard...
+need some help i got my ip address but what do i do from there any help would be nice
+Works awsome even through my router, i wish it allowed streaming so i could listen to my mp3 in my home PC while at am @work
+Works awsome even through my router, i wish it allowed streaming so i could listen to my mp3 in my home PC while at am @work
+Barely usable but it does work. Be sure to use "touch pan, trackball mouse" input mode. Screen doesn't always update, you can force update by panning.
+Barely usable but it does work. Be sure to use "touch pan, trackball mouse" input mode. Screen doesn't always update, you can force update by panning.
+Barely usable but it does work. Be sure to use "touch pan, trackball mouse" input mode. Screen doesn't always update, you can force update by panning.
+Works surprisingly well. Next version should have more scalling options. Oh, and still be free.
+This app has the potential to be a very powerful tool.. It works ok, but it needs to be much more intuitive. Keep working on it!
+Will not connect, does it take days to connect? Its been establishing handshake for 4 days,....
+Display mess up when server is using a wide-screen resolution. E.g. 1280x800 or 1920x1200.
+Display mess up when server is using a wide-screen resolution. E.g. 1280x800 or 1920x1200.
+Love it....its almost perfect....works on 3g when im not home, i get connect problems sometimes but on da same wifi network its a breeze. Great thx
+Love it....its almost perfect....works on 3g when im not home, i get connect problems sometimes but on da same wifi network its a breeze. Great thx
+Great, but could we pan with button and click with screen at the same time?
+Great, but could we pan with button and click with screen at the same time?
+Very nice!   Works great - 5 stars if the mouse was a little faster.  Anyone not connecting, check your seup carefully, especially the router.
+Great app, love the simplicity and function. Has anyone been able to access a personal network outside of the network via 3g connection?
+Works great, when im at home and on the same wifi network as my computer, but it wont work anywhere else even if i am using wifi
+Works great, when im at home and on the same wifi network as my computer, but it wont work anywhere else even if i am using wifi
+Works great, nice simple and straight forward. My only gripe is the scaled display mode doesnt utilise all of the G1's screen. Otherwise, ripper app!
+Does not work with my PC.  You know why cause of Bugscreens XP SP 3 firewall blocking it.
+Does not work with my PC.  You know why cause of Bugscreens XP SP 3 firewall blocking it.
+Porting this app to the G1 is a landmark. Thank you. Thank you, Thank you.
+can anyone right click with this app?  Is kind of useless for me withouth being able to right click.
+Not bad. A little clumsy to get used to if you want to actually do anything besides view.
+Works very well and allows custom port input.  Only one prob, doesn't work with VNC service but will work with VNC server (EXE) pls FIX!
+Great app. Has option for control, but would like touchscreen mouse & trackball pan. My only other suggestion is touch zoom.
+New to the whole VNC,,,,read up on it and had it running in 5 minutes.  I have vista, works fine.  Installed  ultra VNC.
+Kind of amazing! I couldnt get the trackball to control my cursor, which is what I really needed, but it's cool otherwise.
+I used tightvnc and it works great over my wifi and gives set by set setup. Issues with edge though. Overall great program!
+Fantastic! Was vnc'd in while driving across new mexico! Can play flash apps on vnc host ;)
+Cant connect it for some reason wont sign in. Excellent idea tho would be usefull
+Needs a better icon. Should add support for NX, which is a way better protocol than VNC (better quality, less bandwidth)
+Amazing app. Haven't used servers before, but this was extremely simple. Great job!
+This is so cool! A bit more insructions for newbies but still easy to figure out. 5 star if could run faster and use mouse in 1:1 mode, touch screen
+I love it! Works well with connectbot as well to tunnel via ssh... as for install issuses make sure you unistall old versions of androidVNC
+Seems very cool, but it is to much work for use with OS X v10.5.6
+I love the app, but it only works in my home network.  I cannot connect over 3G.  Any ideas from anyone smarter than me out there?
+Desktop paning work better in the first version.... please fix the flicker/blackout when panning!
+This is a nice program i only tested from inside my appartment  i will test from out side when i get a dns name i can use
+Scaling did not work too well with 1920 x 1080 vista, but 1:1 works great.  My new FAV APP
+Scaling did not work too well with 1920 x 1080 vista, but 1:1 works great.  My new FAV APP
+Amazing app. Now i can access my PC and all my virtual machines right from my phone.
+Its not perfect but its close. If you need flash for a any reason other than play a game. Vnc to your pc and use flash
+If you don't know what a VNC viewer is, you probably don't need this. Instructions? Hmm, click 'visit dev. Web page,' maybe?
+So far it seems like a good app even though i have no clue what to do ive been researching and it looks promising 5 star when its set up and working
+So far it seems like a good app even though i have no clue what to do ive been researching and it looks promising 5 star when its set up and working
+Make vnc in android make me feel bring server everywhere :)  Great idea great apps
+No adds, no free/paid versions and it's that it's open source. But the mouse/pan/click is not that great.
+Works as expected on my 10.1 inch tablet. I use it together with UltraVNC, to control XBMC without turning on the TV.
+Very nice app ,i think best android vnc
+EXECELLENT
+Very nice. I work with several hundred pc's and this is a great tool, been using it for a good while.
+:)
+Very useful apps to help other.
+Works perfectly, except the touch input has some issues and takes a while to get used to.
+Works brilliantly.
+Works nicely except for some reason it's impossible to double click (double tap sends right click), which makes it all but useless. What were you thinking guys?
+New ASUS with Tegra3 quad, SSH things work well, this VNC app crashes, locks, doesn't seem to send the pointer update info. A work in progress and not currently usable. Sad, that's why I bought the tablet.
+Easy config, set up and running in under a couple of minutes.  UI a bit chunky, other than that - tip top!  Nice one
+It's fast, functional, and open source, what more can you ask for?
+Works very well. This is exactly what I was looking for to remotely access my pc from my phone.
+Works with Tight VNC server. 24-bit colour, panning, zooming, clicking, holding. It works.
+Works well and is responsive.
+I like it alot except for the clunky right left mouse clicks. the mouse  buttons could be placed on the ends of the screen or moveable.
+Nice
+The question is what is Wong with this app works so well how can I donate?
+Good
+Just needs double mouse click.
+This is fantastic! I can easily monitor the downloads being done on my media servers without having to open the laptop or go downstairs.  Clicking isn't the perfect but it's good enough for me. Very fast too. I look forward to any improvements.
+Connected right away and has tons of options! Works great on my S2!
+Thanks
+Exactly what I needed. HTC Evo 4g / Supersonic
+Exactly what I needed. HTC Evo 4g / Supersonic
+A+!!!  Been an regular VNC user for more than 10 years - this app is perfect.	A+!!!  I've been a regular VNC user for 10+ years - this app is first time its been a pleasure to VNC via mobile (EVO 4G).
+Works great! Love it
+Its not perfect a bit slow but the important thing is it works!
+android memang mantaplah...
+Very very good. I tested with Galaxy Y pro
+Please please please Support key bindings for both usb mouse and keyboard, and that the mouse cursor always follows the androids cursor with more flexibility, I am using Asus Transformer Prime!
+Best vnc client and free.
+I'm amazed at how well this app works on both my phone and on tablets. When remotely operating my home desktop, it's smoother and quicker than the desktop VNC client I usually use! My only complaint is that sometimes the input mode seems to not stay set the same (I usually choose "pan & scroll") from use to use.
+Excellent app.  Connecting to x11, *NIX, X? Remember that port is usually 5900 for display :0, 5901 for :1, etc.
+Open Source rules!
+Just what I need small simple and gets the job done
+Just what I need small simple and gets the job done
+Um  K
+Using it to connect to my home PC, when I'm out and about. Works flawlessly. (My home PC is behind a gateway/firewall and uses DHCP. In such cases remember to configure port forwarding on the gateway. Also, it is convenient to use a dynamic DNS provider, unless you have a static IP address, which is not the norm for residential Internet service.)
+I use it at work to control my destop machine when in a conference room.  Flawless.  Galaxy S2.
+Works like a charm!!! Linux laptop with tkx11vnc and CM7 Nook Color. Would love to see a file transfer option!
+Works like a charm!!! Linux laptop with tkx11vnc and CM7 Nook Color. Would love to see a file transfer option!
+Works like a charm!!! Linux laptop with tkx11vnc and CM7 Nook Color. Would love to see a file transfer option!
+Works great and it's free
+Great job guys!
+Works great, and it's free! Running on CM9 Touchpad
+Whether your at home or work & just need to connect quickly this is the app
+A bit slow but that is limitation of vnc and network connection speed.
+No fluff, all stuff. Simple & easy to use.
+works
+great app, use it for LAN and remote connections from my Desire HD, does everything i want and history store and password store (if ticked) is great too. Only thing is send a double click would be good.
+minor scrolling difficulties and interface is slow when zooming sometimes, but 5 star quality *Droid Razr 16gb unrooted*
+minor scrolling difficulties and interface is slow when zooming sometimes, but 5 star quality *Droid Razr 16gb unrooted*
+5 stars for Open Source, Faster than others, and light on resources. On Android 2.1, it doesn't show select boxes correctly. Can't send "super" key
+I've used VNC for years. Every time I use this I remember using my Samsung Palm SPH-i300 in 2001 to connect to my Sun workstation, good memories. If you need an app to access your servers or workstations to get work done while shopping/going out to eat/home watching TV get this! The best part it's FREE!
+And free.
+It was worth every penny!
+For free. Once i opened my firewall access to my desktop it was clean. I would say about ten frames per second.Keyboard droid global all the keys work. Update: not running on my verizon gnex ICS
+Good!
+Works very well. Very pleased.
+The best vnc client on android
+No problems - works great on our wireless network covering 120 acres.
+Works great
+Good thing
+I can control my computer from my Android, anywhere in my house. Lots of text and key sending options.  Would be neat to be able to send the computer a WUOL packet if it can't connect initially.
+It's app is very great, but you can't access vnc connections with encrypt
+Works really well!
+Works very well, slow when there are several hundred people sharing an access point, but that's not the app's fault is it?
+Great little VNC client, easy to use. Certainly the best free VNC client for Android I've found.
+Sometimes, I couldn't live without it.  Being able to remote control my computer from my phone has been a lifesaver at work and university!
+Using it to connect both TightVNC and x11vnc servers via WIFI and the Internet, without any issues at all, I'm happy with that. Sure, there are lags in the refresh rate, but that depends largely on network traffic at the given time, that is normal and expected.  A great app, I give 5+ for :-)
+needs a little more functionality 1) android-style scrolling 2) android-style text input 3) the option to change the widget icon
+needs a little more functionality 1) android-style scrolling 2) android-style text input 3) the option to change the widget icon
+Does what it say and does a good job.
+Blazing fast, could have better keyboard, but input text works fine.
+Clean, crisp, & fast!
+Works perfectly with tightvnc server.
+Works perfectly with tightvnc server.
+And stable
+App
+Lots of functions and responsive
+Very good job Works fine on galaxy s Thanks a lot.
+I love how simple it is.
+This app is one of the small percentage of tech I use/have that actually impressed my girlfriend. Nice work =)
+Just what I was looking for! Thanks for this great app!
+A bit slow but it works great!
+Very well done
+PERFECT....BRILLIANT..(reiteration intended)
+goodsss
+Provides the basic functionality one would expect in such a program. Switching between input modes is a bit cumbersome, but is manageable as long as you don't try to do too much involving both right-clicks and double-clicks on the remote machine. Well worth the download.
+Like it
+Only used it for a brief test so far, but it just seems to do what I need it to do.
+Love this app. Very handy.
+I'm very impressed with this free VNC client. It makes everything (e.g. text entry) about as easy as it could be on a phone. Lots of options and everything works smoothly.
+I've tried many flavors of VNC clients for Android, but this one is my favorite.  Most don't allow you to change the color depth.  This one is great for a couple reasons: 1- it only refreshes the part of the screen you're currently looking at; 2- you can set it to monochrome or 8-bit (256 colors) 3- you can open multiple connections at once  There is 1 thing that kinda bugs me: If you scroll (or pan) the view, it locks the mouse on the remote screen.  I use VNC when doing Team projects, and scrolling locks everyone's mouse in place, that's kind of annoying...
+I've tried many flavors of VNC clients for Android, but this one is my favorite.  Most don't allow you to change the color depth.  This one is great for a couple reasons: 1- it only refreshes the part of the screen you're currently looking at; 2- you can set it to monochrome or 8-bit (256 colors) 3- you can open multiple connections at once  There is 1 thing that kinda bugs me: If you scroll (or pan) the view, it locks the mouse on the remote screen.  I use VNC when doing Team projects, and scrolling locks everyone's mouse in place, that's kind of annoying...
+I use it to control my htpc.  great app
+Probably the best I've tried. Maybe not the fastest ever but I'm still mightily impressed and I think its handicapped by Android's ssh implementation.
+Tested on LG GT540 and RealVNC
+Pretty flawless. My only complaint would be the Send Text implementation. Wish I could just pop up the keyboard and type, including bksp. Maybe its a setting I haven't discovered yet?
+Very handy application. Can take my PC with me when going to meetings!
+Muy bueno, excelente
+Does what it says. Great app.
+I only wish I could find a Linux viewer that was as simple and elegant as this app! The method of sending special keys is particularly well handled.
+Works very well ni problems
+Simple, clean and efficient.
+I like.
+Helps me with wastching tv on the pc works as a gret remotw
+A great application to have if you are travelling a lot but need to connect to your computer at home.
+A great application to have if you are travelling a lot but need to connect to your computer at home.
+Works good for monitoring home laptop on my phone. Its a little slow but it works as expected. I love it.
+Works good for monitoring home laptop on my phone. Its a little slow but it works as expected. I love it.
+Working 100% on multiple phones and tablets.
+Works awesomely
+Does the job every time. Easy to set up and use
+works a treat! Fine on 7x64
+A nice little free solution with TightVNC server on Windows side. This solution frees you from having RDP (only exists on non-home edition Windows versions) equipted Windows.
+The most important feature of this for me is that it gives me control of the mouse by using the touch screen as a touch-pad.  That is just genius.
+Works great. Took a while to figure out some command line inputs but it does allow commands like an up arrow to be sent.
+Works great. Took a while to figure out some command line inputs but it does allow commands like an up arrow to be sent.
+Works
+Allows me to connect to Mitsubishi HMI panel.
+No words to say more
+No words to say more
+excelent
+Works perfectly, but it could use a better icon
+works great
+works great
+Love this!
+Awesome app
+Been working perfect for last 3months
+Exactly what I wanted!
+Exactly what I wanted!
+Works how its supposed to. ...mouse needs some improvement.
+I can't say enough about this app. It is beyond an excellent rating for me. Light, fast and had me up and connecting to my servers in Seconds.
+Last update didn't improve text input... Double click LMB gruesome to work with if you don't have a trackball. Copy PocketWyse's input already!!
+Works well. Would need fast connection. Data charges could get extreme, but does what its supposed to very well..
+works great!
+Works great and has many options, great work!  Thanks!
+Works fine on nexus s
+Just quickly tried it on my Motorola defy and it seems to work fine
+Works with the Ubuntu native desktop access
+Works with the Ubuntu native desktop access
+Review edit: x11vnc needed keyboard modtweak setting to be disabled to allow uppercase
+Just brilliant, always working for a year now
+Put this on my Nook Color with CM7. Works like a charm and actually behaves like you would want it to.
+Put this on my Nook Color with CM7. Works like a charm and actually behaves like you would want it to.
+Fantastic! I can log on to my home server, freakin ace!
+Send text in menu acts as your keyboard. Double tap is right click. Can even execute alt+f4 and ctrl+alt+del. Works perfectly on Galaxy Mini
+Its nothing a google couldnt solve, and the keyboard icon comes up if you tap the screen. Bottom ;)
+Shame the developers forget that some people are educated in fields OTHER than computers, and therefore could use some basic instructions on how to set up their apps.
+Great  app that i cant live without!
+So so
+It works ;)
+It works ;)
+Performs great!
+Works brilliantly - superb free app. I use TightVNC all the time on my desktops and laptop, and this works seemlessly with it. HTC Desire - great.
+Works brilliantly - superb free app. I use TightVNC all the time on my desktops and laptop, and this works seemlessly with it. HTC Desire - great.
+Just tried it on my home server. Works perfectly on wifi. Great app and its free!
+Excellent. It would be great if multi touch can be used to simulate right click and pan/zoom.
+Very good and useful. I use it to control my home server from home or on the move, never had any issues.
+It does make make me laugh when an application has nearly 4200 - 5 stars and then somebody gives it 1 star caliming it doesn't work. Do they mail the dev's? Doubt it, these people want free free free and are not interested in investigating why it doesn't work, even when it's likely to be user error! Off topic, yep, but just saying!!! :) Anyway, top app in my book, does exactly what I need, (and everybodys needs are different). I use it to control the PC connected to the TV, watching movies and Skype.
+Loved this app since I got my Evo. Still is excellent and trumps others with its features. All I would change in this app, is give option to always start in numerical keyboard
+Loved this app since I got my Evo. Still is excellent and trumps others with its features. All I would change in this app, is give option to always start in numerical keyboard
+App does what it says - works great with TightVNC running on my systems - both on Inspire 4G and Eee Pad Transformer
+App does what it says - works great with TightVNC running on my systems - both on Inspire 4G and Eee Pad Transformer
+It works on my galaxy and its free!
+It works on my galaxy and its free!
+Works well with TightVNC and DynDNS to get through routers. Very functional program.
+Can't expect blazing speeds from an android vnc viewer. That aside, this is the best on the market. Icon looks terrible though.
+Quite crappy stuff. Doesnt work at all.
+Works very well on the Archos 101. Tested with Linux, MacOS, and Windows. Perfect for work.
+This app is great. The fastest one I have used. Once connected. Hard to configure through firewall. But awesome when connected.
+Great app no bugs
+Great app no bugs
+Works like a charm. Never had a problem with it.
+Reliable and user friendly how much can you really ask for. Price is great and it works well on the droid 3!
+Reliable and user friendly how much can you really ask for. Price is great and it works well on the droid 3!
+Super easy to set up. Works great.
+| Great application, user friendly. ♦
+| Great application, user friendly. ♦
+works fine for me. htc sensation ==> debian.
+works fine for me. htc sensation ==> debian.
+works fine for me. htc sensation ==> debian.
+works fine for me. htc sensation ==> debian.
+I needed this app to work on my home server and let me tell you I downloaded it did what I needed to do and it probably took my like 5 min to get everything done. This app is easy to use and does exactly what i need it to.
+Works pretty much automatically with Linux mint 11 using the the already installed Vino vnc server :) LG Optimus S
+Work great with linux....atrix
+Work great with linux....atrix
+After upgrade no work. Reinstalled and worked fine. Great job with 5 stars. Try to improve mouse functions
+After upgrade no work. Reinstalled and worked fine. Great job with 5 stars. Try to improve mouse functions
+After upgrade no work. Reinstalled and worked fine. Great job with 5 stars. Try to improve mouse functions
+After upgrade no work. Reinstalled and worked fine. Great job with 5 stars. Try to improve mouse functions
+After upgrade no work. Reinstalled and worked fine. Great job with 5 stars. Try to improve mouse functions
+Best android vnc viewer. Works perfect on Galaxy S (2.3). Oh and Crofton if you are gunna call ppl retarded learn how to spell it ;)
+Best android vnc viewer. Works perfect on Galaxy S (2.3). Oh and Crofton if you are gunna call ppl retarded learn how to spell it ;)
+Best android vnc viewer. Works perfect on Galaxy S (2.3). Oh and Crofton if you are gunna call ppl retarded learn how to spell it ;)
+This app is awesome. Everyone who negatively comments is retarted. A virus? F-off!!! Your stupid. learn how to use the app and ur computer. Rooted d2
+5 Stars for such a great potential app. It works as advertised and works flawlessly on my Galaxy S2 - Gingerbread. Tested the app works with Real, Tight without any problem. The app's icon should be redesign in high res icon. Otherwise the app icon looks ugly.
+Absolutely rocks. I control my home sound system remotely, via remoting the master pc via vnc from my HTC incredible. Couldn't be more delighted!
+Fantastic, works great with tightvnc on windows 7 but I couldn't send a custom string? A blank white bar appears and I can't interact with it Galaxys2
+Fantastic, works great with tightvnc on windows 7 but I couldn't send a custom string? A blank white bar appears and I can't interact with it Galaxys2
+Fantastic, works great with tightvnc on windows 7 but I couldn't send a custom string? A blank white bar appears and I can't interact with it Galaxys2
+Maddening to try to use emacs, screen etc. with this!!! PLEASE support quick special keys with keyboard: Ok button used to be ctrl, why no more?
+This works as a basic VNC client. A lot of the problems other people seem to be having could be fixed straightforwardly by tunneling the connection over SSH, using, e.g., ConnectBot. That said, the interface for sending special keys (control, alt, etc) is very awkward, and it doesn't work with Hacker's Keyboard, so forget about controlling keyboard-intensive applications.
+Needs file transfer. It is ver. 0.5.0 and still does not support it. Great app. Does what VNC does. It takes some getting used to input modes.
+Good app! A plus would be if it was possible to choose JPEG (TightVNC) compression; especially useful on mobile networks.
+Easiest VNC viewer I've ever set up. Works great, scales properly on my tablet too.
+Took a little time and research to get the viewer to work over 3g/work through a router. Once the server is set up right it works great!
+It'd be nice to have easier access to arrows and other common keys, but this app exceeds my expectations! Fantastic performance. HTC Desire CDMA, 2.3
+Absolutely brilliant! Works great remoting to my Ubuntu 9.04 system from my HTC Inspire.
+Absolutely brilliant! Works great remoting to my Ubuntu 9.04 system from my HTC Inspire.
+Absolutely brilliant! Works great remoting to my Ubuntu 9.04 system from my HTC Inspire.
+Great Open Source VNC viewer. Lovely! :)
+Make sure to uninstall the previous version before update, reboot, install, reboot....and it should work...again
+Excellent app, I use it on my t-mobile g2 through a ssh tunnel to control my home linux pc's, oh and it's free
+Works great from my Desire HD. Would like better keyboard implementation similar to pocket cloud. But this has much better features.
+Didn't worked on samsung galaxy s, I can connect to my ubuntu machine but remains with the first screen
+Only allows me to connect from my home network which is useless considering my computer is at home.
+Excellent app! But Verizon users beware...they recently blocked it on their 3g network. Still works fine on wifi.
+Amazing.! Works perfect. Even simulates right click. Full PC control from my phone. Only needs multi Mon. Support :-)
+Amazing.! Works perfect. Even simulates right click. Full PC control from my phone. Only needs multi Mon. Support :-)
+Amazing.! Works perfect. Even simulates right click. Full PC control from my phone. Only needs multi Mon. Support :-)
+Amazing.! Works perfect. Even simulates right click. Full PC control from my phone. Only needs multi Mon. Support :-)
+Absolutely awesome. Works great, I can connect to my comp from anywhere. And it's free!
+Absolutely awesome. Works great, I can connect to my comp from anywhere. And it's free!
+Absolutely awesome. Works great, I can connect to my comp from anywhere. And it's free!
+Absolutely awesome. Works great, I can connect to my comp from anywhere. And it's free!
+Great app, but it really needs a file transfer option to give it 5 stars. Aside from that, I can connect to my PC at home which is using UltraVNC.
+Great app but know how to set up server on pc if u want this to work right. Running Ultra VNC on computer and I connect fine on my HTC Thunderbolt.
+Works quite well and fast in combination with TightVNC on Windows 7 and Slackware. Compliments and a 5 star from this end.
+Works quite well and fast in combination with TightVNC on Windows 7 and Slackware. Compliments and a 5 star from this end.
+Works far better than anything I've experienced before. Shocked (in a good way) by screen response time (although the initial load is quite lengthy)
+Works far better than anything I've experienced before. Shocked (in a good way) by screen response time (although the initial load is quite lengthy)
+Works far better than anything I've experienced before. Shocked (in a good way) by screen response time (although the initial load is quite lengthy)
+Works great over wireless G network from ZTE Blade using Cyanogenmod 7. Why pay a fiver for Realvnc?
+Works great over wireless G network from ZTE Blade using Cyanogenmod 7. Why pay a fiver for Realvnc?
+Connects fine, easy to configure. Looks like the mouse input is going through bc i can see the intended effect on my pc but the actual display on my Xoom isn't updating at all. Will update rating when this is addressed.
+Connects fine, easy to configure. Looks like the mouse input is going through bc i can see the intended effect on my pc but the actual display on my Xoom isn't updating at all. Will update rating when this is addressed.
+Connects fine, easy to configure. Looks like the mouse input is going through bc i can see the intended effect on my pc but the actual display on my Xoom isn't updating at all. Will update rating when this is addressed.
+Connects fine, easy to configure. Looks like the mouse input is going through bc i can see the intended effect on my pc but the actual display on my Xoom isn't updating at all. Will update rating when this is addressed.
+Connects fine, easy to configure. Looks like the mouse input is going through bc i can see the intended effect on my pc but the actual display on my Xoom isn't updating at all. Will update rating when this is addressed.
+It's a nice app, but it really needs built in ssh support. Usage on touch only phones cumbersome.
+Great app works on 3G and wifi. Don't rate low just because you don't know how to set up a VNC server on your home computer
+Great app works on 3G and wifi. Don't rate low just because you don't know how to set up a VNC server on your home computer
+Love it! Has come in very handy for emergency problems at work when on the road. Using Galaxy S.
+I'm not able to connect to my ubuntu sever when i'm not with in my network
+I'm not able to connect to my ubuntu sever when i'm not with in my network
+Like it and Iam giong to give this update a try. Had minor issue with energy usage; a bit high. Works on dell streak froyo..
+Like it and Iam giong to give this update a try. Had minor issue with energy usage; a bit high. Works on dell streak froyo..
+I'm a brand-new Android user, but a long time Linux user... being able to connect to my desktop from my tablet is excellent! And for free, too! Easy and intuitive to set up and connect. using X11VNC server -- 24bit colour, works flawlessly.
+Possibly the most used app on my phone. You have to laugh when you see remote desktop apps for tens of dollars when this app works best for free!
+Wow! This app is amazing perfect clarity super fast and works flawlessly. I would say this works better than TightVNC on the PC. On DX
+Use this app for 6 month, works perfectly, the only issue I had was the backspace on the hw keyboard didn't work. X10 mini pro. Thanks!
+Use this app for 6 month, works perfectly, the only issue I had was the backspace on the hw keyboard didn't work. X10 mini pro. Thanks!
+This app can connect to the double tunnel set up through connectbot to vnc into my computer through a firewall from my phone. How awesome is that?
+This app can connect to the double tunnel set up through connectbot to vnc into my computer through a firewall from my phone. How awesome is that?
+This app can connect to the double tunnel set up through connectbot to vnc into my computer through a firewall from my phone. How awesome is that?
+Will not connect to ubuntu server, even locally! While vnc works on all other pcs that I use to monitor it
+Will not connect to ubuntu server, even locally! While vnc works on all other pcs that I use to monitor it
+would like to see more features in the future
+would like to see more features in the future
+would like to see more features in the future
+would like to see more features in the future
+Worked on my i1 but never got it to work on my epic 4g galaxy s....
+Worked on my i1 but never got it to work on my epic 4g galaxy s....
+Worked on my i1 but never got it to work on my epic 4g galaxy s....
+Works good when I am at home connected through wifi but can't figure out why I can't connect when away from home.
+The VNC viewer works great. But why does it keep disappearing from my applications? Is this a known bug?
+The best app ever!! I use it on my work and home computer and switch in between with no problem in seconds flawless. Moto cliq
+Works. Works fine. But I keep losing the app in my library and have to uninstall/reinstall
+Works perfect on Windows Vista and HTC desire! Panning could be a little more smooth and double click would be nice!
+Works perfectly. The I'm too lazy and stupid so I need pocketcloud reviews are funny.
+Constant problems with losing control of mouse only way to fix is to reset remote machine manually. Fix for 5 stars. HTC desire hd
+Constant problems with losing control of mouse only way to fix is to reset remote machine manually. Fix for 5 stars. HTC desire hd
+Constant problems with losing control of mouse only way to fix is to reset remote machine manually. Fix for 5 stars. HTC desire hd
+Worked great once I put in the right I.P. address. Can be found on VNC icon next to clock.
+This horrible ugliest icon runs smoothly on my x10 mini :) Update the icon please...
+Remote desktop is rendered as block pieces. Keyboard access is clunky. Some sort of finer mouse pointer control and tracking would make it much more usable.
+Tried on wifi, works well! Note that you should first install a VNC server software to your computer, like Tight VNC.
+Works well on wireless network, even when connected to a desktop with multiple screens
+Works perfectly if you know what you're doing. I've had no problems with Debian, Windows 7, or Mac OS X. Best client out there!!
+Fantastic!! A real and lightweight vnc remote desktop for android... this is the best of 6 vnc solutions i tried. Works flawlessly with xp.
+Use it on my evo to check in to my virtualbox vm's throughout the day. +1
+Use it on my evo to check in to my virtualbox vm's throughout the day. +1
+Please add an option to use portrait mode. Would be great to get a full screen of my iPod touch onto my phone!
+Works great, followed video on apps website to set up, using it to control music speakers throughout house using itunes via airport express, droid 2
+Fantastic. The most *useful* app I have. Great for remotely controlling my kids' computers (and checking what they're up to on MSN/FB!).
+Fantastic. The most *useful* app I have. Great for remotely controlling my kids' computers (and checking what they're up to on MSN/FB!).
+Working great over both WiFi and 3G. First frame can take a while to load, to be expected.
+Working great over both WiFi and 3G. First frame can take a while to load, to be expected.
+Idk y ppl keep b*tchin, but this app is really great, i dont wanna walk to my itunes wen im laying in bed txting my girlfriend. motorola droid 2
+Cant connect from home seems only to work when I'm at home and not away thk
+Perfect. If you dont know what your doing dont give a bad comment or score the fact that you are a fool is not the devs falt(tightvnc,htc dz,WiFi/3g)
+This is a very good app. I use it to connect to my mac server and I haven't had any problems with it besides the mouse. Better than any other vnc app.
+Absolutely fantastic work guys! Got ultra vnc in the desktop.. And this app is better than most full fleged desktop viewers! 5 Stars!
+Absolutely fantastic work guys! Got ultra vnc in the desktop.. And this app is better than most full fleged desktop viewers! 5 Stars!
+Absolutely fantastic work guys! Got ultra vnc in the desktop.. And this app is better than most full fleged desktop viewers! 5 Stars!
+Excellent! Works for me, it is good for emergencies, when remote graphic access is needed.
+Took an hour to route at home, went back to school, was similar to trying to put out the fires of hell with a squirt gun. Theyre still burning strong
+Great! You do need to know how to route a VNC server with port forwarding.
+Great! You do need to know how to route a VNC server with port forwarding.
+Doesn't work on my MAC I go to connect and it says connection failed I have HTC evo
+LOVE the app. Having trouble sending numbers via physical keyboard on droid 1. Also, no Windows key under special keys?
+LOVE the app. Having trouble sending numbers via physical keyboard on droid 1. Also, no Windows key under special keys?
+LOVE the app. Having trouble sending numbers via physical keyboard on droid 1. Also, no Windows key under special keys?
+LOVE the app. Having trouble sending numbers via physical keyboard on droid 1. Also, no Windows key under special keys?
+Works as advertised. Mouse movement takes some getting used to, but very useable. Droid X w/ 2.21
+Works as advertised. Mouse movement takes some getting used to, but very useable. Droid X w/ 2.21
+Works as advertised. Mouse movement takes some getting used to, but very useable. Droid X w/ 2.21
+Works with ubuntu 10.04 integrated vnc server Lots of cool features, trully A+++ app
+Works great bad comments coming from people who are ignorant of any router configurations
+Lulz at some of these comments. Works wonderfully on my Nexus 1 with tight vnc.
+Fantastic application! However, on the droid x, the pick list for the colors and the send keys are white characters on white background. Please fix.
+Fantastic application! However, on the droid x, the pick list for the colors and the send keys are white characters on white background. Please fix.
+Fantastic application! However, on the droid x, the pick list for the colors and the send keys are white characters on white background. Please fix.
+Fantastic application! However, on the droid x, the pick list for the colors and the send keys are white characters on white background. Please fix.
+You really have to know networking to get it to work, but its the fastest! Droid 2.2 root
+Sync perfectly with my MAC! Only thing I'd like to see, is the cursor on my phone.
+Sync perfectly with my MAC! Only thing I'd like to see, is the cursor on my phone.
+Great app! I liked trackball mode, but cursor square is hardly seen and could be more responsive. Also, zoom buttons are annoying. 5 stars anyway
+I can't use my x10 mini pro backspace key, is it unsupported or am I missing a setting somewhere?
+I can't use my x10 mini pro backspace key, is it unsupported or am I missing a setting somewhere?
+Works great, looks great! I would love to see a file transfer function in the future versions.
+I can't get it to work when I'm on 3g only, is there any way to fix this? Only works for me when on my home wireless net,same as computer being viewed
+@vedran: Double tap @dev: It would be better if it was tap and hold for right click ;)
+Never get disconnected from any computer! I love out and use it all the time
+Never get disconnected from any computer! I love out and use it all the time
+Never get disconnected from any computer! I love out and use it all the time
+Awesome app... perfect for remotely getting into my server at work, great UI! Droid2 from Verizon
+Awesome app... perfect for remotely getting into my server at work, great UI! Droid2 from Verizon
+Excellent! Works well with RealVNC server. Tested on both winXP Pro x86 & win7 x64 hosts. Encryption not supported - set to "Prefer on" in server.
+Works good. Just need to know some basics on networking. Would be great if maneuvering was smoother and a better icon.
+Works good. Just need to know some basics on networking. Would be great if maneuvering was smoother and a better icon.
+Works good. Just need to know some basics on networking. Would be great if maneuvering was smoother and a better icon.
+Remember network settings (port forwarding/software based firewalls/SSH tunnels). Also to get the first screen to show up, try swap color depth.
+Working great on desire with froyo connecting to Win 7 with Tight VNC set as server using max settings.... Sweet
+Awesome, just awesome! Works great with UVNC running at home on the desktop. Haven't tested it with anything else.
+Does not support encrypted connection, so make sure the server allows unencrypted access!!
+Works great on HTC EVO anyone know how to make it work on a different network?
+Works as advertised on Droid. Great add to VNC. Love it! Side note: Tq, the fact that you're an idiot isn't the programs fault, learn- then review.
+Teamviewer has an android version out and it is incredibly easy to use. It works over 3G as easy as wifi. Its also free.
+Teamviewer has an android version out and it is incredibly easy to use. It works over 3G as easy as wifi. Its also free.
+Teamviewer has an android version out and it is incredibly easy to use. It works over 3G as easy as wifi. Its also free.
+Teamviewer has an android version out and it is incredibly easy to use. It works over 3G as easy as wifi. Its also free.
+Teamviewer has an android version out and it is incredibly easy to use. It works over 3G as easy as wifi. Its also free.
+Teamviewer has an android version out and it is incredibly easy to use. It works over 3G as easy as wifi. Its also free.
+Awesome. I have a courseware disc to get through for one of my classes and this lets me do it at work without being incredibly obvious on my net book.
+Awesome. I have a courseware disc to get through for one of my classes and this lets me do it at work without being incredibly obvious on my net book.
+This is great, its like being in front of mine pc. For of you that cant control your pc over your 3 or 4 g network. You need to open a port in router.
+This is great, its like being in front of mine pc. For of you that cant control your pc over your 3 or 4 g network. You need to open a port in router.
+Works great on my HTC evo been messin with my dad all morning. I used a password and the stock port
+Works great on my HTC evo been messin with my dad all morning. I used a password and the stock port
+Works great on my evo. Little slow on opening connection. Have been using it for 8 months
+Works great on my evo. Little slow on opening connection. Have been using it for 8 months
+Works great on my evo. Little slow on opening connection. Have been using it for 8 months
+Repeater use is backwards, but it does work now. Works excellent on Galaxy and Droid.
+Works perfect. Make sure you set your firewall up right. Took me a second to figure that was why I couldn't connect
+Works perfect. Make sure you set your firewall up right. Took me a second to figure that was why I couldn't connect
+It does work great, but i need to play around with it before i can get a complete desktop bitmap. It's a lot of black screen until it actually takes.
+Consistently dispplays a black screen over wifi, forcecloses whenever I interact with the app. G1 on cyanogen 1.6.
+I can get access but no touch pad!!! Doesn't do me much good to stare at the screen. Why can't I enable touched? Would be 5 stars if mouse/touch works
+I cannot get sound to play on my phone when I access music. But good app, east setup when install TightVNC on PC.
+I cannot get sound to play on my phone when I access music. But good app, east setup when install TightVNC on PC.
+I cannot get sound to play on my phone when I access music. But good app, east setup when install TightVNC on PC.
+Works well on HTC desire, despite the difficulties of trying to manage a remote pc screen on a phone. Installed tightvnc on xp pc and works great.
+Worked perfect HTC incredible. Port forward 5800 and 5900 to the internal ip in linksys router. Install tightvnc for free. Click allow on firewall. Xp
+Worked perfect HTC incredible. Port forward 5800 and 5900 to the internal ip in linksys router. Install tightvnc for free. Click allow on firewall. Xp
+Great app, works well on HTC desire hd when accessing ubuntu. Please include the option to use vnc via ssh tunneling for greater security
+Works with my AdderLink IPEPS as long as i have multi-user access and encryption disabled. Use ssh tunneling instead and it works great.
+Very good application. Gave you all stars my friend. Working on 3G and WIFI. You just need to install tightvnc on every computer you need to connect.
+Very good application. Gave you all stars my friend. Working on 3G and WIFI. You just need to install tightvnc on every computer you need to connect.
+Very good application. Gave you all stars my friend. Working on 3G and WIFI. You just need to install tightvnc on every computer you need to connect.
+Very good application. Gave you all stars my friend. Working on 3G and WIFI. You just need to install tightvnc on every computer you need to connect.
+Does connect to Vista Home through RealVNC on X10i but only show the mouse pointer with a black screen, nothing else, which makes it useless to me.
+Does connect to Vista Home through RealVNC on X10i but only show the mouse pointer with a black screen, nothing else, which makes it useless to me.
+Does connect to Vista Home through RealVNC on X10i but only show the mouse pointer with a black screen, nothing else, which makes it useless to me.
+Does connect to Vista Home through RealVNC on X10i but only show the mouse pointer with a black screen, nothing else, which makes it useless to me.
+Having trouble establishing handshake with late 2008 macbook. Also, bmp choices are not visible until clicked on Droid X.
+Works great with HTC Eris and RealVNC. My pc is set at 1024x768; you have to scroll around the screen a bit, but this app works awesome
+Works great with HTC Eris and RealVNC. My pc is set at 1024x768; you have to scroll around the screen a bit, but this app works awesome
+Works great with HTC Eris and RealVNC. My pc is set at 1024x768; you have to scroll around the screen a bit, but this app works awesome
+Works great with HTC Eris and RealVNC. My pc is set at 1024x768; you have to scroll around the screen a bit, but this app works awesome
+Tried to get it to work an hour and got nowhere. Online help is worthless no support.
+It works great. Just the frame rate...its framy. If it could be more smooth somehow. Galaxy s
+It works great. Just the frame rate...its framy. If it could be more smooth somehow. Galaxy s
+Works fantastic on my evo. If you don't have access to the keyboard... try holding your menu button down while in a text box.
+Good VNC app. Landscape only, and I can't figure out how to click while scaling. Can't use compression.
+Nice app, haven't yet worked out how to scroll on the host machine as none of the nice control schemes allow it but hay ho.
+Works flawlessly with x11vnc and Gnome Desktop Sharing under Ubuntu 10.10 and HTC Desire both via WiFi and 3G. Thanks!
+Works flawlessly with x11vnc and Gnome Desktop Sharing under Ubuntu 10.10 and HTC Desire both via WiFi and 3G. Thanks!
+Wow!! No problems at all -None! (Need router port forwarding for VNC). Mot Droid-1 full keybrd - works great. Full control of WinXP PC with TightVNC.
+Wow!! No problems at all -None! (Need router port forwarding for VNC). Mot Droid-1 full keybrd - works great. Full control of WinXP PC with TightVNC.
+Wow!! No problems at all -None! (Need router port forwarding for VNC). Mot Droid-1 full keybrd - works great. Full control of WinXP PC with TightVNC.
+Wow!! No problems at all -None! (Need router port forwarding for VNC). Mot Droid-1 full keybrd - works great. Full control of WinXP PC with TightVNC.
+Works well with vista running tight vnc from my htc legend. Free and surprisingly quick - even on non 3g connections.
+Works well with vista running tight vnc from my htc legend. Free and surprisingly quick - even on non 3g connections.
+Works well with vista running tight vnc from my htc legend. Free and surprisingly quick - even on non 3g connections.
+Works well with vista running tight vnc from my htc legend. Free and surprisingly quick - even on non 3g connections.
+Comes in VERY handy, for controlling VNC clients. Has its drawbacks, at times, AS does VNC, in general. But, works, and is FREE!
+Comes in VERY handy, for controlling VNC clients. Has its drawbacks, at times, AS does VNC, in general. But, works, and is FREE!
+Comes in VERY handy, for controlling VNC clients. Has its drawbacks, at times, AS does VNC, in general. But, works, and is FREE!
+Does what it says on the tin. Easy to set up and use - Galaxy S
+Easy setup, works well. Tightvnc sometimes requires minimizing & remaximixing widows over pc to refresh changes but no biggie. App has good options.
+Connected quickly and runs smooth with tight vnc on wifi. Will pay for 3/4g connection if you can make that happen. Great work!
+Connected quickly and runs smooth with tight vnc on wifi. Will pay for 3/4g connection if you can make that happen. Great work!
+Connected quickly and runs smooth with tight vnc on wifi. Will pay for 3/4g connection if you can make that happen. Great work!
+Great app! Definitely needs a better/high res icon. I'll make one for you, Twitter me @kylekr
+Great app! Definitely needs a better/high res icon. I'll make one for you, Twitter me @kylekr
+Works great on galaxy at 1.5. Be sure to open the desired port on your router or modem. For such things contact your local provider as i did.
+Works great on galaxy at 1.5. Be sure to open the desired port on your router or modem. For such things contact your local provider as i did.
+Works great on galaxy at 1.5. Be sure to open the desired port on your router or modem. For such things contact your local provider as i did.
+Works great on galaxy at 1.5. Be sure to open the desired port on your router or modem. For such things contact your local provider as i did.
+Works great on galaxy at 1.5. Be sure to open the desired port on your router or modem. For such things contact your local provider as i did.
+Works great on galaxy at 1.5. Be sure to open the desired port on your router or modem. For such things contact your local provider as i did.
+Works great on galaxy at 1.5. Be sure to open the desired port on your router or modem. For such things contact your local provider as i did.
+The 6th star is for a better icon and a better name... Yea, open source!
+The 6th star is for a better icon and a better name... Yea, open source!
+Pretty cool. Definitely allows for vnc into the machine, but it's a but difficult to get around with out a keyboard.
+Pretty cool. Definitely allows for vnc into the machine, but it's a but difficult to get around with out a keyboard.
+I want to give this 5 stars because it is awesome, but I'm giving it 4 because you cannot control the mouse very well/at all. Would give 5 if fixed.
+Excellent app. Works with both Windows and Linux Ubuntu, running its built in VNC server
+Too good to give for free. Right & left click options should also b added
+Too good to give for free. Right & left click options should also b added
+Too good to give for free. Right & left click options should also b added
+Work great relative to the small screen of my Nexus One. Will be a good backup method to vnc to a server if no other computer around.
+Will connect to ubuntu 10.04 but only ever get the first frame, cursor moves but remote desktop just sits there like a wallpaper. HTC desire.
+Somehow the dev needs to make sure the phone knows when focus is applied to a field. I had to use windows on screen keyboard
+Love it! Using TightVNC on my hosts and it works like a charm (LAN/WiFi tested only)
+This app is fantastic! Works flawlessly controlling my Win7 Pro 64-bit machine running UltraVNC. Nice work by the developers :D
+Won't work with UltraVNC if using NTLM authentication. Can't get screen to display properly with UltraVNC at all.
+Contents to my Ubuntu Linux box through an SSH tunnel (get ConnectBot). Way cool! Trying to use a non-physical keyboard is a little clumsy, but is OK.
+Contents to my Ubuntu Linux box through an SSH tunnel (get ConnectBot). Way cool! Trying to use a non-physical keyboard is a little clumsy, but is OK.
+Works fine with vnc. I have several pcs I use it on and it works just fine, no problem.
+Got it working with my UltraVNC installation in less than 30 seconds! Impressive for a free app.
+Maybe the UI isnt quite as polished as some of the commercial competitors, but overall this is actually a better and more functional app. Well done.
+A-freakin-mazing!!! I love this app! Yes it works with real vnc you have to have free edition and proper portforwarding READ THE WIKI/HELP
+A-freakin-mazing!!! I love this app! Yes it works with real vnc you have to have free edition and proper portforwarding READ THE WIKI/HELP
+An "okay" desktop remote.wish it showed the mouse because it was hard to select things without knowing where or what you were going to select...
+Very good. Would prefer key by key keyboard input and see it real time rather than typing whole block of text then sending it. screen rotate missing.
+This app is awesome. Wish you could send "command" key to Mac servers. And IMO it should be long-press for right-click so you can double-click. Evo
+Invaluable for the busy business people! Works as well as a vnc session with a PC
+Works fine. Parts of screen sometimes dont load but switching screen quality fixes it. Best free vnc app.
+Works great. Doesn't resize if host Windows res is changed but still a great app
+Doesnt work with the paid vnc server version (the one tha uses an encrypted connection). Only works with the free server?
+Doesnt work with the paid vnc server version (the one tha uses an encrypted connection). Only works with the free server?
+Love this app, and the dev works hard. Icon needs a little love though. Looks like a vnc screenshot to be honest.
+Love this app, and the dev works hard. Icon needs a little love though. Looks like a vnc screenshot to be honest.
+Excellent. Suggest long press brings up Send Text menu. Or better still, brings up a keyboard. HTC Hero.
+Excellent. Suggest long press brings up Send Text menu. Or better still, brings up a keyboard. HTC Hero.
+Excellent. Suggest long press brings up Send Text menu. Or better still, brings up a keyboard. HTC Hero.
+Excellent. Suggest long press brings up Send Text menu. Or better still, brings up a keyboard. HTC Hero.
+Great app. No issues. All I want is the ability to view my dual screen. Currently only 1 screen supported. Droid1 & RealVnc
+Found it hard to set up as I have never used a vnc but after that it was easy to use. Archos 5/ HTC Hero
+Screen refresh sucks, but more of a VNC issue. Would like to see file transfer.
+Screen refresh sucks, but more of a VNC issue. Would like to see file transfer.
+Screen refresh sucks, but more of a VNC issue. Would like to see file transfer.
+THANK YOU!! Little tricky to set up at first, but works great! Exactly the app I was looking for :-)
+Awesome product, works with tight and real vnc products. Will also hold connection information if you want it to so reconnecting is easier still!
+Awesome product, works with tight and real vnc products. Will also hold connection information if you want it to so reconnecting is easier still!
+Use this often with my Pentium II storage and print server. Its a pleasure to use with Tightvnc, and does a good job over 3g. (Eris)
+Use this often with my Pentium II storage and print server. Its a pleasure to use with Tightvnc, and does a good job over 3g. (Eris)
+Use this often with my Pentium II storage and print server. Its a pleasure to use with Tightvnc, and does a good job over 3g. (Eris)
+Use this often with my Pentium II storage and print server. Its a pleasure to use with Tightvnc, and does a good job over 3g. (Eris)
+If you really are a Geek it's a must have. This app slaps Steve Jobs iPhone! Ha ha ha!
+If you really are a Geek it's a must have. This app slaps Steve Jobs iPhone! Ha ha ha!
+If you really are a Geek it's a must have. This app slaps Steve Jobs iPhone! Ha ha ha!
+The most usefull app I have. Works perfectly with Droid Incredible and TightVNC server app on my home PC, which is also a free download.
+Doesn't refresh the entire screen sometimes, but otherwise works suprisingly great!
+Very good but please include virtual kryboard. Typing is very hard on N1 unless you have G1 with hardware keyboard.
+i dont know how to get the port number i think that's why mine is not working
+i dont know how to get the port number i think that's why mine is not working
+this is awesome! i was hoping for a VNC app but i didn't think anyone would actually do it. i'll be using this often...
+Outstanding app.... now I can control work computers from anywhere! I live it...... auto login would be a great addition but I have no complaints! Evo
+Great!would give it 5 stars if u add shorycuts for pgdown and pgup, also I don't like it forces me to type with hardware keyboard want soft keyboard.
+Can't get it to connect over 3g. Only if I connect to wifi on same network. Please help. Droid
+Can't get it to connect over 3g. Only if I connect to wifi on same network. Please help. Droid
+Can't get it to connect over 3g. Only if I connect to wifi on same network. Please help. Droid
+Excellent, and free! Would be nice to be able to hide the zoom buttons, and the icon needs updating.
+Excellent, and free! Would be nice to be able to hide the zoom buttons, and the icon needs updating.
+Great powerful handy app and free! To ALL those who complain about icon images...keep it to yourself; what a load of crap!
+Great tool. On Droid x the send keys drop-downs are difficult to use because you can't see which key you are picking until you select it.
+Failed to send uppercase or special characters from my Druid running 2.1 to my Kubuntu 10.04 setup running x11vnc. Three stars for enormous potential.
+Failed to send uppercase or special characters from my Druid running 2.1 to my Kubuntu 10.04 setup running x11vnc. Three stars for enormous potential.
+Failed to send uppercase or special characters from my Druid running 2.1 to my Kubuntu 10.04 setup running x11vnc. Three stars for enormous potential.
+Failed to send uppercase or special characters from my Druid running 2.1 to my Kubuntu 10.04 setup running x11vnc. Three stars for enormous potential.
+Failed to send uppercase or special characters from my Druid running 2.1 to my Kubuntu 10.04 setup running x11vnc. Three stars for enormous potential.
+Failed to send uppercase or special characters from my Druid running 2.1 to my Kubuntu 10.04 setup running x11vnc. Three stars for enormous potential.
+Works great, but I think that's one if the app that suffers from capacitive screen.
+Works great, but I think that's one if the app that suffers from capacitive screen.
+Was excited to finally have pinch zoom, but it seems erratic. Also need option to hide zoom btns. Otherwise great.
+Was excited to finally have pinch zoom, but it seems erratic. Also need option to hide zoom btns. Otherwise great.
+This app has gotten much more stable with the recent updates. It just works! Droid, XP, RealVNC, dual monitors with DynDNS
+This app has gotten much more stable with the recent updates. It just works! Droid, XP, RealVNC, dual monitors with DynDNS
+New version is absolutely fantastic. It's fast and a very natural control scheme. Bravo.
+New version is absolutely fantastic. It's fast and a very natural control scheme. Bravo.
+New version is absolutely fantastic. It's fast and a very natural control scheme. Bravo.
+Works pretty well, does crash on the htc evo from time to time. But you can't complain about the.price.
+Works pretty well, does crash on the htc evo from time to time. But you can't complain about the.price.
+Works pretty well, does crash on the htc evo from time to time. But you can't complain about the.price.
+Works pretty well, does crash on the htc evo from time to time. But you can't complain about the.price.
+Edit: does support enterprise/ultra/encryption.  Does not appear to support windows authentication, vnc auth. works fine
+Edit: does support enterprise/ultra/encryption.  Does not appear to support windows authentication, vnc auth. works fine
+Edit: does support enterprise/ultra/encryption.  Does not appear to support windows authentication, vnc auth. works fine
+Edit: does support enterprise/ultra/encryption.  Does not appear to support windows authentication, vnc auth. works fine
+Works great. I make videos on youtube. I often find myself leaving as the video is uploading. This makes it great for re-uploading. And more. Thanks!
+Works great. I make videos on youtube. I often find myself leaving as the video is uploading. This makes it great for re-uploading. And more. Thanks!
+Works well controlling my Mac, Linux & Windows boxes! A must have on any Android handset. I'm currently using it on a Dell Streak... awesome, Devs! 5*
+Works well controlling my Mac, Linux & Windows boxes! A must have on any Android handset. I'm currently using it on a Dell Streak... awesome, Devs! 5*
+Works well controlling my Mac, Linux & Windows boxes! A must have on any Android handset. I'm currently using it on a Dell Streak... awesome, Devs! 5*
+Downloads initial screen, after that does not update. Key clicks and inputs are working. -Evo connecting to Ubuntu 10.04
+This is a high-quality application that over on the iphone store is at least $9.00 + for this quality level. One of the best DEVs! BRAVO!
+This is a high-quality application that over on the iphone store is at least $9.00 + for this quality level. One of the best DEVs! BRAVO!
+This is a high-quality application that over on the iphone store is at least $9.00 + for this quality level. One of the best DEVs! BRAVO!
+Works pretty well on Droid Inc. Small delay on some screen updates, but is amazing what it can do.
+Works pretty well on Droid Inc. Small delay on some screen updates, but is amazing what it can do.
+Few small iffy interface issues but over all amazing and simple to use! (Samsung Captivate connecting to Ubuntu)
+Couldn't even connect. DROID X. RemoteVNC has free ad-supported ver that works great! This app fails.
+Definitely a useful tool, but slow over 3G. That's to be expected, though. Haven't tried over wifi, but I'm sure it's great.
+Great! I love the quick keyboard and key shortcuts. Saved a freelance job for me this week.[HTC desire]
+What's up with the idiots charging 20 bucks for remote desktop. And the retards paying for it
+Works well over 3G and WiFi, great app! Saving the 5th star for pinch to zoom. HTC Droid Incredible.
+I was skeptical at first, but it worked like a charm (and was easy). Mad props to the dev of this. Definitely get if you use TightVNC.
+I was skeptical at first, but it worked like a charm (and was easy). Mad props to the dev of this. Definitely get if you use TightVNC.
+I was skeptical at first, but it worked like a charm (and was easy). Mad props to the dev of this. Definitely get if you use TightVNC.
+I was skeptical at first, but it worked like a charm (and was easy). Mad props to the dev of this. Definitely get if you use TightVNC.
+Awesome mobile vnc client. Just lacking pinch to zoom. And I don't know how you'd use this without physical keyboard.
+Awesome mobile vnc client. Just lacking pinch to zoom. And I don't know how you'd use this without physical keyboard.
+Awesome mobile vnc client. Just lacking pinch to zoom. And I don't know how you'd use this without physical keyboard.
+Awesome mobile vnc client. Just lacking pinch to zoom. And I don't know how you'd use this without physical keyboard.
+Great app, life saver, I like the multiple sessions, connected to both my windows and mac computers. Don't install if you don't know vnc.
+Great app, life saver, I like the multiple sessions, connected to both my windows and mac computers. Don't install if you don't know vnc.
+Quite good! Doesn't support secure sessions, but that is easily fixed if you ssh tunnel the connection to the endpoint. Recommended.
+Quite good! Doesn't support secure sessions, but that is easily fixed if you ssh tunnel the connection to the endpoint. Recommended.
+If you don't know what VNC is or how to determine your own ip address, this app is not for you. Would like to send 'enter' key
+If you don't know what VNC is or how to determine your own ip address, this app is not for you. Would like to send 'enter' key
+Working well over SSH using connectbot. Just do a local port fwd for 5900 and connect to :localhost:5900
+Amazing work, the new features (touchpad + repeater) make this perfect. Now, could you please add a way to send the windows (super) key? Thanks again!
+Amazing work, the new features (touchpad + repeater) make this perfect. Now, could you please add a way to send the windows (super) key? Thanks again!
+Amazing work, the new features (touchpad + repeater) make this perfect. Now, could you please add a way to send the windows (super) key? Thanks again!
+Works perfectly on nexus one, its actually quite a bit better than even the vnc viewer I run on my desktop. Works flawlessly with tightvnc server.
+Works perfectly on nexus one, its actually quite a bit better than even the vnc viewer I run on my desktop. Works flawlessly with tightvnc server.
+Great, the first app I have seen that saves to SD automatically with 2.2, NexusOne. Finally
+Great, the first app I have seen that saves to SD automatically with 2.2, NexusOne. Finally
+Great, the first app I have seen that saves to SD automatically with 2.2, NexusOne. Finally
+Great, the first app I have seen that saves to SD automatically with 2.2, NexusOne. Finally
+Great, the first app I have seen that saves to SD automatically with 2.2, NexusOne. Finally
+Works great on HTC evo, even over 3g. If your pc is locked, make sure you run as a service. Wouldn't connect for me without.
+Great app. Needs mouse sensivity control (it's really slow on trackball) and support for scandic letter input (äöå). Also the shortcut force closes
+Only works on Wifi, but will not default to it unless mobile network disabled. Maybe add option to select connection type within the app?
+Only works on Wifi, but will not default to it unless mobile network disabled. Maybe add option to select connection type within the app?
+Doesn't work with mac, even with no password! After establishing connection breaks with a failure message..
+It works perfect on my HTC Eco it took me 1 minute to set up and connect to laptop, on my laptop was running free vnc edition. 5 minutes to learn how.
+Couldn't get it to work with runvnc but works a dream with tightvnc. Love it.
+Great app i can connect to windows or mac. Bought the other vnc apps they didnt even come close to this one.
+Cant see text on drop-down menus. Using cliq. Other than that i waould rate it 4 stars.
+Very kewl, tested it on with tightvnc server and 3g connection, connected fast and all works nice only bad thing is refresh rate but that is due conn
+Works perfect but only when im in my house with wifi on. Cant use it anywhere else. Moto droid
+Took a while but got it to work. Had to do port forwarding on home DSL modem to be able to connect over 3g.
+Took a while but got it to work. Had to do port forwarding on home DSL modem to be able to connect over 3g.
+Brilliant app! I did have a little trouble setting up a server on my computer but that's just cause I'm a noob, it was pretty simple really.
+Brilliant app! I did have a little trouble setting up a server on my computer but that's just cause I'm a noob, it was pretty simple really.
+Brilliant app! I did have a little trouble setting up a server on my computer but that's just cause I'm a noob, it was pretty simple really.
+No connection, no mention of what the issue might be. Instant "connect failed" dialog. Useless. Immediate uninstall.
+Perfect! Does just what it says on the tin. Now I can remotely access my media server without firing up the PC. Thanks. Desire 2.1. Pinch zoom??
+Perfect! Does just what it says on the tin. Now I can remotely access my media server without firing up the PC. Thanks. Desire 2.1. Pinch zoom??
+This used to be the best until an update killed the usage with UltraVNC. Wrote the devs, no response. Only gets green screen.
+Used to work perfectly. Now for no reason at all just doesn't work. Used to be 5*'s now 1*! moto Droid on win7 using tight Vinc over wifi
+Used to work perfectly. Now for no reason at all just doesn't work. Used to be 5*'s now 1*! moto Droid on win7 using tight Vinc over wifi
+Used to work perfectly. Now for no reason at all just doesn't work. Used to be 5*'s now 1*! moto Droid on win7 using tight Vinc over wifi
+Used to work perfectly. Now for no reason at all just doesn't work. Used to be 5*'s now 1*! moto Droid on win7 using tight Vinc over wifi
+Used to work perfectly. Now for no reason at all just doesn't work. Used to be 5*'s now 1*! moto Droid on win7 using tight Vinc over wifi
+Huge battery drain and heats up my phone, yet AMAZING APP. Very awesome once you figure out remote. TightVNC, XP 32-bit sp3, Moto Droid 2.1
+Huge battery drain and heats up my phone, yet AMAZING APP. Very awesome once you figure out remote. TightVNC, XP 32-bit sp3, Moto Droid 2.1
+Confirming that it cannot connect to windows 7 RealVNC enterprise 4.5.3 when other devices can. Hangs at establishing handshake. Moto droid.
+Great app. Definitely need pinch zooming on next update. HTC Eris connect to RealVNC on Windows XP SP3.
+Works perfect on moto droid and tight vnc 2 beta 4 on win 7 x64 pro. Thanks!
+Works perfect on moto droid and tight vnc 2 beta 4 on win 7 x64 pro. Thanks!
+Works great with realVNC, tested 3 computers so far. Only "complaint" is trackball scrolling is very slow. Check their website for various instructi
+Works great with realVNC, tested 3 computers so far. Only "complaint" is trackball scrolling is very slow. Check their website for various instructi
+Works great with realVNC, tested 3 computers so far. Only "complaint" is trackball scrolling is very slow. Check their website for various instructi
+Does what it says, and does it well. Oh, except Ubuntu does tend to lag, but only Ubuntu.
+Does what it says, and does it well. Oh, except Ubuntu does tend to lag, but only Ubuntu.
+If you have a dynamic IP, get a DynDNS and set your router to auto-update your DynDNS whenever your IP changes.
+This is so money. Have used it a billion times to babysit processes for work. Coupled with ssh tunnel this is great.
+This is so money. Have used it a billion times to babysit processes for work. Coupled with ssh tunnel this is great.
+5 Stars! Awesome app! Connected using TightVNC & UltraVNC on Win 7 x64. Works great over 3g & WiFi. Can't wait to try it over 4g when I get my Evo!
+Works great on my Nexus one! DEV has put some great features in this! So many different options to suit any task.
+Works great on my Nexus one! DEV has put some great features in this! So many different options to suit any task.
+Works great on my Nexus one! DEV has put some great features in this! So many different options to suit any task.
+Awesome. Works well with connectbot if you need to tunnel into a server to gain access to a vnced PC within a lan
+Works awesome. Just one thing though. Would be nice to have desktop cursor instead of a dot on g1. And more fluid movement with cursor on phone. 5star
+Works awesome. Just one thing though. Would be nice to have desktop cursor instead of a dot on g1. And more fluid movement with cursor on phone. 5star
+Connects quickly, mouse clicks etc happen almost instantly. Only problem is that the screen sometimes turns green before reloading the image. Plz fix!
+Connects quickly, mouse clicks etc happen almost instantly. Only problem is that the screen sometimes turns green before reloading the image. Plz fix!
+Connects quickly, mouse clicks etc happen almost instantly. Only problem is that the screen sometimes turns green before reloading the image. Plz fix!
+Connects quickly, mouse clicks etc happen almost instantly. Only problem is that the screen sometimes turns green before reloading the image. Plz fix!
+Awesome app well worth the twenty minutes it took to figure out how to set it up. Works perfectly on my X10
+Awesome app well worth the twenty minutes it took to figure out how to set it up. Works perfectly on my X10
+@Tejvir: www-old.cae.wisc.edu/site/public/?title=fshowvnc Just needs a better way of entering special keys, such as a virtual keyboard. I use it often
+Can somebody tell me how to connect with my PC having xperia10 mobile and xp on pc
+Work OK but the mouse controls are wonky and the zoom can't use the multitouch
+Could not get it to connect,just another headache.wish it would work for me. using g1
+Works great! This is my most used app! Needs the abbility to turn pc on when its shutdown and off like the remote play feat on the PS3 via PSP. MTG3
+Works great! This is my most used app! Needs the abbility to turn pc on when its shutdown and off like the remote play feat on the PS3 via PSP. MTG3
+Pretty hard to get it going on windows vista home premium definately needed some computer knowledge but once it was set up i love it
+Pretty hard to get it going on windows vista home premium definately needed some computer knowledge but once it was set up i love it
+Pretty hard to get it going on windows vista home premium definately needed some computer knowledge but once it was set up i love it
+A little slow to load, and the mouse isn't easy to use, but it's open! Overall, very nice software.
+Works great on droid set up in less than five minutes you just got to know what your doing
+Works great!! Took less than 10 mins to install a free Vnc server on my PC and run this app to connect to the server. Best free vnc viewer so far.
+Works great!! Took less than 10 mins to install a free Vnc server on my PC and run this app to connect to the server. Best free vnc viewer so far.
+Yay, for some reason my firewall blocked the VNC server but now its unblocked again and this works perfectly to view it
+Been using it to connect to my desktop remotely. T-Mobile Pulse -> Ubuntu. Brilliant.
+Been using it to connect to my desktop remotely. T-Mobile Pulse -> Ubuntu. Brilliant.
+Works great on mac fr my droid eris! U just gotta be computer saavy :-p. Love this app. Its a bit slow bit other than that, its great.
+Works great over wifi or 3G. Switching between screen pan and mouse control is ez on droid. Love it.
+Difficult to operate, especially when entering text. But works better than any other VNC apps I've tried.
+Great job, supports low color depths to save bandwidth, very nice performance overall.
+It works & its free! NO encryption support; Don't "force" it on server. NO user feild for Active-Directory/Win-Logon; Use "VNC Password" on RealVNC.
+Works very well, works best out of all the search results for "vnc" on the android market.
+Works very well, works best out of all the search results for "vnc" on the android market.
+Works very well, works best out of all the search results for "vnc" on the android market.
+Works great and it's free. To get the keyboard to pop up hold the menu key. N1.
+Works great and it's free. To get the keyboard to pop up hold the menu key. N1.
+Works great and it's free. To get the keyboard to pop up hold the menu key. N1.
+Works great and it's free. To get the keyboard to pop up hold the menu key. N1.
+Works pretty well on moto droid. Have some issues with arrow keys, but it's not a huge problem.
+Works pretty well on moto droid. Have some issues with arrow keys, but it's not a huge problem.
+Works pretty well on moto droid. Have some issues with arrow keys, but it's not a huge problem.
+Works pretty well on moto droid. Have some issues with arrow keys, but it's not a huge problem.
+Works pretty well on moto droid. Have some issues with arrow keys, but it's not a huge problem.
+Works pretty well on moto droid. Have some issues with arrow keys, but it's not a huge problem.
+Works pretty well on moto droid. Have some issues with arrow keys, but it's not a huge problem.
+Works pretty well on moto droid. Have some issues with arrow keys, but it's not a huge problem.
+best vnc client available. works well on moto backflip. now with keyboard shortcuts!! thank you!
+best vnc client available. works well on moto backflip. now with keyboard shortcuts!! thank you!
+Don't blame the client if you don't know how to configure a server! Works perfect, even with ssh tunneling throug connectbot. Very easy to configure.
+Don't blame the client if you don't know how to configure a server! Works perfect, even with ssh tunneling throug connectbot. Very easy to configure.
+Same computer, Remote VNC worked, this app didn't. Easy choice... use the other app.
+Same computer, Remote VNC worked, this app didn't. Easy choice... use the other app.
+Good but takes some patience to set up and ui is a bit difficult to navigate...awesome fo spying tho. ; -)
+Good but takes some patience to set up and ui is a bit difficult to navigate...awesome fo spying tho. ; -)
+Good but takes some patience to set up and ui is a bit difficult to navigate...awesome fo spying tho. ; -)
+Good but takes some patience to set up and ui is a bit difficult to navigate...awesome fo spying tho. ; -)
+Good but takes some patience to set up and ui is a bit difficult to navigate...awesome fo spying tho. ; -)
+Works very well for many applications, I used on a video system to transmit megapixel streaming video and was getting great results. Love this app.
+Works very well for many applications, I used on a video system to transmit megapixel streaming video and was getting great results. Love this app.
+Works very well for many applications, I used on a video system to transmit megapixel streaming video and was getting great results. Love this app.
+Works very well for many applications, I used on a video system to transmit megapixel streaming video and was getting great results. Love this app.
+Works very well for many applications, I used on a video system to transmit megapixel streaming video and was getting great results. Love this app.
+Works OK. Refresh is a bit off and frame rate is very slow on nexus one.
+Works OK. Refresh is a bit off and frame rate is very slow on nexus one.
+OK for viewing but can't click. I'm using it incorrectly or it doesn't work on the nexus one.
+OK for viewing but can't click. I'm using it incorrectly or it doesn't work on the nexus one.
+OK for viewing but can't click. I'm using it incorrectly or it doesn't work on the nexus one.
+I love this one. Works ten times better than iPhone one that wasn't free. Worth donating money.
+Absolutely the best free VNC experience I have had on a mobile device ever. Awesome software :)
+Get the f*#@! outta here! Very impressive job! I like some others am very impressed and didnt think this would even be possible on a phone. Nice job!
+Get the f*#@! outta here! Very impressive job! I like some others am very impressed and didnt think this would even be possible on a phone. Nice job!
+Not every1 was born a computer genius...instructions would be great! Uninstall for now till someone can tell me how to set it up...
+School's firewall kept me from 3Ging to my computer, but i can be a mile away on campus and it works perfectly!!!
+School's firewall kept me from 3Ging to my computer, but i can be a mile away on campus and it works perfectly!!!
+School's firewall kept me from 3Ging to my computer, but i can be a mile away on campus and it works perfectly!!!
+School's firewall kept me from 3Ging to my computer, but i can be a mile away on campus and it works perfectly!!!
+School's firewall kept me from 3Ging to my computer, but i can be a mile away on campus and it works perfectly!!!
+School's firewall kept me from 3Ging to my computer, but i can be a mile away on campus and it works perfectly!!!
+droid - works with xp + real vnc. the zoom buttons are in a poor position. more options than remote vnc
+droid - works with xp + real vnc. the zoom buttons are in a poor position. more options than remote vnc
+Excellent, fast, works very well. Control is very good with many options. No problems at all.
+Excellent, fast, works very well. Control is very good with many options. No problems at all.
+Works great! Thank you! Droid joystick works very slow with mouse cursor. Improved response would be greatly appreciated. 5 stars!
+Works great! Thank you! Droid joystick works very slow with mouse cursor. Improved response would be greatly appreciated. 5 stars!
+GREAT! ctrl alt del is a menu option , comes in handy also hold alt while typing passwords in win machines.
+GREAT! ctrl alt del is a menu option , comes in handy also hold alt while typing passwords in win machines.
+GREAT! ctrl alt del is a menu option , comes in handy also hold alt while typing passwords in win machines.
+GREAT! ctrl alt del is a menu option , comes in handy also hold alt while typing passwords in win machines.
+Works great on my Droid Eris, with my HP Dv5 laptop. Also works on "ALL" Operating Systems, Windows, MAC, and Linux.
+Works great! I love how I can lower the resolution; it helps speed it up! Using TightVNC as a host.
+This app is one reason I bought the Droid. But with the Droid's WiFi problems I can't use it. Maybe after the Droid is fixed...
+Updates made this app really great and useful. I just experience problems controlling my notebook with 1920x1200 screen res.
+Updates made this app really great and useful. I just experience problems controlling my notebook with 1920x1200 screen res.
+It works surprisingly well on LAN and through internet it's worth trying if you're bored.
+This is one of my faves! It works perfectly on my G1. Anyone who has problems just needs to learn how to use it and set up to fit their needs.GO DEV
+This is one of my faves! It works perfectly on my G1. Anyone who has problems just needs to learn how to use it and set up to fit their needs.GO DEV
+This is one of my faves! It works perfectly on my G1. Anyone who has problems just needs to learn how to use it and set up to fit their needs.GO DEV
+This is one of my faves! It works perfectly on my G1. Anyone who has problems just needs to learn how to use it and set up to fit their needs.GO DEV
+This is one of my faves! It works perfectly on my G1. Anyone who has problems just needs to learn how to use it and set up to fit their needs.GO DEV
+Refuses to connect to my Mac servers, but "Remote VNC Lite" connects just fine. Same configuration data entered for both apps.
+Refuses to connect to my Mac servers, but "Remote VNC Lite" connects just fine. Same configuration data entered for both apps.
+Refuses to connect to my Mac servers, but "Remote VNC Lite" connects just fine. Same configuration data entered for both apps.
+Refuses to connect to my Mac servers, but "Remote VNC Lite" connects just fine. Same configuration data entered for both apps.
+Refuses to connect to my Mac servers, but "Remote VNC Lite" connects just fine. Same configuration data entered for both apps.
+Really good app, could connect when other android vnc apps couldn't. Really smooth and easy to use.
+I like this. This is for the lazy people. Tightvnc ftw. Works better than great on the G1
+Its great! You should download tightvnc on your computer if you want to use this over 3g though. Ultra vnc doesnt work as well. I am very pleased.
+Works. Could we get an icon worthy of display on our sleek devices please? I know it's a minor thing but it makes the app even better overall. Thanks!
+Works well. Had trouble at first because I had to forward ports in windows firewall as well as wireless router.
+Gives me a warm geeky feeling to access my desktop while on the road. Refresh could be better but I like it.
+Gives me a warm geeky feeling to access my desktop while on the road. Refresh could be better but I like it.
+Gives me a warm geeky feeling to access my desktop while on the road. Refresh could be better but I like it.
+Buggy. Crashes and doesn't connect, despite realvnc set up with forwarded ports. Running on Droid
+Great app, works as well as expected. No problems setting up or connecting to my win xp desktop.
+I hope i can give you a donation for this when i hit your web site
+Easy to set up and use.. connected to my ubuntu server with out an issue
+Good work! I'd like to see an option to use the d-pad as the mouse, for devices without trackballs.
+Good work! I'd like to see an option to use the d-pad as the mouse, for devices without trackballs.
+Good work! I'd like to see an option to use the d-pad as the mouse, for devices without trackballs.
+Excellent app, dare i say it works better than the java applet on a desktop. If you wanna get really fancy, add multitouch zoom
+Excellent app, dare i say it works better than the java applet on a desktop. If you wanna get really fancy, add multitouch zoom
+Excellent app, dare i say it works better than the java applet on a desktop. If you wanna get really fancy, add multitouch zoom
+Excellent app, dare i say it works better than the java applet on a desktop. If you wanna get really fancy, add multitouch zoom
+Excellent app, dare i say it works better than the java applet on a desktop. If you wanna get really fancy, add multitouch zoom
+This is fantastic on Droid. I use it a LOT with both Linux and Windows. Works flawlessly after last update and it's FREE!
+Works great on Droid after I figured out you need to turn off full-screen to change input method.
+It was good b4 but the touch mouse pan and zoom option, and zooming make this the best app on my droid. Now i only wish the screen would rotate.
+Much better control with the touch mouse pan n zoom setting. Connecting to my workstation much faster now. A++. I luv this app somuch.
+Missing shortcuts for Alt+F4, delete and tab keys, double click with mouse as well. Great app and works on milestone.
+Missing shortcuts for Alt+F4, delete and tab keys, double click with mouse as well. Great app and works on milestone.
+Seriously slow screen refreshes even in 8bit over wifi (g) + interface / mouse & panning options are flakey & unreliable. MAJOR ISSUES W/MULTI-MONITOR
+Seriously slow screen refreshes even in 8bit over wifi (g) + interface / mouse & panning options are flakey & unreliable. MAJOR ISSUES W/MULTI-MONITOR
+Bravo. New features make this a must have for my remote desktop management. To hell with mac osx, get a real computer.
+Not for Osx,What a pile.and no help as to how to make it work.developer SAYS theoretically should work but untested. WTH?
+The new update with zoom and touch pan and touch mouse... man.. its amazing! Thank you!
+The new update with zoom and touch pan and touch mouse... man.. its amazing! Thank you!
+The new update with zoom and touch pan and touch mouse... man.. its amazing! Thank you!
+Works a lot better on droid than any other vnc clients and its free close but not quite as good as jaadu vnc on iphone
+amazing app, made my girlfriend go mad when i took over my pc while sitting on the toilet.
+amazing app, made my girlfriend go mad when i took over my pc while sitting on the toilet.
+Using against windows server 2008 R2. It works, but very slow and then screen turns all green
+Doesn't seem to work on the Droid. Used UltraVNC as my server, Win 7 and XP. Hangs when trying to render desktop. Remote VNC Lite works better.
+Is there a way to transfer files to g1 sdcard since connected 2pc with vnc?
+Is there a way to transfer files to g1 sdcard since connected 2pc with vnc?
+Is there a way to transfer files to g1 sdcard since connected 2pc with vnc?
+Is there a way to transfer files to g1 sdcard since connected 2pc with vnc?
+Seems to work well once you figure out the combination of settings work best for you. 1:1 screen, dpad panning, touch-mouse work best for me.
+Bit of a pain getting the settings right; can't use the 1:1 setting (input doesn't work); zoom mode would be great. However, it does work.
+Works perfect when i need to connect to office pc and dont want to boot laptop.
+This app is great but 1 question. It only works on wifi. So dose that mean i cant be at work and use it. Or do i just need to be on a wifi
+This app is great but 1 question. It only works on wifi. So dose that mean i cant be at work and use it. Or do i just need to be on a wifi
+Very good app if ur like me running a small do-everything home server and access 24x7. Due to screen size limitation on phone, its as good as it get.
+Very good app if ur like me running a small do-everything home server and access 24x7. Due to screen size limitation on phone, its as good as it get.
+24bit is req. for macs, making it too slow to use. Wanna love it cuz its OS & very configurable, but Remote VNC is much faster. Sorry guys.
+24bit is req. for macs, making it too slow to use. Wanna love it cuz its OS & very configurable, but Remote VNC is much faster. Sorry guys.
+Works great, no problems so far. A little tricky to operate the mouse and panning, but still is great for a phone vnc.
+Works great, no problems so far. A little tricky to operate the mouse and panning, but still is great for a phone vnc.
+Tmobil mytouch. Very nice. Fast. Reduce your computer's resolution, and it works a lot faster. only the port forwarding on my router gave me troubles.
+Tmobil mytouch. Very nice. Fast. Reduce your computer's resolution, and it works a lot faster. only the port forwarding on my router gave me troubles.
+Very nice. Would be better if when on "fit-to-screen" mode could actually fit the whole screen. Mouse with trackball is kinda slow.
+Brilliant app. Works great in 24 bit color mode. Only problem is with the screen blanking out for a sec or so while panning.
+Simply awesome. Great work! It seems to have problems with computers with large resolutions, though. Parts of the screen will turn black and reload.
+Simply awesome. Great work! It seems to have problems with computers with large resolutions, though. Parts of the screen will turn black and reload.
+Simply awesome. Great work! It seems to have problems with computers with large resolutions, though. Parts of the screen will turn black and reload.
+I need help.!!! How long does it have to take to connect??? Can anyone tell me
+Control your PC through your phone.. this surely enough puts a big nice grin on any geeks face. Bahaha:)
+Works well. Only could use an easier way to send keys, eg pop up directly a keyboard and send when done is pressed
+Like the ability to control my media downstairs when my workstation is up stairs. Fab app
+Like the ability to control my media downstairs when my workstation is up stairs. Fab app
+Like the ability to control my media downstairs when my workstation is up stairs. Fab app
+Like the ability to control my media downstairs when my workstation is up stairs. Fab app
+Awsome program the only thing is when i put it in grayscale it is still in colors
+Definitely a good start, but more could certainly be done to make mouse control less of a hassle. Tapping the trackball doesn't click on my hero.
+Definitely a good start, but more could certainly be done to make mouse control less of a hassle. Tapping the trackball doesn't click on my hero.
+Awesome, and works fine with the magic's virtual keyboard. Just hold menu to bring it up.
+Awesome, and works fine with the magic's virtual keyboard. Just hold menu to bring it up.
+Awesome, and works fine with the magic's virtual keyboard. Just hold menu to bring it up.
+Once I learned how VNC worked... this application is absolutely incredible for being free. DOWNLOAD!!! =)
+Now I can monitor my girl and block her from MySpace she swear its haunted
+Now I can monitor my girl and block her from MySpace she swear its haunted
+I downloaded ultra vnc viewer on my computer and it works perfectly. Can anyone verify security?
+I downloaded ultra vnc viewer on my computer and it works perfectly. Can anyone verify security?
+I downloaded ultra vnc viewer on my computer and it works perfectly. Can anyone verify security?
+Works very well over LAN with TightVNC. Haven't tried it over 3G yet, if that's possible.
+Was working fine yesterday  phone just updated and now not able to connect at all.  Never changed a thing...  need an update for the update
+Was working fine yesterday  phone just updated and now not able to connect at all.  Never changed a thing...  need an update for the update
+Was working fine yesterday  phone just updated and now not able to connect at all.  Never changed a thing...  need an update for the update
+Very good app. Works fine with tightVNC on win 7. Mouse speed when controlled via trackball needs to be a bit faster, needs better right click method
+Works great with Linux x11vnc server, full 24 bit colour. Desktop panning, and full control over applications. THANK YOU for providing this Android ap
+Works great with Linux x11vnc server, full 24 bit colour. Desktop panning, and full control over applications. THANK YOU for providing this Android ap
+Great! Convincing demo of pre-pc term-server idea! Connected via ssh tunnel. Zoom doesn't work well and option ball=pan, touch=mouse would be nice!
+It would be perfect if the connection screen could rotate to potrait.  Virtual keyboard in Magic is a real headache.
+I can see you... plz fix the zoom.... other than that flawless... makes a great pair with connectbot's fowarded ports.
+I can see you... plz fix the zoom.... other than that flawless... makes a great pair with connectbot's fowarded ports.
+I can see you... plz fix the zoom.... other than that flawless... makes a great pair with connectbot's fowarded ports.
+I can see you... plz fix the zoom.... other than that flawless... makes a great pair with connectbot's fowarded ports.
+I need jelp on how to use this. I havr installed the android vnc app and wanna be able to control my pc. jvr.p.84@gmail
+Exactly what i needed! Works great(Cupcake,WinXP,ultraVNC)! But dev, please change the icon, it's the ugliest on my phone, lol. 5 Stars for usage!
+Doesn't work well with Macs.  You have to use 24 bit color which drags to a halt when viewing a 30 inch monitor.
+Works awsome even through my router, i wish it allowed streaming so i could listen to my mp3 in my home PC while at am @work
+Works surprisingly well. Next version should have more scalling options. Oh, and still be free.
+This app has the potential to be a very powerful tool.. It works ok, but it needs to be much more intuitive. Keep working on it!
+This app has the potential to be a very powerful tool.. It works ok, but it needs to be much more intuitive. Keep working on it!
+Works best over wifi and 3g, although is slow on edge, ultravnc recommended for windows users
+Display mess up when server is using a wide-screen resolution. E.g. 1280x800 or 1920x1200.
+Display mess up when server is using a wide-screen resolution. E.g. 1280x800 or 1920x1200.
+Display mess up when server is using a wide-screen resolution. E.g. 1280x800 or 1920x1200.
+Display mess up when server is using a wide-screen resolution. E.g. 1280x800 or 1920x1200.
+Display mess up when server is using a wide-screen resolution. E.g. 1280x800 or 1920x1200.
+Love it....its almost perfect....works on 3g when im not home, i get connect problems sometimes but on da same wifi network its a breeze. Great thx
+Very nice!   Works great - 5 stars if the mouse was a little faster.  Anyone not connecting, check your seup carefully, especially the router.
+Works great, nice simple and straight forward. My only gripe is the scaled display mode doesnt utilise all of the G1's screen. Otherwise, ripper app!
+Work great, i wish the black section gets updated faster.  My right mouse button doesn't work.
+To anyone who cant get it to work, if youre on wireless u HAVE to configure ur router to forward the vnc ports to ur local ip. Works on Windows7. 5*s
+Porting this app to the G1 is a landmark. Thank you. Thank you, Thank you.
+Porting this app to the G1 is a landmark. Thank you. Thank you, Thank you.
+can anyone right click with this app?  Is kind of useless for me withouth being able to right click.
+Works well for local network access...however tmobile seems to block the standard vnc ports, so no access over 3g...love being able to use w/ubuntu
+Works well for local network access...however tmobile seems to block the standard vnc ports, so no access over 3g...love being able to use w/ubuntu
+Works well for local network access...however tmobile seems to block the standard vnc ports, so no access over 3g...love being able to use w/ubuntu
+Great! Finally iy has come. Maybe add a shortcut for switching from pan and mouse with the touchpad.
+Awesome app i easily connect to my vista over 3g. Nice app thank you google
+Awesome app i easily connect to my vista over 3g. Nice app thank you google
+Awesome app i easily connect to my vista over 3g. Nice app thank you google
+Awesome app i easily connect to my vista over 3g. Nice app thank you google
+Works fine when i am on the same wifi as my computer. If im not at home i get a vnc error. Please help
+The best out there. It just needs better mouse controls though. Give us the option to use the scroll wheel as the mouse.
+out of every app in the market this is the best one .... just one request. Can you also make this work over 3g in the next update thanks
+out of every app in the market this is the best one .... just one request. Can you also make this work over 3g in the next update thanks
+Great app! Only complain is that need a better method for panning and moving cursor. Overall a must app for android
+Downloaded to counter the idiots. This works great. Let's go over this again: Don't download and rate that which you do not understand.
+Very good program. For those that dont know how to use it, look up vnc set up. Keep up the good work.
+I used tightvnc and it works great over my wifi and gives set by set setup. Issues with edge though. Overall great program!
+I used tightvnc and it works great over my wifi and gives set by set setup. Issues with edge though. Overall great program!
+I used tightvnc and it works great over my wifi and gives set by set setup. Issues with edge though. Overall great program!
+This is a great start to a much need app! It would be excellent if support for echovnc could be integrated.
+This is a great start to a much need app! It would be excellent if support for echovnc could be integrated.
+Great app, could definitely use some upgrades
+
+And don't rate this 1 star because you're an idiot that doesn't know how to read instructions.
+AWESOME! So easy to use too! Also only took me two minutes to DL and setup. Quite possible the best app yet for me.
+Fantastic! Was vnc'd in while driving across new mexico! Can play flash apps on vnc host ;)
+Cant connect it for some reason wont sign in. Excellent idea tho would be usefull
+Cant connect it for some reason wont sign in. Excellent idea tho would be usefull
+Works brilliantly. A little slow but of course to be expected on such a device. Thoroughly impressed. Thanks!
+Works brilliantly. A little slow but of course to be expected on such a device. Thoroughly impressed. Thanks!
+plz tell me if I need 3G to connect to my pc when I am not home or I'm doing something wrong, bcz I connect when I'm home and connected to wifi
+plz tell me if I need 3G to connect to my pc when I am not home or I'm doing something wrong, bcz I connect when I'm home and connected to wifi
+The best app ever..now i can support others remotely and the switch with thr track ball is awsome..congratulations
+The best app ever..now i can support others remotely and the switch with thr track ball is awsome..congratulations
+The best app ever..now i can support others remotely and the switch with thr track ball is awsome..congratulations
+Only problem i have is connecting if the server is setup to encrypt the session. Otherwise awesome!
+Only problem i have is connecting if the server is setup to encrypt the session. Otherwise awesome!
+Only problem i have is connecting if the server is setup to encrypt the session. Otherwise awesome!
+Only problem i have is connecting if the server is setup to encrypt the session. Otherwise awesome!
+very nice.. there should be a pan and tap mode.  drag to pan and tap to mouse click... who needs to drag and drop anyways =)
+very nice.. there should be a pan and tap mode.  drag to pan and tap to mouse click... who needs to drag and drop anyways =)
+Very good app, bat the tragboll is to slow, and go not in the zoom page
+Works great. Does exactly what it said. Would be great to use over 3g though. Thanks for an awesome app.
+I love it! Could use a few tweeks but it does what it says. Please Please create an option to save connection profiles as icons on the desktop. Thanks
+Works great. Make sure your firewall is allowing vnc through. Keep up the awsome work!
+Love this app it makes me feel i am in my desktop when i am outside n still move anything from my G1 it makes  this my second computer
+Love this app it makes me feel i am in my desktop when i am outside n still move anything from my G1 it makes  this my second computer
+Awsome .. I was looking for any vnc viewer for my cellphone &  got it ...works perfect
+Awsome .. I was looking for any vnc viewer for my cellphone &  got it ...works perfect
+Amazing app. Haven't used servers before, but this was extremely simple. Great job!
+Awesome, i think this is the coolest app on my phone now. Make a server for the phone though!!!!
+Seems very cool, but it is to much work for use with OS X v10.5.6
+Works great! I have been waiting for a remote control for my pc app! Thanks!
+I love the app, but it only works in my home network.  I cannot connect over 3G.  Any ideas from anyone smarter than me out there?
+The idea of vnc is really cool but im dealing with an installation issue.after i install it says can't install ...anyeay keep up the good work
+I love it. I have been waiting for this since i got my g1. You rock!!!
+I love it. I have been waiting for this since i got my g1. You rock!!!
+Worked great and mostly stable. To everyone, dont rate if you dont know how to set up correctly. Look online for instructions.
+Worked great and mostly stable. To everyone, dont rate if you dont know how to set up correctly. Look online for instructions.
+Desktop paning work better in the first version.... please fix the flicker/blackout when panning!
+Desktop paning work better in the first version.... please fix the flicker/blackout when panning!
+Great app! There are glitches that need to be ironed out still (flickering display, full screen doesn't show all of the display) but otherwise good.
+The screen flashes black quite often when scrolling, even while connected via wifi... but it's still great!
+Wow, this is a real nice app, took me some time to find out what program to use as client, tightVNC works best, it has minimum delay. Anyways 5 stars!
+Awesome app works great! Don't rate poorly if you don't know how to use...if you want to learn then read info for Tight VNC or others.
+Another quality app1 thanks mate.
+Nice to see some1 knows the meaning of open source!!
+Been waiting for this. I may have even paid. One thing tho, it crashes on "full bitmap"
+Been waiting for this. I may have even paid. One thing tho, it crashes on "full bitmap"
+i am amazed at how well this runs. best performing app i have used on g1. plz add an option to center mouse on viewport when touch panning. thx! <3
+i am amazed at how well this runs. best performing app i have used on g1. plz add an option to center mouse on viewport when touch panning. thx! <3
+Best VNC viewer out there. For those who need instructions on how to use it, press menu and select manual.
+Works great.  Perhaps it could support other protocols (as in ultra vnc) in the future.
+Needs ALOT of work but good implementation. Needs easier mouse flow and touch screen mouse control compatibility not just desktop panning.
+Needs ALOT of work but good implementation. Needs easier mouse flow and touch screen mouse control compatibility not just desktop panning.
+Issues with realvnc could have been on my end tightvnc works perfectly.  One of the best apps to date
+Huge improvment over previous version.  Best app on the market as far as im concerned.
+Loving it!  I usually do stuff with connect bot, but this completes the package.. cli & gui capable phone.  Now i just need a cisco vpn client!
+So far it seems like a good app even though i have no clue what to do ive been researching and it looks promising 5 star when its set up and working
+Great app. Still needs a little work but for a beta release it gets 5 stars.
+Havent even used it andd i already know its gonna be the most ballingest app evar
+Havent even used it andd i already know its gonna be the most ballingest app evar
+Havent even used it andd i already know its gonna be the most ballingest app evar
+Havent even used it andd i already know its gonna be the most ballingest app evar

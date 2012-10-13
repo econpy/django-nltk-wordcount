@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% load i18n %}
+
+{% block content %}
+<div class="row-fluid">
+  <div class="span4">
+    <p>&nbsp;</p>
+  </div>
+  <div class="span3">
+    <table class="table table-bordered table-striped">
+      <tbody>
+        <tr><td><strong>App ID</strong></td><td><em>{{ mpn }}</em></td></tr>
+        <tr><td><strong>Word</strong></td><td><font color="orange">{{ word }}</font></td></tr>
+        <tr><td><strong>Count</strong></td><td><span class="badge badge-success">{{ count }}</span></td></tr>
+      </tbody>
+    </table>
+    <div class="page-header" align="center">
+      <h4><small>The word <font color="orange"><strong>{{ word }}</strong></font> appears in the app reviews for <a href="https://play.google.com/store/apps/details?id={{ mpn }}" target="_blank">{{ mpn }}</a> {{ count }} times.</small></h4>
+    </div>
+  </div>
+  <div class="span5">
+    <p>&nbsp;</p>
+  </div>
+</div>
+{% endblock %}

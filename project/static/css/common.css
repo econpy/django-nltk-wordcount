@@ -1,0 +1,98 @@
+@charset "utf-8";
+
+* {
+        margin: 0;
+        padding: 0;
+        outline: 0;
+}
+
+a {
+        color: #0a5477;
+        text-decoration: none;
+}
+
+
+ul,ol,li {
+        list-style: none;
+}
+
+body {
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 13px;
+        color: #333;
+}
+
+.content {
+        width: 940px;
+        margin: 0 auto;
+}
+
+.header,.container,.footer {
+        width: 100%;
+        float: left;
+}
+
+.header {
+   max-height: 708px;
+}
+
+.container {
+        padding: 25px 0 35px;
+}
+
+
+.footer {
+   position: absolute;
+   bottom: 0;
+   padding: 10px 0;
+   width: 100%;
+   text-align: center;
+}
+
+.page-title {
+   margin-bottom: 20px;
+   margin-top: 20px;
+   border: solid 1px #d5dbde;
+   border-radius: 6px;
+   -moz-border-radius: 6px;
+   -webkit-border-radius: 6px;
+   -moz-box-shadow: 0 1px 0 #c6cccf;
+   -webkit-box-shadow: 0 1px 0 #c6cccf;
+   box-shadow: 0 1px 0 #c6cccf;
+   text-align: center;
+   padding: 3px 20px;
+   border: solid 1px #f8fafb;
+   border-radius: 5px;
+   -moz-border-radius: 5px;
+   -webkit-border-radius: 5px;
+   width: 898px;
+   margin-left: auto;
+   margin-right: auto;
+   text-align: center;
+}
+
+.page-title h2 {
+   line-height: 46px;
+   font-weight: normal;
+}
+
+
+input[type=submit],submit {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 15px;
+        font-weight: bold;
+        text-shadow: 0 1px 0 #fff;
+        cursor: pointer;
+        height: 32px;
+}
+
+table {
+   margin-bottom: 10px;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+}
+
+tr {
+   height: 30px;
+}

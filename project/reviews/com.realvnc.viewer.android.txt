@@ -1,0 +1,305 @@
+Terrible
+La versione attuale non permette il LOGIN sotto OSX LION 10.7. Pertanto sino a che non verrà upgradata non è possibile utilizzarla per VNC sotto Lion.
+Does not work on samsung galaxy tab 2
+There is no refund or good instructions on how to connect yo my PC... I have a fancy $10 logo in my app drawer which is completely useless. Do I have to download software on my computer or what?!?!  Please help.
+Does not work on default settings with galaxy tab 2
+Title says it all.  Have Samsung Galaxy Tab 2 (7") and this app cant get oast the opening screen before it force closes.
+I never had problems with other phone but currently using Samsung galaxy s2 I1900G. My keyboard will NOT pop out when i tilt/rotate my screen for landscape view!! Please fix it asap as i've PURCHASED this app.
+Fc fixed, but still stupid menu bar at the top of the screen on phone version. Half the screen is covered every time you Nice the mouse. Want like this a few versions ago. And customer service is passive. Will be looking for new client
+Force closes on SGSII.
+Using it on galaxy nexus and the screen wouldn't refresh unless I move the screen around and go back.
+It's hard to type. I mean, when you click on a specific character... it will keep repeating that specific key for a while like if you continued to press it.
+License check fails last two days with no apparent reason. Please do correct license check asap - right now it is too overprotective and paranoid.
+The product did not fit my needs which is ok but after waiting 4+ days to get even a partial refund (because i was a bit after 15 mins) after contacting them, I'm forced to leave as bad a review as possible.
+Very often when starting the app it says that license check is not possible & the app closes itself, so I can't use it. I bought it here & I don't understand the developer vision of this program anti-pirate defence.
+There is no way to tell it to use alt, control, esc  or arrow keys when using a keyboard that has them.  Must still go through clunky interface to get these keys to the remote machine, pointless.
+Smart, simple and no crash.
+This app does not work at all on Galaxy Nexus, probably because it doesn't work on ICS.  The information displays run off the edge of the screen, and there is no way to scroll them.  Thus, there is no way to set up the information needed to Connect.  Unfortunately, the Android Market web page says "This app is compatible with all of your devices", even though this is not true.  Thus, I wasted $10.  Hopefully, they will upgrade the app to ICS.
+Would not allow refund 2 minutes after purchase, nor would the app fiction without license
+Just wasted my money, why don't they have a trial version and upgrade to the license product when the trial expires. Opted for a refund still waiting.
+Does not work with my Verizon DX! Tried contacting the developer numerous times before the refund deadline regarding this in an attempt to obtain a refund, developer will NOT respond and refund deadline has passed and still no response. Buyer BEWARE!!
+after u paid for it, it doesn't let you to download from the market.  I am always getting "Download of vnc viwer declined error" when i try to download it!!!
+Our observations about Real VNC Viewer... - Cumbersome to use - mouse does not track screen touch - Few configuration options for client - Wnd users would find it very difficult to use - Not an enterprise class application! We expected the android version to work as well as the windows version. ? Why does the windows version work so much better than the android version? 15 min for refund is too short - I could not download, install, & configure app in 15 minutes.
+This is an excellent app for my Android tablet and allows me to remotely access my home PC using the RealVNC server-side component. Trevor
+It says I got no valid license even though I bought it legitimately and installed it correctly.
+Download declined. No explanation. Does not show up on other devices
+The interface for this is much better than the free alternatives. Controls are intuitive and easy to use. Overall, works great. If you are connecting to the VMWare VNC server, keypresses on the virtual keyboard are parsed incorrectly for special characters (!, @, #, etc. are translated as 1, 2, 3, etc unless you hit Shift first). Although this is probably a fault in the VMWare server, computer-based clients work. Real will not address this on the client side since the server isn't their software.
+Persistent menu at the top of the screen is intrusive and makes using this app annoying every time.
+Keyboard keeps repeating characters, every input seems to copy all the previous text like tththithis. on nexus 7 connected to windows 7. Please fix, really good aside from that
+Yes you have to have the vnc server software on computer.  portrait view use to work 2 weeks ago.  also it became unstable with latest updates.  i will change stars when fixed
+Good when it works but keeps reporting it's an unlicensed copy. This is really frustrating when you have paid good money and you need to use it. Pick up your game RealVNC some of us need a professional tool.
+I would love to use direct input. Real VNC doesn't offer this. I started using PocketCloud and it works much better. The unbelievable thing is that they encourage users to recommend changes and they actually listen to users.
+Too expensive for what it is. No option to invert or change the way a screen is panned. The only reason to purchase is for the ability to connect to encrypted vnc hosts.
+Does not work well on 3G systems.
+I have used VNC for years on PCs. Just as good on Android HTC Incredible. GREAT JOB!
+Interface is very convenient and easy to use. Out of the 3 VNC clients I've tried, I prefer this one. Using on a Honeycomb tablet.
+I have lowered my rating as there is no bt or use mouse support. Android 3.0 or greater has native mouse support and so should this relatively expensive program.
+Works pretty much as it should. 1 have is with typing in a text field on my computer, the keyboard on phone disappears after each character typed when landscape
+I have an ASUS Transformer ICS 4 and the latest VNC update crashes when you try to run it.  Previous version worked.  New update has fixed the problem.
+Worth every penny.
+Only once could I get this to work on the internet. This same program on a computer works well. As long as I don't leave the house, it works fine.
+No usb input support, but good otherwise.  I like how the UI changes depending on the device, it keeps things functional on either a phone or tablet.
+Sh1t
+Works well but why is the dsktp viewer free & this exorbitantly expensive? I could see a dollar or two to support dev but 10 dollars!? Insulting.
+Not compatible with UltraVNC, when password protected. Nowhere to enter user/pwd.
+Has crazy mouse movements and bad scaling. But it gets the job done.
+Compare to vnc on iPhone & iPad
+Does not yet work with remote management on OS X Lion
+Very pleased with this. Worked the first time and has been flawless. Highly recommended.
+This is an excellent app for my Android tablet and allows me to remotely access my home PC using the RealVNC server-side component. Trevor
+Is missing several features that are needed however is better than some of the other clients available.
+not compatible with ultraVNC, so it's useless to me
+The interface for this is much better than the free alternatives. Controls are intuitive and easy to use. Overall, works great. If you are connecting to the VMWare VNC server, keypresses on the virtual keyboard are parsed incorrectly for special characters (!, @, #, etc. are translated as 1, 2, 3, etc unless you hit Shift first). Although this is probably a fault in the VMWare server, computer-based clients work. Real will not address this on the client side since the server isn't their software.
+Latest update force closes upon launch please fix!
+I really liked the middle&right button functionality but ctrl key is not working for my folio keyboard (it does work in JumpVNC, which has nicer graphics as well)... refunding....
+Apparently there's something to be said for rolling out useless code and infuriating your users, because RealVNC do it every time they push an update.
+Five stars if I could save my username and password.
+I'd give it a 5 if it still had the portrait-view keyboard.
+Great tool for accessing your remote PC using RealVNC server. Simple and easy to use. It works quite well over a 3G connection and even better on Wi-Fi. Zoom in and out by pinching the screen. VNC has a keyboard and mouse button controls that make it easier to move around your remote PC on a small mobile device.
+This allows me to keep an eye on crucial process equipment during sensitive operational procedures.
+Tablets are great for checking in on a headless server
+I've bought and used Real VNC for years on my computers.   When I got my iPad 1, I bought and use the Real VNC app.  Wonderful.  I don't know why, but I got cheap when I got my Android phone and, for almost a year used the top free VNC app.  I thought, "On such a small screen this is fine."  Well, today I finally went for the big bucks and installed Real VNC.  How foolish I was to wait.  Instantly I experienced the difference. Highly recommended.
+Good app. One thing is needed to have 5 stars - ssh tunneling like Remotix allows.
+Really nice for occasional access to my servers.  Works great on bionic
+Only one I could find that worked.
+the app is very useful. please add more controls from host, such as full screen panning; clipboard share, drag n drop, etc
+Works well but everytime the pc reboots it gets a different IP address and I have to edit VNCs connection to log on.
+Swiftkey use in VNC stops typing with EVERY character! Please fix, then it's a 5/5!
+Quirks perfectly but really expensive. Also would be good to share my address books between all my devices.
+needs better mouse cont
+generally very good, it has a few features that are missing from the desktop version, and would have gotten 5 starts had it worked with the Asus transformer's mouse!
+good product but needs a larger screen than a mobile would suggest a tablet is the best device
+There is no way I would ever use a free VNC. App, as it could steal your password  So paid 10 bucks for this one Connects OK  If nothing else
+This is a great production!  It functions much better tthan RDP protocol applications.  The price is a little steep hence the 4 stars.  I paid for my two server licenses.
+Though it doesn't have ANY options or support for external keyboard/mouse. Needs work but still better than any others and worth the price.
+Vety good app
+My only wish is that I could transfer files with it
+Works very well and is quite robust.
+The only vnc app I could find on the market that allows for connection to multiple x sessions, via setting :screen number after address.
+I dont think there's much room for improvement.
+Have been using Screen Recycler with RealVNC for a few months on a Motorolla Xoom. A little slow, but at least worked. New version has much better compression support (and possibly Honeycomb tweaks) and this makes such a *huge* difference. Now much, much more usable as a portable second monitor.
+Good VNC client. Would be nice to have full screen mode : the status bar on top takes too much scfeen real estate. Also mouse scroll could be smoother
+Good enough to dump the mouse and keyboard in my living room. I also bought this for IOS, which has surprisingly better text input than for my DHD.
+I just wish there were a "zoom" option other than multitouch for us non multitouch users. Maybe a overlay button with + / -...just a thought.
+Make the disconnect confirmation an option. On a phone the probability of accidentally hitting menu > disconnect is pretty low. It just slows me down.
+Topp app!
+Great tool for those advanced users! :-) Any file transfer possible?
+Works greater than you can want it
+I think the VNC viewer is wonderful.  I cannot think of anything I'd change.  I use this on my Android & Windows 7 computers.  Thanks for a stunning application.  Keep up the great work...
+Easy to use, fast, smooth remote desktop connection. I've had no problems on my Galaxy S III over Wifi and 3G. So much better than LogMeIn. Thanks guys!
+Works really well
+And to the user talking about no landscape mode, you're incorrect, landscape works just fine.
+Works similarly well as their desktop code does. The two things I miss on the mobile are 1. Can't hold both mouse keys down and drag, and 2. the "listening mode" (usually at port 5500).
+Nuf said
+This us by far the best vnc client I've used on DROID.....ATRIX 4g on 2.3.6 NottachTrix
+So to those of you having problems ..... let me remind you .... you're running this on Android after all .... so what exactly did you expect .....!????
+I've tried a lot of VNC apps, and this is my favorite. And landscape works fine for me on my Nexus 7.
+I've tried a lot of VNC apps, and this is my favorite. And landscape works fine for me on my Nexus 7.
+Awesome
+I use VNC all the time and it's a life saver. Always works when I need it the most. AWESOME app!
+Just perfect
+Just perfect
+Works fast! Only wish it had full touch option.
+Well done.
+Works well, fast and reliable. Easy to setup.
+EXCELLENT....Works great
+Would love folders to organize the many connections i have. Best remote access by far.
+I'm linux user, so VNC is the best way - works smoothly ;)
+I'm linux user, so VNC is the best way - works smoothly ;)
+Works great.  Add the the Transformer Prime keyboard and you can't beat it.
+Works perfectly on sgs2 and Galaxy Tab2
+Works well on galaxy s2. Have used for a number of years on iPhone and Android and on the whole very good.
+Works well on galaxy s2. Have used for a number of years on iPhone and Android and on the whole very good.
+So easy to use and very compatible!
+Five stars if I could save my username and password.
+I use VNC from anywhere! Perfect app.
+And, it works well!
+Only good words for it as it WORKS
+Very usefull tool. I will never leave home without it.
+this is the best vnc viewer app
+this is the best vnc viewer app
+There is no refund or good instructions on how to connect yo my PC... I have a fancy $10 logo in my app drawer which is completely useless. Do I have to download software on my computer or what?!?!  Please help.
+Excelente
+Very smart app. Very effitient. Although, I have difficulty configuring 3g access
+Now just give us an Android server to match.
+By far!
+I've tried almost all of the android remote apps, and this is the best!
+Used vnc for decades, multiple platforms, multiple connections. Always done what it has said, always done what's needed.
+A superlative VNC client.
+Using g tab 10.1 great interface and options for scaling or fullsize
+I use this app often and it is very effective. Samsung Note.
+Highly recommend the RealVNC Viewer app. Very easy remote control of your PC, with access to special key combinations and very intuitive mouse cursor control. The only issue I have come across on the Samsung Galaxy Note is that the keyboard input is garbled when using the S-pen *EDIT* This issue has resolved itself after upgrading my Note to ICS. S-pen is great for fine mouse control! Have connected to Windows 7, XP and Ubuntu successfully.
+I tried several VNC client for critical professional work, and for now, this is the only one that satisfies me. I needed right clic and other precise controls.
+Tablets are great for checking in on a headless server
+Not sure how I tolerated not having this
+Not sure how I tolerated not having this
+Worth every penny.
+The best remote desktop application period. I've used them all. Connection never drops! Works flawlessly with Fedora 16
+this app is a must have for anyone who has a system running a VNC server
+Great!
+I am using every day. its very good remote soft. thanks a lot.
+Great!
+I've bought and used Real VNC for years on my computers.   When I got my iPad 1, I bought and use the Real VNC app.  Wonderful.  I don't know why, but I got cheap when I got my Android phone and, for almost a year used the top free VNC app.  I thought, "On such a small screen this is fine."  Well, today I finally went for the big bucks and installed Real VNC.  How foolish I was to wait.  Instantly I experienced the difference. Highly recommended.
+Last Night I noticed this App updated and I am now able to use it and it works better than my iphone ever did. Thank you for your prompt reply to my email and for such a great app.
+Dev team got on it within hours after making a bad update.  Thanks...app is great and very useful.
+Latest update gives me FC, HTC Sensation ics: prob fixed after the new update!
+One of the best VNC clients available on Android
+Best vnc on the market. Fast, secure and always reliable. Have been using it for over a year.
+Best vnc on the market. Fast, secure and always reliable. Have been using it for over a year.
+Fantastic if it would only transfer files
+Combined with chroot'ed Debian, turns my phone into a small PC. By far, the best Android VNC viewer I have tried. Worth every cent.
+Great program. Best mobile VNC app yet.
+Yay
+Works exactly as expected
+Goog
+Flawless!
+Excellent!!
+great app
+I use ot everytime
+I like the way it makes my job easier when I'm out in the field. I don't have to go to the office to fix the problem. Thank you VNC.
+Few moments ago, it happened i changed my connection and i started experiencing license error on my android device each time i try to connect, i contact the customer service, they directed at once on what needed to be done...and am back again...LONG LIVE VNC VIEWER...the BEST!!!    VNC is the best no doubt but just few moments ago...i started experiencing license error which says VNC Viewer maybe not be licensed properly. Vnc Viewer could not confirm the license status with Google...please close the app, ensure you are connected to the internet and open it again. If this fails, download and reinstall the app (you not be charged).  i have re-downloaded it over time and its still the same...URGENT HELP NEEDED!!!
+A must for me
+I'm able to view my security cameras at work this way no matter where I'm at. I'm even able to review security footage remotely. This app makes my life hella easier.
+Good app, works great...
+Worth every penny.
+Worth every penny.
+I use this as a linux input and also to operate my office computer over my wifi.  It works great for this.
+Nice clean interface. Wish it supported ssh passthru or encryption to Ubuntu vnc servers, but it gets the job done. :)
+Excellent app but needs the drivers from server enterprise to run smoothly on the phone.
+amazing results combined with gnome3 :)
+Better than the pc version
+Excellent.....just as easy as the pc version and as useful. Glad I got it.
+Works as advertised.
+Have used this app for PC and highly recommend it for mobile as well.
+I was already using Real VNC before I got my Transformer TF101 and was pleased to get the Android version. It worked well on Honeycomb and still is since I upgraded to ICS. I recommend this software.
+No doubt, the best remote connection software available. Secure, fast, easy and multi-platform.
+Working for dual core phone
+...
+Allows me to access my work machine from any where in the world. Works great. Top stuff
+I paid money for this app so dang right it is good.
+It supports 2560x1440 too!
+I use it to connect a  Number of time q dy and it just works- only downside, there is no copy and paste function....
+Best ui implementation. Best mouse implemntation as well. Totally worth the price of admission!
+Beats all other contenders. Best remote control software to date. Very fast. Tried a couple of systems for linux->android and this is the best!
+Expensive but by far the best VNC client for controlling large screen devices from your small screen handheld, mouse control is unique  but excellent
+needs better mouse cont
+Quick, good use, good tools
+Works excellent on Galaxy Note! Lets move pointer without covering it by fingers.
+Wish the keyboard automatically came up when I click a text box like it does on the iPhone
+Best one I've used.
+Great app .. no issues whatsoever .. access to my home computer anywhere allows me to have my own "cloud" network
+Use it all the time to connect to many machines.
+Works well, best remote vnc app.
+Excellent VNC
+Well thought out app. On my Xoom it performs beautifully. I like the approach for handling the cursor and view port when zoomed in.
+Very useful tool for the business person on the move!
+Simply works.  Nice, polished interface.  When used with my Iconia A500 (full size USB port) and an external keyboard and mouse it's like sitting at the computer.  I install remote testing equipment and this program along with an Enterprise Edition Realvnc server installed in the field gives me full control of the equipment though I may be sitting on the beach in Hawaii (haven't really gotten to the beach part yet, though!).
+Enables me to control a biomass boiler from anywhere in the world!! Fantastic
+Have used for a while now alongside PocketCloud.  Easy to use, stable and affordable.  Like the enhanced encryption with Enterprise edition (on top of VPN) which PocketCloud does not offer.
+Have used for a while now alongside PocketCloud.  Easy to use, stable and affordable.  Like the enhanced encryption with Enterprise edition (on top of VPN) which PocketCloud does not offer.
+If you've looked for vnc rather than stumbled on this, you know what you're after and this is it. I love this app. Really could not do without it.
+works perfect on ICS with the last update! Thank you! Great support and great app! Using Galaxy Nexus Windows 7 32bit and 64bit.
+Smart, simple and no crash.
+Works really well!
+Back to 5 stars for ICS fix!
+Best! I use this all the time to connect to my clients.
+Great utility for remote control of my home server from my Android tablet and phone.
+This app does not work at all on Galaxy Nexus, probably because it doesn't work on ICS.  The information displays run off the edge of the screen, and there is no way to scroll them.  Thus, there is no way to set up the information needed to Connect.  Unfortunately, the Android Market web page says "This app is compatible with all of your devices", even though this is not true.  Thus, I wasted $10.  Hopefully, they will upgrade the app to ICS.
+Handling 10+ computers over wifi and 3g and it works perfect
+Easy to use. First class app !
+Good job
+I have been using the desktop version of RealVNC for years. The Android version continues the stellar performance. Thanks to the team!!!
+I live using this program. works great to remotely control all of my computers from anywhere! Easy to use and has tons of great features
+When I get blocked by corporate firewalls, I can always use my phone in an emergency now. Worth every penny.
+He utilizado casi todos los clientes vnc de android y sin duda este es el que mas me gusta.
+The secure option rocks, very pleased
+Extremely useful for remote access to Windows desktops, especially on a tablet. Use Hacker's Keyboard in conjunction.
+Great app.  Integrates nicely with my fixed systems.
+Does exactly what it says on the tin, plus more.
+I use this app all the time and it saves me a lot of time between multiple computers.
+I use this app all the time and it saves me a lot of time between multiple computers.
+Real VNC Viewer Excellent for remote access, stable and the touchpad screen works across three models of tablets.
+I am using it gor
+I am using it gor
+I use the VNC to see my BAS from work, can see everywhere anytime, keep up the good work guys thanks !!!
+I love this software.  Does everything the PC version does.  Definitely a class act.
+love it
+love it
+Want the best then download from the creators themselves. Perfect app in every way.
+Works great and easy to use Is almost as easy to use as the  desktop version
+Works great and easy to use Is almost as easy to use as the  desktop version
+Works great and easy to use Is almost as easy to use as the  desktop version
+The best remote control app, period!
+The best remote control app, period!
+Works as promised. Allows to telework from android pad that doesnt support vpn
+We use RealVNC enterprise to do remote support on our servers. It's super convenient to work on them from my phone. No computer necessary.
+Great program and very useful! Great and easy to use alhough i would like a function to move windows as i have 2screens
+Great program and very useful! Great and easy to use alhough i would like a function to move windows as i have 2screens
+I will use this app for years.
+I will use this app for years.
+S
+Hasn't yet been updated for Lion, but I really blame Apple for breaking the standards for VNC.
+Very easy to set up
+Nice and smooth even on EDGE network... Great app.. Like it soooooo much!!!!
+Love this app no lost connections fast and responsive.
+Love this app no lost connections fast and responsive.
+Really cool app for remotely accessing my PC. I have the enterprise vnc on my pc, which allows secure vnc connections.
+I've used vnc for years and its the only one I will use due to its functionality and stability. Highly recommended and worth the price.
+Helps with my job 100%
+Works easily. Great app.
+, works great!
+Works like a "Real" vnc app should.
+Works like a "Real" vnc app should.
+Great application working exelent on my galaxy tab 7. An also run fast using my 3g internet. . Pokoke apik rek. . .
+i like it a lot
+Excellent app. Would recommend to anyone.
+Works perfect. Well worth it.
+Best cross platform remote control. Can access PCB or Mac from my android. Would not do without it.
+Very pleased with this. Worked the first time and has been flawless. Highly recommended.
+Like a champ! Thanks guys
+I dont think there's much room for improvement.
+I dont think there's much room for improvement.
+Great! encrypted remote control of PC by Android. But needs file transfer to and from desktop. Where is RealVNC software for control of Android by PC?
+Our observations about Real VNC Viewer... - Cumbersome to use - mouse does not track screen touch - Few configuration options for client - Wnd users would find it very difficult to use - Not an enterprise class application! We expected the android version to work as well as the windows version. ? Why does the windows version work so much better than the android version? 15 min for refund is too short - I could not download, install, & configure app in 15 minutes.
+This is an excellent app for my Android tablet and allows me to remotely access my home PC using the RealVNC server-side component. Trevor
+Sorry for my previous post early of this week. The "Couldn't install on USB storage or SD card" installation error was due to the existence of "/mnt/secure/asec/smdl2tmp1.asec" which should have been deleted before VNC Viewer installation was done but was there for some unknown reason. After that file was deleted using 'adb', VNC Viewer is installed successfully and works great!
+I've downloaded and tried several VNC clients and this is the only one that is, ultimately, perfect.
+I've downloaded and tried several VNC clients and this is the only one that is, ultimately, perfect.
+As with other RealVNC products, in my experience this just works. No messing around, no hassle. It gets right to the point and does what I need it to do. Tested against RealVNC Personal Edition server across WLAN.
+As with other RealVNC products, in my experience this just works. No messing around, no hassle. It gets right to the point and does what I need it to do. Tested against RealVNC Personal Edition server across WLAN.
+Zeer snel op honeycomb 3.1 makkelijk te bedienen,zeker met toetsen onder in beeld .
+Zeer snel op honeycomb 3.1 makkelijk te bedienen,zeker met toetsen onder in beeld .
+Is missing several features that are needed however is better than some of the other clients available.
+Expensive but if your looking for a VNC app for more than just a fun gimmick it is the best on the market at the moment.
+Wicked app. Works really well and responsiveness is awesome. Pleasure running it. Worth the money.
+Wicked app. Works really well and responsiveness is awesome. Pleasure running it. Worth the money.
+Wicked app. Works really well and responsiveness is awesome. Pleasure running it. Worth the money.
+Great app. Only one that I've found to work with RealVNC Enterprise. The interface is the best of all I have tried as well. Works great! 5 stars.
+Great app. Only one that I've found to work with RealVNC Enterprise. The interface is the best of all I have tried as well. Works great! 5 stars.
+I have used VNC for years on PCs. Just as good on Android HTC Incredible. GREAT JOB!
+I have used VNC for years on PCs. Just as good on Android HTC Incredible. GREAT JOB!
+I have used VNC for years on PCs. Just as good on Android HTC Incredible. GREAT JOB!
+I have used VNC for years on PCs. Just as good on Android HTC Incredible. GREAT JOB!
+For many years I used VNC Viewer. I'm happy that I can use the phone with this excellent program.
+Have been using Screen Recycler with RealVNC for a few months on a Motorolla Xoom. A little slow, but at least worked. New version has much better compression support (and possibly Honeycomb tweaks) and this makes such a *huge* difference. Now much, much more usable as a portable second monitor.
+Have been using Screen Recycler with RealVNC for a few months on a Motorolla Xoom. A little slow, but at least worked. New version has much better compression support (and possibly Honeycomb tweaks) and this makes such a *huge* difference. Now much, much more usable as a portable second monitor.
+Good VNC client. Would be nice to have full screen mode : the status bar on top takes too much scfeen real estate. Also mouse scroll could be smoother
+Good VNC client. Would be nice to have full screen mode : the status bar on top takes too much scfeen real estate. Also mouse scroll could be smoother
+Good VNC client. Would be nice to have full screen mode : the status bar on top takes too much scfeen real estate. Also mouse scroll could be smoother
+Probably the best VNC viewer I've tried, however.. Probably the best VNC viewer I've tried, however the pricing is too steep for my taste. Could have done with Windows RDP support as well. Hoping for a price reduction soon else I'm sticking with the free alternatives.
+Good enough to dump the mouse and keyboard in my living room. I also bought this for IOS, which has surprisingly better text input than for my DHD.
+Interface is very convenient and easy to use. Out of the 3 VNC clients I've tried, I prefer this one. Using on a Honeycomb tablet.
+I tried a couple of free vnc viewers which were buggy. This does the business with no fuss and a great interface.
+A bit slow updating the screen, even on 4G, but at least works with encryption...something I can't say about the 3rd party apps.
+Randomly stops updating screen, but compared to what else is out there its definitely 5 stars
+Need that awesome mouse pointer and arrow nav keys that are in this app, built into the android interface for clicking links and editing text.
+Really great app, a lot cheaper than the ignition software and more versatile (cross platform)!
+Works perfectly. Well worth the money. Supports encrypted connections and enables you to specify a logon name and password. Great app.
+Absolutely perfect. No crash, easy interface. I can do work from anywhere now. Droid X.
+Best VNC app for android. (Samsung Galaxy S Captivate) Worked right from the get-go.
+It worked the first time. I was finally able to connect using enterprise. Now just have to figure out how to move around successfully.
+Finally we have this VNC client for Android! Best VNC client ever! Love mouse control and responsiveness.
+with an Ubuntu desktop!
+FINALLY a VNC viewer appthat works with VNC Enterprise. Worth the cost. Who knew it would be RealVNC who would make the working app :-)
+Finally! Connects no problem to Vnc Enterprise servers using encryption and windows auth.
+I'm so glad it's finally released! Picked it up right away. Worth it if you need to connect to a RealVNC Enterprise server!

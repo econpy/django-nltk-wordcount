@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+{% load i18n %}
+{% block head_title %}
+  {% trans "Word Counter" %}
+{% endblock %}
+{% block page_title %}
+<div style="text-align: center;">
+  <div class="page-header">
+    <h1>Word Counter <small>{% trans "Android App Reviews" %} <span class="label label-success">v0.1b</span></small></h1>
+  </div>
+  <br>
+  <h4><font color="gray">Select an app from the list.&nbsp;&nbsp;Enter a word.&nbsp;&nbsp;Press <font color="blue">Count</font>.</font></h4>
+</div>
+{% endblock %}
+{% block content %}
+<div style="float: center; text-align: center;">
+  <br><br>
+  <form method="post" action="{% url count %}">
+    {% csrf_token %}
+      <div class="control-group">
+        <div class="controls">
+          <select name="corpus" id="selectError">
+            {% for text in texts %}
+              <option value="{{ forloop.counter0 }}">{{ text.name }}</option>
+            {% endfor %}
+        </div>
+        <div class="controls">
+          <input class="input-xlarge focused" id="focusedInput" type="text" name="word" value="">
+        </div>
+        <div class="controls">
+          <button class="btn btn-large btn-primary" type="submit" value="{% trans 'Count' %}">Count</button>
+        </div>
+      </div>
+  </form>
+  <br><br>
+</div>
+{% endblock %}

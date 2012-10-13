@@ -1,0 +1,68 @@
+{% load i18n %}
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" xml:lang="en-us" lang="en-us">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>{% block head_title_base %}{% if SITE_NAME %}{{ SITE_NAME }} : {% endif %}{% block head_title %}{% endblock %}{% endblock %}</title>
+    <!--[if IE]>
+      <style>
+        div {
+          zoom: 1; /* trigger hasLayout */
+        }
+      </style>
+    <![endif]-->
+    <style type="text/css">
+      body {
+        padding-top: 60px;
+        padding-bottom: 40px;
+      }
+      .sidebar-nav {
+        padding: 9px 0;
+      }
+    </style>
+    <link href="http://gplay.commondatastorage.googleapis.com/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="http://gplay.commondatastorage.googleapis.com/css/bootstrap-responsive.css" rel="stylesheet">
+    <!--[if lt IE 9]>
+      <script src="http://gplay.commondatastorage.googleapis.com/js/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="brand" href="/">words.economics.io</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li class="active">
+                <a href="/">Word Counter</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <br>
+    <div class="container">
+      <div>
+        <h2>{% block page_title %} {% endblock %}</h2>
+      </div>
+    </div>
+    <div class="fluid-container">
+      <div class="content">
+          {% block content %}
+          {% endblock %}
+      </div>
+      <div class="content">
+      </div>
+    </div>
+    <div class="footer">
+    </div>
+    {% block bottom_javascripts %}
+    {% endblock %}
+  </body>
+</html>
