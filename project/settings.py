@@ -16,7 +16,7 @@ TEMPLATE_DEBUG = False
 SERVE_MEDIA = False
 
 ADMINS = [
-    ("Matt Nicklay", "matt@econpy.org"),
+    ("Your Name", "your@email.com"),
 ]
 
 MANAGERS = ADMINS
@@ -63,7 +63,7 @@ STATIC_URL = "/s/"
 # Additional directories which hold static files
 
 # Make this unique, and don't share it with anybody.
-SECRET_KEY = "$&li378l3_8wform1%!hphxb3_#bqomk!302kplo)16j1tp)z#"
+SECRET_KEY = "$&li;laskdjflkh356456g$@%!345^^k!302kplo)16j1tp)z#"
 
 # List of callables that know how to import templates from various sources.
 TEMPLATE_LOADERS = [
@@ -76,7 +76,6 @@ MIDDLEWARE_CLASSES = [
     "django.contrib.sessions.middleware.SessionMiddleware",
     "django.contrib.auth.middleware.AuthenticationMiddleware",
     "django.middleware.csrf.CsrfViewMiddleware",
-    #"django.middleware.csrf.CsrfResponseMiddleware",
     "django.contrib.messages.middleware.MessageMiddleware",
     "debug_toolbar.middleware.DebugToolbarMiddleware",
 ]
@@ -103,11 +102,9 @@ INSTALLED_APPS = [
     "django.contrib.sessions",
     "django.contrib.sites",
     "django.contrib.humanize",
-
     # external
     "debug_toolbar",
     "staticfiles",
-
     # project
     "project",
 ]
