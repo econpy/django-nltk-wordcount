@@ -10,10 +10,14 @@ python manage.py runserver
 ```
 
 # Requirements:
-  nltk
-  django-staticfiles
-  django-debug-toolbar
 
+```bash
+nltk
+django-staticfiles
+django-debug-toolbar
+```
 
 # Tested With:
-    Django 1.3.3 & 1.4.1
+```bash
+Django 1.3.3 & 1.4.1
+```
