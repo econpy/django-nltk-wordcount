@@ -19,7 +19,7 @@ Usage
 After installing the dependencies, run the app by issuing the following commands:
 
     git clone git://github.com/econpy/django-nltk-wordcount.git
-    cd django-nltk-wordcount
+    cd django-nltk-wordcount/project
     python manage.py syncdb
     python manage.py runserver
 
