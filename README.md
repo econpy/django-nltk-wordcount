@@ -1,23 +1,29 @@
-## Django Word Count w/ Twitter Bootstrap
+Django Bootstrap NLTK Word Counter
+==================================
 
-# Install
+Sample [django](http://github.com/django/django) app that uses [nltk](http://github.com/nltk/nltk) to count the number of occurrences of a given word in a selected text file, all wrapped up with a simple [Twitter Bootstrap](http://github.com/twitter/bootstrap) layout.
 
-```bash
-git clone git://github.com/econpy/django-nltk-wordcount.git
-cd django-nltk-wordcount
-python manage.py syncdb
-python manage.py runserver
-```
+Dependencies
+------------
 
-# Requirements:
+The following libraries are dependencies:
 
-```bash
-nltk
-django-staticfiles
-django-debug-toolbar
-```
+* [django](https://github.com/django/django)
+* [nltk](https://github.com/nltk/nltk)
+* [bootstrap](https://github.com/twitter/bootstrap)
 
-# Tested With:
-```bash
-Django 1.3.3 & 1.4.1
-```
+
+Usage
+-----
+
+After installing the dependencies, run the app by issuing the following commands:
+
+    git clone git://github.com/econpy/django-nltk-wordcount.git
+    cd django-nltk-wordcount
+    python manage.py syncdb
+    python manage.py runserver
+
+Demo
+----
+
+See if a live demo of this app at [words.economics.io](http://words.economics.io).
