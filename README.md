@@ -1,7 +1,7 @@
 Django Bootstrap NLTK Word Counter
 ==================================
 
-Sample [django](http://github.com/django/django) app that uses [nltk](http://github.com/nltk/nltk) to count the number of occurrences of a given word in a selected text file, all wrapped up with a simple [Twitter Bootstrap](http://github.com/twitter/bootstrap) layout.
+Sample [Django](http://github.com/django/django) app that uses [NLTK](http://github.com/nltk/nltk) to count the number of occurrences of a given word in a selected text file, all wrapped up with a simple [Twitter Bootstrap](http://github.com/twitter/bootstrap) layout.
 
 Demo
 ----
