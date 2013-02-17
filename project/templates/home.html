@@ -21,7 +21,7 @@
         <div class="controls">
           <select name="corpus" id="selectError">
             {% for text in texts %}
-              <option value="{{ forloop.counter0 }}">{{ text.name }}</option>
+              <option value="{{ text }}">{{ text }}</option>
             {% endfor %}
         </div>
         <div class="controls">
