@@ -14,9 +14,9 @@ Dependencies
 
 The following libraries are dependencies:
 
-* [django](https://github.com/django/django)
-* [nltk](https://github.com/nltk/nltk)
-* [bootstrap](https://github.com/twitter/bootstrap)
+* [Django](https://github.com/django/django)
+* [NLTK](https://github.com/nltk/nltk)
+* [Twitter Bootstrap](https://github.com/twitter/bootstrap)
 
 
 Usage
