@@ -16,7 +16,6 @@ The following libraries are dependencies:
 
 * [Django](https://github.com/django/django) + [django-debug-toolbar](http://pypi.python.org/pypi/django-staticfiles/) + [django-staticfiles](http://pypi.python.org/pypi/django-staticfiles/)
 * [NLTK](https://github.com/nltk/nltk)
-* [Twitter Bootstrap](https://github.com/twitter/bootstrap)
 
 
 Usage
