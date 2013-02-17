@@ -6,7 +6,7 @@ Sample [Django](http://github.com/django/django) app that uses [NLTK](http://git
 Demo
 ----
 
-See if a live demo of this app at [words.economics.io](http://words.economics.io).
+Check out a live demo: [http://words.economics.io](http://words.economics.io)
 
 
 Dependencies
@@ -14,7 +14,7 @@ Dependencies
 
 The following libraries are dependencies:
 
-* [Django](https://github.com/django/django)
+* [Django](https://github.com/django/django) + [django-debug-toolbar](http://pypi.python.org/pypi/django-staticfiles/) + [django-staticfiles](http://pypi.python.org/pypi/django-staticfiles/)
 * [NLTK](https://github.com/nltk/nltk)
 * [Twitter Bootstrap](https://github.com/twitter/bootstrap)
 
